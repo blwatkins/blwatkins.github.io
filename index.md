@@ -14,6 +14,10 @@ Various visualizations of curves using the sine function
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0x3UcjEQwcE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br/>
 
+## [Movement](Movement/)
+
+A series of experiments with different kinds of movement
+
 ## [Data Structures from a New Perspective](Data-Structures-From-A-New-Perspective/)
 
 Timeline, lesson plans, assignments, and project examples for an experimental creative coding Data Structures course
