@@ -1,2 +1,3 @@
 # [blwatkins.github.io](https://blwatkins.github.io/)
-Personal Development Portfolio
+
+Software Engineer. Generative Artist. Adjunct Instructor at SMU's Center of Creative Computation.
