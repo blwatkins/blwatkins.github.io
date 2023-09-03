@@ -1,7 +1,7 @@
-# Brittni Watkins
+# brittni watkins
 
-## [About Brittni](https://blwatkins.github.io/about)
+# [About brittni](https://blwatkins.github.io/about)
 
-## Projects
+# Projects
 
-## [Twitch Stream Notes](https://blwatkins.github.io/twitch-stream-notes/)
+# [Twitch Stream Notes](https://blwatkins.github.io/twitch-stream-notes/)
