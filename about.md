@@ -1,4 +1,4 @@
-# About brittni watkins
+# about brittni watkins
 
 Hello! I’m brittni! I am a software developer and generative artist, and I absolutely love programming. I love writing code. I love refactoring code. I love fixing bugs in code even when I spend an hour looking for a rogue semi-colon.
 
