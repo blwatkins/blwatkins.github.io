@@ -1,3 +1,3 @@
 # brittni watkins
 
-# [about brittni](./about.md)
+# [welcome, from brittni](./welcome)
