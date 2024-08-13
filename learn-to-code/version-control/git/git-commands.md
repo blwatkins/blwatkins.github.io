@@ -10,6 +10,8 @@
 
 [update the list of remote branches](#update-the-list-of-remote-branches)
 
+[Fin.](#fin)
+
 ----
 
 ### install `git` with [Homebrew](../../package-managers/homebrew)
