@@ -2,4 +2,4 @@
 
 The Missing Package Manager for macOS (or Linux)
 
-## [common `brew` commands](./brew-commands)
+## [common `brew` commands](./brew-commands.md)
