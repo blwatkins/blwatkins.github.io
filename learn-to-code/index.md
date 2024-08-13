@@ -46,9 +46,9 @@
 
 # cheatsheets
 
-## [common `brew` (Homebrew) commands](./package-managers/homebrew/brew-commands.md)
+## [useful `brew` (Homebrew) commands](./package-managers/homebrew/brew-commands.md)
 
-## [common `git` commands](./version-control/git/git-commands.md)
+## [useful `git` commands](./version-control/git/git-commands.md)
 
 [table of contents](#table-of-contents)
 

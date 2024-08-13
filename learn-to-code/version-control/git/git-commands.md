@@ -1,4 +1,4 @@
-# common `git` commands
+# useful `git` commands
 
 ## additional commands coming soon!
 

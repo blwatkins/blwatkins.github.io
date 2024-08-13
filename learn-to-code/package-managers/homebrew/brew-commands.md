@@ -1,4 +1,4 @@
-# common `brew` commands
+# useful `brew` commands
 
 ----
 
@@ -54,8 +54,10 @@ it is recommended to
 [update `brew` to the latest version](#update-brew-to-the-latest-version)
 before installing a new package.
 
+replace `PACKAGE_NAME_HERE` with the name of the package to be installed.
+
 ```shell
-brew install <package_name>
+brew install PACKAGE_NAME_HERE
 ```
 
 [table of contents](#table-of-contents)
@@ -74,8 +76,10 @@ brew list
 
 ### uninstall a package
 
+replace `PACKAGE_NAME_HERE` with the name of the package to be uninstalled.
+
 ```shell
-brew uninstall <package_name>
+brew uninstall PACKAGE_NAME_HERE
 ```
 
 [table of contents](#table-of-contents)
@@ -84,8 +88,10 @@ brew uninstall <package_name>
 
 ### cleanup a package
 
+replace `PACKAGE_NAME_HERE` with the name of the package to be cleaned up.
+
 ```shell
-brew cleanup <package_name>
+brew cleanup PACKAGE_NAME_HERE
 ```
 
 [table of contents](#table-of-contents)
@@ -119,8 +125,10 @@ you may need to
 [update `brew` to the latest version](#update-brew-to-the-latest-version)
 before you can upgrade the package.
 
+replace `PACKAGE_NAME_HERE` with the name of the package to be upgraded.
+
 ```shell
-brew upgrade <package_name>
+brew upgrade PACKAGE_NAME_HERE
 ```
 
 [table of contents](#table-of-contents)
