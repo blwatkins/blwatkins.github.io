@@ -30,7 +30,7 @@
 
 # version control
 
-## [learning Git]()
+## [learning Git](./version-control/git)
 
 [table of contents](#table-of-contents)
 
@@ -47,6 +47,8 @@
 # cheatsheets
 
 ## [common `brew` (Homebrew) commands](./package-managers/homebrew/brew-commands.md)
+
+## [common `git` commands](./version-control/git/git-commands.md)
 
 [table of contents](#table-of-contents)
 

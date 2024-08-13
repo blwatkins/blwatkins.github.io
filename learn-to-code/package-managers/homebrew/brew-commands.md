@@ -50,6 +50,10 @@ brew update
 
 ### install a new package
 
+it is recommended to
+[update `brew` to the latest version](#update-brew-to-the-latest-version)
+before installing a new package.
+
 ```shell
 brew install <package_name>
 ```
@@ -110,8 +114,9 @@ brew outdated
 
 ### upgrade a package
 
-If there is a new version of `brew` available,
-you may need to [update `brew` to the latest version](#update-brew-to-the-latest-version)
+if there is a new version of `brew` available,
+you may need to
+[update `brew` to the latest version](#update-brew-to-the-latest-version)
 before you can upgrade the package.
 
 ```shell
@@ -124,8 +129,9 @@ brew upgrade <package_name>
 
 ### upgrade all packages
 
-If there is a new version of `brew` available,
-you may need to [update `brew` to the latest version](#update-brew-to-the-latest-version)
+if there is a new version of `brew` available,
+you may need to
+[update `brew` to the latest version](#update-brew-to-the-latest-version)
 before you can upgrade the packages.
 
 ```shell
