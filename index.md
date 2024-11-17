@@ -1,3 +1,7 @@
+---
+title: 'home'
+---
+
 # brittni | coding nerd
 
 Brittni is an educator, software developer, and algorithmic artist.
