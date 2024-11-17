@@ -7,8 +7,8 @@ The applications of computer programming are numerous and varied; there is space
 
 ----
 
-# [learn to code](./learn-to-code)
+## [learn to code](./learn-to-code)
 
 ---
 
-# [brittni's art (azurepolarbear)](https://azurepolarbear.github.io/)
+## [brittni's art (azurepolarbear)](https://azurepolarbear.github.io/)
