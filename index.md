@@ -12,7 +12,7 @@ and DevSecOps.
 Brittni creates algorithmic art, photography, and music under her pseudonym, **azurepolarbear**.
 You can purchase stationery and gifts featuring azurepolarbear's work in the **brittni and the polar bear | code + art boutique**, coming soon to an internet connection near you!
 
-The applications of computer programming are numerous and varied; there is space for everyone.
+***The applications of computer programming are numerous and varied; there is space for everyone.***
 
 ----
 
