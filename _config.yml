@@ -1,7 +1,5 @@
 # Minima theme configuration
-remote_theme: minima
-plugins:
-- jekyll-remote-theme
+theme: minima
 
 minima:
   skin: dark
