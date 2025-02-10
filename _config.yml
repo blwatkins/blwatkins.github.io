@@ -3,15 +3,20 @@ remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
 
+# valid social icon names can be found at https://fontawesome.com/search?ic=brands
+
 minima:
   skin: auto
   social_links:
     - title: GitHub
       icon: github
       url: "https://github.com/blwatkins"
-    - title: Jekyll at X (formerly Twitter)
+    - title: X (formerly Twitter)
       icon: x-twitter
       url: "https://x.com/books_n_code"
+    - title: Instagram
+      icon: instagram
+      url: "https://instagram.com/brittniwatkins"
 
 author:
   name: brittni | coding nerd
