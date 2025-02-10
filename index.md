@@ -17,21 +17,3 @@ The applications of computer programming are numerous and varied; there is space
 ----
 
 ## [azurepolarbear (brittni's art)](https://azurepolarbear.github.io/)
-
-----
-
-this is a test of syntax highlighting
-
-```java
-void setup() {
-
-}
-
-void draw() {
-
-}
-```
-
-```typescript
-const car: number = 45;
-```
