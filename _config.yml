@@ -2,7 +2,7 @@
 theme: minima
 
 minima:
-  skin: auto
+  skin: "dark"
 
 title: brittni - coding nerd
 description: (sher/her) i love to make awesome things with code! 💕👩🏽‍💻
