@@ -4,7 +4,7 @@ plugins:
 - jekyll-remote-theme
 
 minima:
-  skin: dark
+  skin: auto
 
 title: brittni - coding nerd
 description: (sher/her) i love to make awesome things with code! 💕👩🏽‍💻
