@@ -5,6 +5,13 @@ plugins:
 
 minima:
   skin: auto
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/blwatkins"
+    - title: Jekyll at X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/books_n_code"
 
 author:
   name: brittni | coding nerd
