@@ -1,8 +1,8 @@
 ---
-site.title: 'home'
+layout: default
+title: home
+show_title: false
 ---
-
-# brittni | coding nerd
 
 Brittni is an educator, software developer, and algorithmic artist.
 She is passionate about teaching people from all backgrounds how to code.
