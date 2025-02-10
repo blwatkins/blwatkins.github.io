@@ -6,6 +6,10 @@ plugins:
 minima:
   skin: auto
 
+author:
+  name: brittni (coding nerd)
+  email: support@brittniandthepolarbear.com
+
 title: brittni - coding nerd
 description: i love to make awesome things with code! 💕👩🏽‍💻
 show_downloads: false
