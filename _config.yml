@@ -1,8 +1,10 @@
 # Minima theme configuration
-theme: minima
+remote_theme: minima
+plugins:
+- jekyll-remote-theme
 
 minima:
-  skin: "dark"
+  skin: dark
 
 title: brittni - coding nerd
 description: (sher/her) i love to make awesome things with code! 💕👩🏽‍💻
