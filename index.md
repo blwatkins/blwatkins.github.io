@@ -1,5 +1,5 @@
 ---
-title: 'home'
+site.title: 'home'
 ---
 
 # brittni | coding nerd
