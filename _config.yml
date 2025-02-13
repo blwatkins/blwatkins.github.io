@@ -1,7 +1,7 @@
 # Minima theme configuration
 remote_theme: jekyll/minima
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 
 # valid social icon names can be found at https://fontawesome.com/search?ic=brands
 
@@ -22,5 +22,5 @@ author:
   name: brittni | coding nerd
 
 title: brittni - coding nerd
-description: i love to make awesome things with code! 💕👩🏽‍💻
+description: i love to make awesome things with code!
 show_downloads: false
