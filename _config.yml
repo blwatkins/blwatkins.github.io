@@ -23,4 +23,9 @@ author:
 
 title: brittni - coding nerd
 description: i love to make awesome things with code!
+logo: assets/images/logo.png
 show_downloads: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
