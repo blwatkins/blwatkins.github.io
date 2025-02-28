@@ -16,6 +16,14 @@ You can purchase stationery and gifts featuring azurepolarbear's work in the [br
 
 ----
 
+## posts
+
+{% for post in site.posts limit:5 %}
+<h2><a href=".{{ post.url }}">{{ post.title }}</a></h2>
+{% endfor %}
+
+----
+
 ## donate
 
 We are currently accepting donations to support our creative projects.
