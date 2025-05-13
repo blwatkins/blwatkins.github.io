@@ -1,5 +1,6 @@
 ---
 title: 'home'
+layout: home
 ---
 
 # brittni | coding nerd
@@ -18,9 +19,15 @@ You can purchase stationery and gifts featuring azurepolarbear's work in the [br
 
 ## latest post
 
-{% for post in site.posts %}
-  <h2><a href=".{{ post.url }}">{{ post.title }}</a></h2>
+<ul class="post-list">
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{% for post in site.posts limit:1 %}
+  <li>
+    <span class="post-meta">{{ post.date | date: date_format }}</span>
+    <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+  </li>
 {% endfor %}
+</ul>
 
 ----
 
@@ -28,7 +35,7 @@ You can purchase stationery and gifts featuring azurepolarbear's work in the [br
 
 We are currently accepting donations to support our creative projects.
 
-<div style="text-align: center;">
+<div>
   <p>
     <a href="https://www.buymeacoffee.com/brittniandthepolarbear"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=brittniandthepolarbear&button_colour=8828dc&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
   </p>
@@ -41,4 +48,4 @@ We are currently accepting donations to support our creative projects.
 
 ----
 
-### Fin.
+## All Posts
