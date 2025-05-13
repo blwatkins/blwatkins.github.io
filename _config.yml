@@ -2,9 +2,6 @@
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
 
 # valid social icon names can be found at https://fontawesome.com/search?ic=brands
 
