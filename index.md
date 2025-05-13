@@ -34,7 +34,7 @@ We are currently accepting donations to support our creative projects.
 
 ----
 
-## [learn to code](./learn-to-code)
+# [learn to code](./learn-to-code)
 
 Development of our tutorials is ongoing.
 
