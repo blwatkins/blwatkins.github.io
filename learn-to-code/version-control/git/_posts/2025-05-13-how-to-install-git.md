@@ -14,6 +14,10 @@ tags:
 
 We have a few options for installing Git, and those options change depending on the operating system you are using.  In this tutorial, I will walk you through the installation process for Windows and macOS.  If you are using Linux, you can find download instructions for your specific distribution on the [Git website](https://git-scm.com/downloads/linux).
 
+[Git Installation for Windows](#git-installation-for-windows)
+
+[Git Installation for macOS](#git-installation-for-macos)
+
 ----
 
 ## Git Installation for Windows
