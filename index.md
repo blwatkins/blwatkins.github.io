@@ -17,20 +17,6 @@ You can purchase stationery and gifts featuring azurepolarbear's work in the [br
 
 ----
 
-## latest post
-
-<ul class="post-list">
-{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-{% for post in site.posts limit:1 %}
-  <li>
-    <span class="post-meta">{{ post.date | date: date_format }}</span>
-    <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-  </li>
-{% endfor %}
-</ul>
-
-----
-
 ## donate
 
 We are currently accepting donations to support our creative projects.
@@ -48,4 +34,4 @@ We are currently accepting donations to support our creative projects.
 
 ----
 
-## All Posts
+# Posts
