@@ -19,6 +19,8 @@ minima:
     - title: Instagram
       icon: instagram
       url: "https://instagram.com/brittniwatkins"
+  nav_pages:
+    - index.md
 
 title: brittni - coding nerd
 description: i love to make awesome things with code!
