@@ -2,11 +2,16 @@
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
 
 # valid social icon names can be found at https://fontawesome.com/search?ic=brands
 
 minima:
   skin: auto
+  hide_site_feed_link: true
+  show_excerpts: true
   social_links:
     - title: GitHub
       icon: github
@@ -18,9 +23,6 @@ minima:
       icon: instagram
       url: "https://instagram.com/brittniwatkins"
 
-author:
-  name: brittni | coding nerd
-
 title: brittni - coding nerd
 description: i love to make awesome things with code!
 logo: assets/images/logo.png
@@ -29,3 +31,4 @@ show_downloads: false
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
