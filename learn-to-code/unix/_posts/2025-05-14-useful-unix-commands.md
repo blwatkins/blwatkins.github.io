@@ -19,6 +19,26 @@ To access a Unix shell on a Windows machine, [follow these steps to install Git 
 
 To access a Unix shell on a macOS machine, open the Terminal application. You can find the Terminal application in your `Applications` folder on your computer or by searching for "Terminal" in the Spotlight Search.
 
+This tutorial will walk you through some Unix shell commands that will be useful to know as you progress on your coding journey. This guide is not an exhaustive list.
+
+----
+
+## Table of Contents
+
+- [`pwd`](#print-working-directory)
+
+----
+
+## Commands
+
+### print working directory
+
+```shell
+pwd
+```
+
+This command will print the absolute file path of your current location in the shell. Your current location will correspond to some folder in your computer's file system.
+
 ----
 
 ## Resources and References
@@ -30,6 +50,8 @@ To access a Unix shell on a macOS machine, open the Terminal application. You ca
 [Wikipedia - Bash (Unix shell)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 [Wikipedia - Z shell](https://en.wikipedia.org/wiki/Z_shell)
+
+[explainshell](https://explainshell.com/)
 
 ----
 
