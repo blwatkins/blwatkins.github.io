@@ -108,4 +108,4 @@ Do you see a version number? If yes, congratulations! You have successfully inst
 
 ----
 
-This tutorial was last updated in Wednesday, May 14, 2025.
+This tutorial was last updated on Wednesday, May 14, 2025.
