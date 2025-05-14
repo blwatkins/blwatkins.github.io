@@ -60,3 +60,7 @@ From <span style="color: lime;">Level-2</span>, `cd ../..` will take you to <spa
 From <span style="color: red;">Level-0</span>, `cd Level-1/Level-2` will take you to <span style="color: lime;">Level-2</span>.
 
 From <span style="color: yellow;">Level-1</span>, `cd .././Level-1/Level-2/..` will take you to <span style="color: yellow;">Level-1</span>.
+
+----
+
+This tutorial was last updated on Wednesday, May 14, 2025.
