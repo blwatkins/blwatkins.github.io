@@ -71,6 +71,12 @@ When we add the `-a` flag to the `ls` command, the command will list all the fil
 
 Hidden files and folders will always have a name that begins with `.` (e.g. `.bash_profile`).
 
+```shell
+ls -al
+```
+
+When we add both the `-a` and `-l` flags to the `ls` command, the command will list all files in our working directory, including hidden files, in a long list format.
+
 ----
 
 ## resources and references
