@@ -28,6 +28,7 @@ This tutorial will walk you through some Unix shell commands that will be useful
 - [`pwd`](#print-working-directory)
 - [`whoami`](#print-your-username)
 - [`ls`](#list-the-directory-contents)
+- [`clear`](#clear-the-shell-window)
 
 ----
 
@@ -39,7 +40,7 @@ This tutorial will walk you through some Unix shell commands that will be useful
 pwd
 ```
 
-This command prints the absolute file path of your current location in the shell. Your current location will correspond to some folder in your computer's file system.
+The `pwd` command prints the absolute file path of your current location in the shell. Your current location will correspond to some folder in your computer's file system.
 
 ### print your username
 
@@ -47,7 +48,7 @@ This command prints the absolute file path of your current location in the shell
 whoami
 ```
 
-This command prints your username. This can be useful to check your username when you are connected to a remote server.
+The `whoami` command prints your username. This can be useful to check your username when you are connected to a remote server.
 
 ### list the directory contents
 
@@ -55,7 +56,7 @@ This command prints your username. This can be useful to check your username whe
 ls
 ```
 
-This command prints all the visible files and folders in our working directory.
+The `ls` command prints all the visible files and folders in our working directory.
 
 ```shell
 ls -l
@@ -82,6 +83,14 @@ ls DIRECTORY_PATH_HERE
 ```
 
 We can use the `ls` command to print the contents of a different directory by providing the absolute or relative path to the directory.
+
+### clear the shell window
+
+```shell
+clear
+```
+
+The `clear` command will clear the shell window.
 
 ----
 
