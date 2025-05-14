@@ -36,6 +36,8 @@ We are currently accepting donations to support our creative projects.
 
 # [learn to code](./learn-to-code)
 
+## > [Unix](./learn-to-code/unix)
+
 ## > [Git](./learn-to-code/version-control/git)
 
 Development of our tutorials is ongoing.
