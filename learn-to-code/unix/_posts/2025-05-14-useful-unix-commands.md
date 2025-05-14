@@ -85,6 +85,8 @@ ls DIRECTORY_PATH_HERE
 
 We can use the `ls` command to print the contents of a different directory by providing the absolute or relative path to the directory.
 
+<!-- TODO - add links to relative and absolute path post -->
+
 ### clear the shell window
 
 ```shell
@@ -100,6 +102,8 @@ cd DIRECTORY_PATH_HERE
 ```
 
 <!-- TODO - add cd explanation -->
+
+<!-- TODO - add links to relative and absolute path post -->
 
 ----
 

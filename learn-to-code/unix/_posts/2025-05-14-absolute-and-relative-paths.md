@@ -45,6 +45,8 @@ If you do not know the location of your home directory, you can print it using t
 echo $HOME
 ```
 
+<!-- add link to useful unix commands post -->
+
 ### `cd` with relative paths
 
 In a Unix shell, you can use the `cd` command to change your working directory. Let's say we have three directories: <span style="color: red;">Level-0</span>/<span style="color: yellow;">Level-1</span>/<span style="color: lime;">Level-2</span>.
@@ -60,6 +62,8 @@ From <span style="color: lime;">Level-2</span>, `cd ../..` will take you to <spa
 From <span style="color: red;">Level-0</span>, `cd Level-1/Level-2` will take you to <span style="color: lime;">Level-2</span>.
 
 From <span style="color: yellow;">Level-1</span>, `cd .././Level-1/Level-2/..` will take you to <span style="color: yellow;">Level-1</span>.
+
+<!-- add link to useful unix commands post -->
 
 ----
 
