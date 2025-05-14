@@ -15,7 +15,7 @@ A command line interface (CLI) is a text-based interface where you can input com
 
 There are many Unix shell programs available to developers, including [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) and [Z shell](https://en.wikipedia.org/wiki/Z_shell).
 
-To access a Unix shell on a Windows machine, [follow these steps to install Git and GitBash]({% post_url learn-to-code/version-control/git/2025-05-13-how-to-install-git %}). GitBash will be your Unix shell CLI application.
+To access a Unix shell on a Windows machine, [follow these steps to install Git and GitBash]({% post_url learn-to-code/version-control/git/2025-05-13-how-to-install-git %}). GitBash will be your Unix shell application.
 
 To access a Unix shell on a macOS machine, open the Terminal application. You can find the Terminal application in your `Applications` folder on your computer or by searching for "Terminal" in the Spotlight Search.
 

@@ -23,7 +23,7 @@ On Unix-like systems, absolute paths begin with `/` (e.g. `/Users/username/`).
 
 On Windows systems, absolute paths begin with the drive name (e.g. `C:/Users/username/`).
 
-In a Unix shell CLI (command line interface), you print the absolute path of your working directory with the `pwd` command.
+In a Unix shell, you print the absolute path of your working directory with the `pwd` command.
 
 I rarely recommend using absolute paths in any situation.  The absolute path to a file on one machine will likely be very different from the path on a different machine, which could lead to errors, crashes, and unexpected behaviors in your program.
 
@@ -39,7 +39,7 @@ Certain characters in relative paths can be use to indicate different directorie
 
 `~` is used to indicate your `$HOME` directory.
 
-If you do not know the location of your home directory, you can print it using the `echo` command in a Unix shell CLI.
+If you do not know the location of your home directory, you can print it using the `echo` command in a Unix shell.
 
 ```shell
 echo $HOME
@@ -47,7 +47,7 @@ echo $HOME
 
 ### `cd` with relative paths
 
-Let's say we have three directories: <span style="color: red;">Level-0</span>/<span style="color: yellow;">Level-1</span>/<span style="color: lime;">Level-2</span>.
+In a Unix shell, you can use the `cd` command to change your working directory. Let's say we have three directories: <span style="color: red;">Level-0</span>/<span style="color: yellow;">Level-1</span>/<span style="color: lime;">Level-2</span>.
 
 From <span style="color: red;">Level-0</span>, `cd Level-1` will take you to <span style="color: yellow;">Level-1</span>.
 
