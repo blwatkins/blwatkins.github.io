@@ -5,7 +5,7 @@ layout: page
 
 Git is a verion control software that allows us to save and restore different versions of our files at various points. It is a powerful tool that allows us to track changes, collaborate with others, and manage our codebase effectively.
 
-## Tutorials
+## Tutorials and Guides
 
 ### [How to Install Git]({% post_url learn-to-code/version-control/git/2025-05-13-how-to-install-git %})
 
