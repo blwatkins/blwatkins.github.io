@@ -77,6 +77,12 @@ ls -al
 
 When we add both the `-a` and `-l` flags to the `ls` command, the command will list all files in our working directory, including hidden files, in a long list format.
 
+```shell
+ls DIRECTORY_PATH_HERE
+```
+
+We can use the `ls` command to print the contents of a different directory by providing the absolute or relative path to the directory.
+
 ----
 
 ## resources and references
