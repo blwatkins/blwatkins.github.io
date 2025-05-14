@@ -26,6 +26,8 @@ This tutorial will walk you through some Unix shell commands that will be useful
 ## table of contents
 
 - [`pwd`](#print-working-directory)
+- [`whoami`](#print-your-username)
+- [`ls`](#list-the-directory-contents)
 
 ----
 
@@ -37,7 +39,37 @@ This tutorial will walk you through some Unix shell commands that will be useful
 pwd
 ```
 
-This command will print the absolute file path of your current location in the shell. Your current location will correspond to some folder in your computer's file system.
+This command prints the absolute file path of your current location in the shell. Your current location will correspond to some folder in your computer's file system.
+
+### print your username
+
+```shell
+whoami
+```
+
+This command prints your username. This can be useful to check your username when you are connected to a remote server.
+
+### list the directory contents
+
+```shell
+ls
+```
+
+This command prints all the visible files and folders in our working directory.
+
+```shell
+ls -l
+```
+
+When we add the `-l` flag to the `ls` command, the visible files and folders will be printed in a long list format.
+
+```shell
+ls -a
+```
+
+When we add the `-a` flag to the `ls` command, the command will list all the files and folders in our working directory, including hidden files and folders.
+
+Hidden files and folders will always have a name that begins with `.` (e.g. `.bash_profile`).
 
 ----
 
