@@ -29,6 +29,7 @@ This tutorial will walk you through some Unix shell commands that will be useful
 - [`whoami`](#print-your-username)
 - [`ls`](#list-the-directory-contents)
 - [`clear`](#clear-the-shell-window)
+- [`cd`](#change-the-working-directory)
 
 ----
 
@@ -91,6 +92,14 @@ clear
 ```
 
 The `clear` command will clear the shell window.
+
+### change the working directory
+
+```shell
+cd DIRECTORY_PATH_HERE
+```
+
+<!-- TODO - add cd explanation -->
 
 ----
 
