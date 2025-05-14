@@ -23,7 +23,7 @@ This tutorial will walk you through some Unix shell commands that will be useful
 
 ----
 
-## Table of Contents
+## table of contents
 
 - [`pwd`](#print-working-directory)
 
@@ -41,7 +41,7 @@ This command will print the absolute file path of your current location in the s
 
 ----
 
-## Resources and References
+## resources and references
 
 [AWS - What is a CLI?](https://aws.amazon.com/what-is/cli/)
 

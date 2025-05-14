@@ -9,7 +9,7 @@ There are many Unix shell programs available to developers, including [Bash](htt
 
 ----
 
-## Resources and References
+## resources and references
 
 [AWS - What is a CLI?](https://aws.amazon.com/what-is/cli/)
 

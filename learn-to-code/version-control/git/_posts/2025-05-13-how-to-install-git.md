@@ -14,27 +14,27 @@ tags:
 
 We have a few options for installing Git, and those options change depending on the operating system you are using.  In this tutorial, I will walk you through the installation process for Windows and macOS.  If you are using Linux, you can find download instructions for your specific distribution on the [Git website](https://git-scm.com/downloads/linux).
 
-[Git Installation for Windows](#git-installation-for-windows)
+[git installation for windows](#git-installation-for-windows)
 
-[Git Installation for macOS](#git-installation-for-macos)
+[git installation for macOS](#git-installation-for-macos)
 
 ----
 
-## Git Installation for Windows
+## git installation for windows
 
 You can find the official Git installation instructions for Windows on the [Git website](https://git-scm.com/downloads/win).
 
-### > Step 1
+### > step 1
 
 Download Git from the [Git website](https://git-scm.com/downloads/win).
 
-### > Step 2
+### > step 2
 
 Follow all instructions and prompts in the installation program.  Be sure to opt-in to installing the GitBash application. 
 
 Windows does not come with a Unix shell command line interface (CLI) by default.  Installing GitBash will allow us to navigate through our operating system using common Unix shell commands that we would use with macOS or Linux machines.
 
-### > Step 3
+### > step 3
 
 Let's make sure the installation was successful.
 
@@ -50,17 +50,17 @@ Do you see a version number? If yes, congratulations! You have successfully inst
 
 ----
 
-## Git Installation for macOS
+## git installation for macOS
 
 You can find the official Git installation instructions for macOS on the [Git website](https://git-scm.com/downloads/mac).  This tutorial will walk through the steps to install Git using [Homebrew](https://brew.sh/).
 
-### > Step 1
+### > step 1
 
 [Homebrew](https://brew.sh/) is a popular package manager used for managing software and package dependencies on macOS.
 
 Find and open the Terminal application on your computer, then follow the steps on the [Homebrew website](https://brew.sh/) to install Homebrew.
 
-### > Step 2
+### > step 2
 
 Let's make sure the Homebrew installation was successful.
 
@@ -74,7 +74,7 @@ brew --version
 
 Do you see a version number? If yes, congratulations! You have successfully installed Homebrew!
 
-### > Step 3
+### > step 3
 
 In the Terminal application, type and execute the following:
 
@@ -82,7 +82,7 @@ In the Terminal application, type and execute the following:
 brew install git
 ```
 
-### > Step 4
+### > step 4
 
 Let's make sure the Git installation was successful.
 
@@ -96,7 +96,7 @@ Do you see a version number? If yes, congratulations! You have successfully inst
 
 ----
 
-### Resources and References
+### resources and references
 
 [Git](https://git-scm.com/)
 

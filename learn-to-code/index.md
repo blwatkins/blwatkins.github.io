@@ -5,6 +5,6 @@ layout: page
 
 ### What would you like to learn today?
 
-## [Unix](./unix)
+## [unix](./unix)
 
-## [Git](./version-control/git)
+## [git](./version-control/git)
