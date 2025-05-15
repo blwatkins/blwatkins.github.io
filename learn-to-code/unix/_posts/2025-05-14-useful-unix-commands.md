@@ -13,29 +13,34 @@ tags:
 
 A command line interface (CLI) is a text-based interface where you can input commands that interact with a computer’s operating system. A Unix shell provides a command line user interface for Unix-like operating systems.  The shell is both an interactive command language and a scripting language, and is used by the operating sustem to control the execution of the system using shell scripts.
 
-There are many Unix shell programs available to developers, including [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) and [Z shell](https://en.wikipedia.org/wiki/Z_shell).
-
-To access a Unix shell on a Windows machine, [follow these steps to install Git and GitBash]({% post_url learn-to-code/version-control/git/2025-05-13-how-to-install-git %}). GitBash will be your Unix shell application.
-
-To access a Unix shell on a macOS machine, open the Terminal application. You can find the Terminal application in your `Applications` folder on your computer or by searching for "Terminal" in the Spotlight Search.
-
 This tutorial will walk you through some Unix shell commands that will be useful to know as you progress on your coding journey. This guide is not an exhaustive list.
 
 ----
 
 ## table of contents
 
+[how to execute a unix shell command](#how-to-execute-a-unix-shell-command)
+
+[commands](#commands)
 - [`pwd`](#print-working-directory)
 - [`whoami`](#print-your-username)
 - [`ls`](#list-the-directory-contents)
 - [`clear`](#clear-the-shell-window)
 - [`cd`](#change-the-working-directory)
 
+[unix shell shortcuts](#unix-shell-shortcuts)
+
 ----
 
 ## how to execute a unix shell command
 
-<!-- TODO -->
+A Unix shell command can be executed through a CLI application running a Unix shell instance, or it can be executed as part of a Unix shell script.
+
+There are many Unix shell programs available to developers, including [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) and [Z shell](https://en.wikipedia.org/wiki/Z_shell). To access a Unix shell on a Windows machine, [follow these steps to install Git and GitBash]({% post_url learn-to-code/version-control/git/2025-05-13-how-to-install-git %}). GitBash will be your Unix shell application. To access a Unix shell on a macOS machine, open the Terminal application. You can find the Terminal application in your `Applications` folder on your computer or by searching for "Terminal" in the Spotlight Search.
+
+Once you have opened the CLI application, type the command and press `ENTER` or `RETURN` to execute it. Some commands will print text as a part of their execution, and some will not. An error message will usually be printed if something has gone wrong during the program execution or if the command and its arguments were not structured properly.
+
+*A guide on how to create and run a Unix shell script is coming soon!*
 
 ----
 
@@ -113,6 +118,10 @@ cd DIRECTORY_PATH_HERE
 
 ----
 
+## unix shell shortcuts
+
+----
+
 ## resources and references
 
 [AWS - What is a CLI?](https://aws.amazon.com/what-is/cli/)
@@ -127,4 +136,4 @@ cd DIRECTORY_PATH_HERE
 
 ----
 
-This tutorial was last updated on Wednesday, May 14, 2025.
+This tutorial was last updated on Thursday, May 15, 2025.
