@@ -15,6 +15,16 @@ tags:
 
 When specifying the location of files and folders on a computer system, it is important to know the difference between a relative path and an absolute path, and which is most appropriate for your code.
 
+----
+
+## table of contents
+
+- [absolute path](#absolute-path)
+- [relative path](#relative-path)
+- [paths with spaces](#paths-with-spaces)
+
+----
+
 ## absolute path
 
 An absolute path is the path to a file or directory from the root of the computer.
@@ -26,6 +36,8 @@ On Windows systems, absolute paths begin with the drive name (e.g. `C:/Users/use
 In a Unix shell, you print the absolute path of your working directory with the `pwd` command. Additional information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
 
 I rarely recommend using absolute paths in any situation.  The absolute path to a file on one machine will likely be very different from the path to the file on a different machine, which could lead to errors, crashes, and unexpected behaviors in your program.
+
+----
 
 ## relative path
 
@@ -62,6 +74,22 @@ From <span style="color: green;">Level-2</span>, `cd ../..` will take you to <sp
 From <span style="color: red;">Level-0</span>, `cd Level-1/Level-2` will take you to <span style="color: green;">Level-2</span>.
 
 From <span style="color: blue;">Level-1</span>, `cd .././Level-1/Level-2/..` will take you to <span style="color: blue;">Level-1</span>.
+
+Additional information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
+
+----
+
+## paths with spaces
+
+When executing commands in a Unix shell, if any folder in a directory path has a space character in its name, the path must be surrounded by quotes.
+
+```shell
+cd '../directory with spaces/sub-1'
+
+ls './directory with spaces'
+
+mkdir 'directory with spaces'
+```
 
 Additional information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
 
