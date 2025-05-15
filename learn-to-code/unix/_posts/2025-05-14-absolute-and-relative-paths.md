@@ -23,9 +23,9 @@ On Unix-like systems, absolute paths begin with `/` (e.g. `/Users/username/`).
 
 On Windows systems, absolute paths begin with the drive name (e.g. `C:/Users/username/`).
 
-In a Unix shell, you print the absolute path of your working directory with the `pwd` command.
+In a Unix shell, you print the absolute path of your working directory with the `pwd` command. More information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
 
-I rarely recommend using absolute paths in any situation.  The absolute path to a file on one machine will likely be very different from the path on a different machine, which could lead to errors, crashes, and unexpected behaviors in your program.
+I rarely recommend using absolute paths in any situation.  The absolute path to a file on one machine will likely be very different from the path to the file on a different machine, which could lead to errors, crashes, and unexpected behaviors in your program.
 
 ## relative path
 
@@ -33,9 +33,9 @@ A relative path allows us to reference the location of a file or directory relat
 
 Certain characters in relative paths can be use to indicate different directories relative to the working directory.
 
-`..` is used to indicate the directory one level up from your current location.
+`..` is used to indicate the directory one level up from the working directory.
 
-`.` is used to indicate the directory you are currently located in.
+`.` is used to indicate the working directory.
 
 `~` is used to indicate your `$HOME` directory.
 
@@ -45,26 +45,26 @@ If you do not know the location of your home directory, you can print it using t
 echo $HOME
 ```
 
-<!-- add link to useful unix commands post -->
+More information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
 
 ### `cd` with relative paths
 
-In a Unix shell, you can use the `cd` command to change your working directory. Let's say we have three directories: <span style="color: red;">Level-0</span>/<span style="color: yellow;">Level-1</span>/<span style="color: lime;">Level-2</span>.
+In a Unix shell, you can use the `cd` command to change your working directory. Let's say we have three directories: <span style="color: red;">Level-0</span>/<span style="color: blue;">Level-1</span>/<span style="color: green;">Level-2</span>.
 
-From <span style="color: red;">Level-0</span>, `cd Level-1` will take you to <span style="color: yellow;">Level-1</span>.
+From <span style="color: red;">Level-0</span>, `cd Level-1` will take you to <span style="color: blue;">Level-1</span>.
 
-From <span style="color: yellow;">Level-1</span>, `cd ..` will take you to <span style="color: red;">Level-0</span>.
+From <span style="color: blue;">Level-1</span>, `cd ..` will take you to <span style="color: red;">Level-0</span>.
 
-From <span style="color: yellow;">Level-1</span>, `cd ./Level-2` will take you to <span style="color: lime;">Level-2</span>.
+From <span style="color: blue;">Level-1</span>, `cd ./Level-2` will take you to <span style="color: green;">Level-2</span>.
 
-From <span style="color: lime;">Level-2</span>, `cd ../..` will take you to <span style="color: red;">Level-0</span>.
+From <span style="color: green;">Level-2</span>, `cd ../..` will take you to <span style="color: red;">Level-0</span>.
 
-From <span style="color: red;">Level-0</span>, `cd Level-1/Level-2` will take you to <span style="color: lime;">Level-2</span>.
+From <span style="color: red;">Level-0</span>, `cd Level-1/Level-2` will take you to <span style="color: green;">Level-2</span>.
 
-From <span style="color: yellow;">Level-1</span>, `cd .././Level-1/Level-2/..` will take you to <span style="color: yellow;">Level-1</span>.
+From <span style="color: blue;">Level-1</span>, `cd .././Level-1/Level-2/..` will take you to <span style="color: blue;">Level-1</span>.
 
-<!-- add link to useful unix commands post -->
+More information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
 
 ----
 
-This tutorial was last updated on Wednesday, May 14, 2025.
+This tutorial was last updated on Thursday, May 15, 2025.
