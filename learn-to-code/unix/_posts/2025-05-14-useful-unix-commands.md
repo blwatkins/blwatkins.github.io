@@ -33,7 +33,13 @@ This tutorial will walk you through some Unix shell commands that will be useful
 
 ----
 
-## Commands
+## how to execute a unix shell command
+
+<!-- TODO -->
+
+----
+
+## commands
 
 ### print working directory
 
