@@ -96,7 +96,7 @@ ls DIRECTORY_PATH_HERE
 
 We can use the `ls` command to print the contents of a different directory by providing the absolute or relative path to the directory.
 
-<!-- TODO - add links to relative and absolute path post -->
+Additional information about paths can be found in the [absolute and relative paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %}).
 
 ### clear the shell window
 
@@ -112,9 +112,9 @@ The `clear` command will clear the shell window.
 cd DIRECTORY_PATH_HERE
 ```
 
-<!-- TODO - add cd explanation -->
+The `cd` command will change the working directory to the directory with the given absolute or relative path.
 
-<!-- TODO - add links to relative and absolute path post -->
+Additional information about paths can be found in the [absolute and relative paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %}).
 
 ----
 
