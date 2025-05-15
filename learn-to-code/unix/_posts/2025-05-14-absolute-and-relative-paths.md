@@ -23,7 +23,7 @@ On Unix-like systems, absolute paths begin with `/` (e.g. `/Users/username/`).
 
 On Windows systems, absolute paths begin with the drive name (e.g. `C:/Users/username/`).
 
-In a Unix shell, you print the absolute path of your working directory with the `pwd` command. More information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
+In a Unix shell, you print the absolute path of your working directory with the `pwd` command. Additional information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
 
 I rarely recommend using absolute paths in any situation.  The absolute path to a file on one machine will likely be very different from the path to the file on a different machine, which could lead to errors, crashes, and unexpected behaviors in your program.
 
@@ -45,7 +45,7 @@ If you do not know the location of your home directory, you can print it using t
 echo $HOME
 ```
 
-More information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
+Additional information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
 
 ### `cd` with relative paths
 
@@ -63,7 +63,7 @@ From <span style="color: red;">Level-0</span>, `cd Level-1/Level-2` will take yo
 
 From <span style="color: blue;">Level-1</span>, `cd .././Level-1/Level-2/..` will take you to <span style="color: blue;">Level-1</span>.
 
-More information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
+Additional information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
 
 ----
 
