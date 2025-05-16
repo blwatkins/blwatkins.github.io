@@ -18,6 +18,8 @@ We have a few options for installing Git, and those options change depending on 
 
 [git installation for macOS](#git-installation-for-macos)
 
+[first time git setup](#first-time-git-setup)
+
 ----
 
 ## git installation for windows
@@ -93,6 +95,17 @@ git --version
 ```
 
 Do you see a version number? If yes, congratulations! You have successfully installed Git!
+
+----
+
+## first time git setup
+
+<!-- TODO - add first time git setup instructions -->
+<!-- git config user.name -->
+<!-- git config user.email -->
+<!-- should match name and email in your Git host account -->
+<!-- common git hosts -->
+<!-- can set globally or for individual repositories -->
 
 ----
 
