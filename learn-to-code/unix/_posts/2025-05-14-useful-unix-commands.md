@@ -34,6 +34,7 @@ This tutorial will walk you through some Unix shell commands that will be useful
 - [`cd`](#change-the-working-directory)
 - [`which`](#print-the-path-of-this-command)
 - [`where` / `which -a`](#print-all-paths-to-this-command)
+- [`export`](#set-the-value-of-an-environment-variable)
 
 ----
 
@@ -178,6 +179,22 @@ which -a COMMAND_NAME_HERE
 The `where` command and the `which -a` command are equivalent; they both print all paths that could be used to execute the given command.
 
 The `where` command gives you all locations of the given program; the `which` command tells you which one will be used when you execute that program.
+
+### set the value of an environment variable
+
+```shell
+export VARIABLE_NAME_HERE=VARIABLE_VALUE_HERE
+```
+
+The `export` command will set the value of the given variable to the given value. When executed in a Unix shell, this change will only be active for the current shell session.
+
+If an environment variable needs to have some value in every shell session, it is recommended to set that variable in the appropriate shell profile file or shell RC file.
+
+To confirm the variable has been set properly, you can print its value using the [`echo`](#print-something) command.
+
+```shell
+echo $VARIABLE_NAME_HERE
+```
 
 ----
 
