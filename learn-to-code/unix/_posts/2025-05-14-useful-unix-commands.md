@@ -32,6 +32,7 @@ This tutorial will walk you through some Unix shell commands that will be useful
 - [`clear`](#clear-the-shell-window)
 - [`ls`](#list-the-directory-contents)
 - [`cd`](#change-the-working-directory)
+- [`touch`](#create-a-file)
 - [`which`](#print-the-path-of-this-command)
 - [`where` / `which -a`](#print-all-paths-to-this-command)
 - [`export`](#set-the-value-of-an-environment-variable)
@@ -161,6 +162,27 @@ The `cd` command will change the working directory to the directory with the giv
 
 Additional information about paths can be found in the [absolute and relative paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %}).
 
+### create a file
+
+```shell
+touch FILENAME_HERE
+```
+
+The `touch` command creates a file.
+
+```shell
+touch FILE_PATH_HERE
+```
+
+When executing the `touch` command, the filename argument can also be a relative or absolute path to the file you are creating.
+
+#### examples
+
+```shell
+touch my-text-file.txt
+touch ./my-directory/MyJavaClass.java
+```
+
 ### print the path of this command
 
 ```shell
@@ -182,27 +204,6 @@ which -a COMMAND_NAME_HERE
 The `where` command and the `which -a` command are equivalent; they both print all paths that could be used to execute the given command.
 
 The `where` command gives you all locations of the given program; the `which` command tells you which one will be used when you execute that program.
-
-### create a file
-
-```shell
-touch FILENAME_HERE
-```
-
-The `touch` command creates a file.
-
-```shell
-touch FILE_PATH_HERE
-```
-
-When executing the `touch` command, the filename argument can also be a relative or absolute path to the file you are creating.
-
-#### examples
-
-```shell
-touch my-text-file.txt
-touch ./my-directory/MyJavaClass.java
-```
 
 ### set the value of an environment variable
 
