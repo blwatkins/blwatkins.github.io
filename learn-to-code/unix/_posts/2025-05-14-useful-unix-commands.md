@@ -21,14 +21,14 @@ This tutorial will walk you through some Unix shell commands that will be useful
 
 [how to execute a unix shell command](#how-to-execute-a-unix-shell-command)
 
+[unix shell shortcuts](#unix-shell-shortcuts)
+
 [commands](#commands)
 - [`pwd`](#print-working-directory)
 - [`whoami`](#print-your-username)
 - [`ls`](#list-the-directory-contents)
 - [`clear`](#clear-the-shell-window)
 - [`cd`](#change-the-working-directory)
-
-[unix shell shortcuts](#unix-shell-shortcuts)
 
 ----
 
@@ -41,6 +41,16 @@ There are many Unix shell programs available to developers, including [Bash](htt
 Once you have opened the CLI application, type the command and press `ENTER` or `RETURN` to execute it. Some commands will print text as a part of their execution, and some will not. An error message will usually be printed if something has gone wrong during the program execution or if the command and its arguments were not structured properly.
 
 *A guide on how to create and run a Unix shell script is coming soon!*
+
+----
+
+## unix shell shortcuts
+
+Use the `TAB` key to autocomplete file, directory, and command names.
+
+Use the `UP` arrrow key to scroll through previous commands.
+
+Use the `DOWN` arrow key to scroll forward through previous commands.
 
 ----
 
@@ -115,10 +125,6 @@ cd DIRECTORY_PATH_HERE
 The `cd` command will change the working directory to the directory with the given absolute or relative path.
 
 Additional information about paths can be found in the [absolute and relative paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %}).
-
-----
-
-## unix shell shortcuts
 
 ----
 
