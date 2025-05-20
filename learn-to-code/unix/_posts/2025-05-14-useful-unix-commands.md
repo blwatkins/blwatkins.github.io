@@ -35,6 +35,8 @@ This tutorial will walk you through some Unix shell commands that will be useful
 - [`which`](#print-the-path-of-this-command)
 - [`where` / `which -a`](#print-all-paths-to-this-command)
 - [`export`](#set-the-value-of-an-environment-variable)
+- [`bash`](#start-a-bash-shell-instance)
+- [`zsh`](#start-a-z-shell-instance)
 
 ----
 
@@ -195,6 +197,22 @@ To confirm the variable has been set properly, you can print its value using the
 ```shell
 echo $VARIABLE_NAME_HERE
 ```
+
+### start a Bash shell instance
+
+```shell
+bash
+```
+
+The `bash` command will start a run of the Bash shell inside the current shell instance.
+
+### start a Z shell instance
+
+```shell
+zsh
+```
+
+The `zsh` command will start a run of the Z shell inside of the current shell instance.
 
 ----
 
