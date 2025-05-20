@@ -100,16 +100,36 @@ Do you see a version number? If yes, congratulations! You have successfully inst
 
 ## first time git setup
 
-<!-- TODO - add first time git setup instructions -->
-<!-- git config user.name -->
-<!-- git config user.email -->
-<!-- should match name and email in your Git host account -->
-<!-- common git hosts -->
-<!-- can set globally or for individual repositories -->
+Git must have a configured username and email to associate with each commit made in your repositories. This configuration can either be set individually in each repository on your machine, or it can be set globally for every repository on your computer. The following instructions will walk through the global configuration.
+
+If you are only using Git locally, the username and email that you set is inconsequential. However, if you are using a Git hosting service, such as [GitHub](https://github.com/) or [GitLab](https://about.gitlab.com/) your username and email should match those being used in the hosting service.
+
+> [!CAUTION]
+> The name and email you set in your configuration will be accessible to anyone who clones your repository or any repository you have contributed to.
+> If you have a GitHub account, and would like to keep your email address private, you can configure your git email address to be the `noreply` email address provided by GitHub.
+> Instructions on how to find your `noreply` email on GitHub are available in the [GitHub Docs: Setting your commit email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
+
+To set your Git configuration variables, open the Unix shell of your choice. On macOS, this will likely be the Terminal application. On Windows, this will likely be the GitBash application.
+
+Type and execute the following commands:
+
+```shell
+git config --global user.name USER_NAME_HERE
+```
+
+```shell
+git config --global user.email USER_EMAIL_HERE
+```
+
+You can double-check that the variables have been set with the following command:
+
+```shell
+git config --global --list
+```
 
 ----
 
-### resources and references
+## resources and references
 
 [Git](https://git-scm.com/)
 
@@ -119,6 +139,10 @@ Do you see a version number? If yes, congratulations! You have successfully inst
 
 [Git - Download for Windows](https://git-scm.com/downloads/win)
 
+[Pro Git Book: First-Time Git Setup](https://git-scm.com/book/ms/v2/Getting-Started-First-Time-Git-Setup)
+
+[GitHub Docs: Setting your commit email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
+
 ----
 
-This tutorial was last updated on Wednesday, May 14, 2025.
+This tutorial was last updated on Tuesday, May 20, 2025.
