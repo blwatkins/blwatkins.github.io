@@ -143,7 +143,3 @@ git config --global --list
 [Pro Git Book: First-Time Git Setup](https://git-scm.com/book/ms/v2/Getting-Started-First-Time-Git-Setup)
 
 [GitHub Docs: Setting your commit email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
-
-----
-
-This tutorial was last updated on Tuesday, May 20, 2025.
