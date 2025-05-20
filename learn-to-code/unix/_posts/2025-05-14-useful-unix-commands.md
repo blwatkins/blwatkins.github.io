@@ -37,6 +37,7 @@ This tutorial will walk you through some Unix shell commands that will be useful
 - [`export`](#set-the-value-of-an-environment-variable)
 - [`bash`](#start-a-bash-shell-instance)
 - [`zsh`](#start-a-z-shell-instance)
+- [`exit`](#exit-the-current-shell-instance)
 
 ----
 
@@ -213,6 +214,14 @@ zsh
 ```
 
 The `zsh` command will start a run of the Z shell inside of the current shell instance.
+
+### exit the current shell instance
+
+```shell
+exit
+```
+
+The `exit` command can be used to exit the current shell instance.
 
 ----
 
