@@ -28,6 +28,7 @@ This tutorial will walk you through some Unix shell commands that will be useful
 - [`pwd`](#print-working-directory)
 - [`whoami`](#print-your-username)
 - [`date`](#print-the-current-date-and-time)
+- [`echo`](#print-something)
 - [`ls`](#list-the-directory-contents)
 - [`clear`](#clear-the-shell-window)
 - [`cd`](#change-the-working-directory)
@@ -83,6 +84,16 @@ date
 ```
 
 The `date` command prints the current date and time.
+
+### print something
+
+```shell
+echo STRING_HERE
+```
+
+```shell
+echo $VARIABLE_HERE
+```
 
 ### list the directory contents
 
