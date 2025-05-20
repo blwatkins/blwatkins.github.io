@@ -42,6 +42,8 @@ This tutorial will walk you through some Unix shell commands that will be useful
 - [`zsh`](#start-a-z-shell-instance)
 - [`exit`](#exit-the-current-shell-instance)
 
+[resources and references](#resources-and-references)
+
 ----
 
 ## how to execute a unix shell command
