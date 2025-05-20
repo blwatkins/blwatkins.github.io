@@ -31,6 +31,7 @@ This tutorial will walk you through some Unix shell commands that will be useful
 - [`clear`](#clear-the-shell-window)
 - [`cd`](#change-the-working-directory)
 - [`which`](#print-the-path-of-this-command)
+- [`where` / `which -a`](#print-all-paths-to-this-command)
 
 ----
 
@@ -144,9 +145,19 @@ which COMMAND_NAME_HERE
 
 The `which` command prints the absolute path to the location of the given command, provided as an argument.
 
+### print all paths to this command
+
 ```shell
-which ruby
+where COMMAND_NAME_HERE
 ```
+
+```shell
+which -a COMMAND_NAME_HERE
+```
+
+The `where` command and the `which -a` command are equivalent; they both print all paths that could be used to execute the given command.
+
+The `where` command gives you all locations of the given program; the `which` command tells you which one will be used when you execute that program.
 
 ----
 
@@ -161,7 +172,3 @@ which ruby
 [Wikipedia - Z shell](https://en.wikipedia.org/wiki/Z_shell)
 
 [explainshell](https://explainshell.com/)
-
-----
-
-This tutorial was last updated on Tuesday, May 20, 2025.
