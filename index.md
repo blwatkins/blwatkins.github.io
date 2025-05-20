@@ -40,6 +40,8 @@ We are currently accepting donations to support our creative projects.
 
 ## > [git](./learn-to-code/version-control/git)
 
+## > [github](./learn-to-code/version-control/git/github)
+
 Development of our tutorials is ongoing.
 
 ----

@@ -7,11 +7,11 @@ Git is a verion control software that allows us to save and restore different ve
 
 ## tutorials and guides
 
-### [how to install git]({% post_url learn-to-code/version-control/git/2025-05-13-how-to-install-git %})
+### > [how to install git]({% post_url learn-to-code/version-control/git/2025-05-13-how-to-install-git %})
 
 ----
 
-### resources and references
+## resources and references
 
 [Git](https://git-scm.com/)
 
