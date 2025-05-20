@@ -11,9 +11,9 @@ There are many Unix shell programs available to developers, including [Bash](htt
 
 ## tutorials and guides
 
-### [useful unix commands]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %})
+### > [useful unix commands]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %})
 
-### [absolute and relative paths]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %})
+### > [absolute and relative paths]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %})
 
 ----
 
