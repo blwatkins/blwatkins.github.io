@@ -177,14 +177,14 @@ touch FILE_PATH_HERE
 
 When executing the `touch` command, the filename argument can also be a relative or absolute path to the file you are creating.
 
+Additional information about paths can be found in the [absolute and relative paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %}).
+
 #### examples
 
 ```shell
 touch my-text-file.txt
 touch ./my-directory/MyJavaClass.java
 ```
-
-Additional information about paths can be found in the [absolute and relative paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %}).
 
 ### create a directory (folder)
 
@@ -204,6 +204,13 @@ which COMMAND_NAME_HERE
 
 The `which` command prints the absolute path to the location of the given command, provided as an argument.
 
+#### examples
+
+```shell
+which ruby
+which python
+```
+
 ### print all paths to this command
 
 ```shell
@@ -217,6 +224,13 @@ which -a COMMAND_NAME_HERE
 The `where` command and the `which -a` command are equivalent; they both print all paths that could be used to execute the given command.
 
 The `where` command gives you all locations of the given program; the `which` command tells you which one will be used when you execute that program.
+
+#### examples
+
+```shell
+where ruby
+which -a ruby
+```
 
 ### set the value of an environment variable
 
@@ -232,6 +246,13 @@ To confirm the variable has been set properly, you can print its value using the
 
 ```shell
 echo $VARIABLE_NAME_HERE
+```
+
+#### examples
+
+```shell
+export SOME_VARIABLE="some value"
+echo $SOME_VARIABLE
 ```
 
 ### start a Bash shell instance
