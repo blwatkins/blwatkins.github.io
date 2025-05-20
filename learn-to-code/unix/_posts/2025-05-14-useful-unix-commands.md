@@ -29,8 +29,8 @@ This tutorial will walk you through some Unix shell commands that will be useful
 - [`whoami`](#print-your-username)
 - [`date`](#print-the-current-date-and-time)
 - [`echo`](#print-something)
-- [`ls`](#list-the-directory-contents)
 - [`clear`](#clear-the-shell-window)
+- [`ls`](#list-the-directory-contents)
 - [`cd`](#change-the-working-directory)
 - [`which`](#print-the-path-of-this-command)
 - [`where` / `which -a`](#print-all-paths-to-this-command)
@@ -91,9 +91,25 @@ The `date` command prints the current date and time.
 echo STRING_HERE
 ```
 
+The `echo` command will print the given string.
+
+> [!TIP]
+> Fun fact: Want to make your computer beep? Try the following: 
+> `echo -e "\a"`
+
 ```shell
-echo $VARIABLE_HERE
+echo $VARIABLE_NAME_HERE
 ```
+
+When given an environment variable name, such as `$HOME` or `$PATH`, the `echo` command will print the value of the given variable.
+
+### clear the shell window
+
+```shell
+clear
+```
+
+The `clear` command will clear the shell window.
 
 ### list the directory contents
 
@@ -130,14 +146,6 @@ ls DIRECTORY_PATH_HERE
 We can use the `ls` command to print the contents of a different directory by providing the absolute or relative path to the directory.
 
 Additional information about paths can be found in the [absolute and relative paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %}).
-
-### clear the shell window
-
-```shell
-clear
-```
-
-The `clear` command will clear the shell window.
 
 ### change the working directory
 
