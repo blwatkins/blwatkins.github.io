@@ -73,13 +73,15 @@ After you are signed in to GitHub, you can create a new repository from any page
 
 You can also create a new repository using the `New` button on the left-hand side of your Home page, or using the `New` button at the top of your list of repositories.
 
-On the repository creation page, select a name for your repository and an optional description. Choose if you would like to have a `Public` or `Private` repository, and select the checkbox next to `Add a README file` so that your repository is initialized with a `README.md` file. Initializing our repo with a README file makes the cloning process much easier.
+On the repository creation page, select a name for your repository and an optional description.
 
-You do not need to add a `.gitignore` file, nor do you need to choose a license for your code.
+Choose if you would like to have a `Public` or `Private` repository.
 
-I rarely choose a `.gitignore` template and prefer to add files to `.gitignore` as needed, but I encourage you to explore and experiment with the different templates that are available.
+Select the checkbox next to `Add a README file` so that your repository is initialized with a `README.md` file. Initializing our repo with a `README` file makes the cloning process much easier.
 
-Choosing a license is a big part of code development for any open source project, but it's not necessary to choose one for our first repository. You can learn more about open source software licenses on the [Open Source Initiative website](https://opensource.org/licenses)
+You do not need to add a `.gitignore` file. I rarely choose a `.gitignore` template and prefer to add files to `.gitignore` as needed, but I encourage you to explore and experiment with the different templates that are available.
+
+You do not need to select a license. Choosing a license is a big part of code development for any open source project, but it's not necessary to choose one for our first repository. You can learn more about open source software licenses on the [Open Source Initiative website](https://opensource.org/licenses).
 
 ----
 
