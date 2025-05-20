@@ -183,6 +183,27 @@ The `where` command and the `which -a` command are equivalent; they both print a
 
 The `where` command gives you all locations of the given program; the `which` command tells you which one will be used when you execute that program.
 
+### create a file
+
+```shell
+touch FILENAME_HERE
+```
+
+The `touch` command creates a file.
+
+```shell
+touch FILE_PATH_HERE
+```
+
+When executing the `touch` command, the filename argument can also be a relative or absolute path to the file you are creating.
+
+#### examples
+
+```shell
+touch my-text-file.txt
+touch ./my-directory/MyJavaClass.java
+```
+
 ### set the value of an environment variable
 
 ```shell
