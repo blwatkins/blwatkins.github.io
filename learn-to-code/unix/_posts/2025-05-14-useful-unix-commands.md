@@ -26,9 +26,11 @@ This tutorial will walk you through some Unix shell commands that will be useful
 [commands](#commands)
 - [`pwd`](#print-working-directory)
 - [`whoami`](#print-your-username)
+- [`date`](#print-the-current-date-and-time)
 - [`ls`](#list-the-directory-contents)
 - [`clear`](#clear-the-shell-window)
 - [`cd`](#change-the-working-directory)
+- [`which`](#print-the-path-of-this-command)
 
 ----
 
@@ -71,6 +73,14 @@ whoami
 ```
 
 The `whoami` command prints your username. This can be useful to check your username when you are connected to a remote server.
+
+### print the current date and time
+
+```shell
+date
+```
+
+The `date` command prints the current date and time.
 
 ### list the directory contents
 
@@ -125,6 +135,18 @@ cd DIRECTORY_PATH_HERE
 The `cd` command will change the working directory to the directory with the given absolute or relative path.
 
 Additional information about paths can be found in the [absolute and relative paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %}).
+
+### print the path of this command
+
+```shell
+which COMMAND_NAME_HERE
+```
+
+The `which` command prints the absolute path to the location of the given command, provided as an argument.
+
+```shell
+which ruby
+```
 
 ----
 
