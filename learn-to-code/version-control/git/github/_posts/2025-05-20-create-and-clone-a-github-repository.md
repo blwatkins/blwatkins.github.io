@@ -29,6 +29,8 @@ To complete this tutorial, you will need the following:
 
 [local repository vs. remote repository](#local-repository-vs-remote-repository)
 
+[github authentication](#github-authentication)
+
 ----
 
 ## local repository vs. remote repository
@@ -41,10 +43,35 @@ A remote repository is code that resides on some remote server. In this case, th
 
 It is possible to have a local repository that does not have a corresponding remote repository on GitHub, and it is possible to have a remote repository on GitHub that does not have a corresponding local repository on your computer.  For this tutorial, we will be creating a remote repository on the GitHub website, and cloning that remote repository so that we have a corresponding local repository on our computer.
 
-After cloning the remote respository, changes to the local repository will not be synced automatically to the remote repository, nor vice versa. Once a repository has been cloned, we must use Git to indicate which files and changes should be synced between the local and remote repositories.
+After cloning the remote respository, changes to the local repository will not be synced automatically to the remote repository, nor vice versa. Once a repository has been cloned, we must use Git to indicate which files and changes should be synced between the local and remote repositories. Any interaction between our local repository and our remote repository will require a network connection and access to the GitHub website.
 
 *A guide on useful git commands is coming soon!*
 
 <!-- TODO - link to useful git commands post -->
 
 ----
+
+## github authentication
+
+We always want to make sure that our code and all associated accounts are secure. We also want to make sure that no one can make edits to our code without our express permission. Setting up our GitHub authentication helps us ensure that no one can make a change to a GitHub remote repository using our GitHub credentials.
+
+GitHub has multiple ways to authenticate your account, and the method you select will determine the type of URL you use to clone reposiories from the GitHub website.
+
+If you would like to authenticate to GitHub using an SSH key, you can follow the instructions in the [GitHub Docs: Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). If you are using an SSH key to authenticate to GitHub, you will clone repositories using the `SSH` URL.
+
+If you would like to authenticate to GitHub using a person access token, you can follow the provided instructions in the [GitHub Docs: Managing your personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens). If you are using a personal access token or password to authenticate to GitHub, you will clone repositories using the `HTTPS` URL.
+
+Additional information about authentication on the GitHub website can be found in the [GitHub Docs: Authentication](https://docs.github.com/en/authentication).
+
+----
+
+## resources and references
+
+[GitHub Docs](https://docs.github.com/en)
+
+[GitHub Docs: Authentication](https://docs.github.com/en/authentication)
+
+[GitHub Docs: Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+[GitHub Docs: Managing your personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+

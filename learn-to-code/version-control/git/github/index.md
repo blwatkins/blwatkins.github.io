@@ -22,3 +22,5 @@ GitHub is a remote host and social development platform for code being managed w
 ## resources and references
 
 [GitHub](https://github.com/)
+
+[GitHub Docs](https://docs.github.com/en)
