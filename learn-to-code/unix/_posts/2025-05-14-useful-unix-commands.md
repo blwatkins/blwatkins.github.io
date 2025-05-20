@@ -34,9 +34,10 @@ This tutorial will walk you through some Unix shell commands that will be useful
 - [`cd`](#change-the-working-directory)
 - [`touch`](#create-a-file)
 - [`mkdir`](#create-a-directory-folder)
+- [`chmod`](#change-file-permissions)
+- [`export`](#set-the-value-of-an-environment-variable)
 - [`which`](#print-the-path-of-this-command)
 - [`where` / `which -a`](#print-all-paths-to-this-command)
-- [`export`](#set-the-value-of-an-environment-variable)
 - [`bash`](#start-a-bash-shell-instance)
 - [`zsh`](#start-a-z-shell-instance)
 - [`exit`](#exit-the-current-shell-instance)
@@ -52,6 +53,8 @@ There are many Unix shell programs available to developers, including [Bash](htt
 Once you have opened the CLI application, type the command and press `ENTER` or `RETURN` to execute it. Some commands will print text as a part of their execution, and some will not. An error message will usually be printed if something has gone wrong during the program execution or if the command and its arguments were not structured properly.
 
 *A guide on how to create and run a Unix shell script is coming soon!*
+
+<!-- TODO - link to creating and running a shell script post -->
 
 ----
 
@@ -203,6 +206,51 @@ The `mkdir` command creates a folder, also known as a directory. The directory p
 
 Additional information about paths can be found in the [absolute and relative paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %}).
 
+### change file permissions
+
+```shell
+chmod PERMISSIONS_HERE FILE_PATH_HERE
+```
+
+The `chmod` command updates the permissions of the given file using the given permissions.
+
+Permissions can be provided in symbolic mode or octal mode.
+
+<!-- TODO - link to file permissions post -->
+
+#### examples
+
+```shell
+touch my-text-file.txt
+chmod 444 my-text-file.txt
+chmod ugo+w my-text-file.txt
+```
+
+### set the value of an environment variable
+
+```shell
+export VARIABLE_NAME_HERE=VARIABLE_VALUE_HERE
+```
+
+The `export` command will set the value of the given variable to the given value. When executed in a Unix shell, this change will only be active for the current shell session.
+
+If an environment variable needs to have some value in every shell session, it is recommended to set that variable in the appropriate shell profile file or shell RC file.
+
+<!-- TODO - link to shell profile and rc files post -->
+
+To confirm the variable has been set properly, you can print its value using the [`echo`](#print-something) command.
+
+```shell
+echo $VARIABLE_NAME_HERE
+```
+
+#### examples
+
+```shell
+export SOME_VARIABLE="some value"
+echo $SOME_VARIABLE
+```
+
 ### print the path of this command
 
 ```shell
@@ -237,29 +285,6 @@ The `where` command gives you all locations of the given program; the `which` co
 ```shell
 where ruby
 which -a ruby
-```
-
-### set the value of an environment variable
-
-```shell
-export VARIABLE_NAME_HERE=VARIABLE_VALUE_HERE
-```
-
-The `export` command will set the value of the given variable to the given value. When executed in a Unix shell, this change will only be active for the current shell session.
-
-If an environment variable needs to have some value in every shell session, it is recommended to set that variable in the appropriate shell profile file or shell RC file.
-
-To confirm the variable has been set properly, you can print its value using the [`echo`](#print-something) command.
-
-```shell
-echo $VARIABLE_NAME_HERE
-```
-
-#### examples
-
-```shell
-export SOME_VARIABLE="some value"
-echo $SOME_VARIABLE
 ```
 
 ### start a Bash shell instance
