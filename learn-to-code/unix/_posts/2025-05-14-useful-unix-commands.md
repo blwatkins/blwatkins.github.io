@@ -183,6 +183,8 @@ touch my-text-file.txt
 touch ./my-directory/MyJavaClass.java
 ```
 
+Additional information about paths can be found in the [absolute and relative paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %}).
+
 ### print the path of this command
 
 ```shell
