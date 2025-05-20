@@ -109,6 +109,13 @@ echo $VARIABLE_NAME_HERE
 
 When given an environment variable name, such as `$HOME` or `$PATH`, the `echo` command will print the value of the given variable.
 
+#### examples
+
+```shell
+echo "Hello, World!"
+echo $HOME
+```
+
 ### clear the shell window
 
 ```shell
