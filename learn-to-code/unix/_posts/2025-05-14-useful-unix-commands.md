@@ -216,6 +216,8 @@ The `chmod` command updates the permissions of the given file using the given pe
 
 Permissions can be provided in symbolic mode or octal mode.
 
+*A guide on file permissions is coming soon!*
+
 <!-- TODO - link to file permissions post -->
 
 #### examples
@@ -232,9 +234,11 @@ chmod ugo+w my-text-file.txt
 export VARIABLE_NAME_HERE=VARIABLE_VALUE_HERE
 ```
 
-The `export` command will set the value of the given variable to the given value. When executed in a Unix shell, this change will only be active for the current shell session.
+The `export` command will set the given variable to the given value. When executed in a Unix shell, this change will only be active for the current shell session.
 
 If an environment variable needs to have some value in every shell session, it is recommended to set that variable in the appropriate shell profile file or shell RC file.
+
+*A guide on shell profile and RC files is coming soon!*
 
 <!-- TODO - link to shell profile and rc files post -->
 
