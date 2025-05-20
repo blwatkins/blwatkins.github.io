@@ -2,6 +2,7 @@
 layout: post
 author: brittni watkins
 date: 2025-05-14 22:00:00 -0000
+modified_date: 2025-05-15
 title: "absolute and relative paths"
 excerpt: "When specifying the location of files and folders on a computer system, it is important to know the difference between a relative path and an absolute path, and which is most appropriate for your code."
 tags:
@@ -92,7 +93,3 @@ mkdir 'directory with spaces'
 ```
 
 Additional information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
-
-----
-
-This tutorial was last updated on Thursday, May 15, 2025.
