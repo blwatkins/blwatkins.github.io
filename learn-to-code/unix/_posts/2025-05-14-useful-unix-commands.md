@@ -2,6 +2,7 @@
 layout: post
 author: brittni watkins
 date: 2025-05-14 16:00:00 -0000
+modified_date: 2025-05-20
 title: "useful unix commands"
 excerpt: "This tutorial will walk you through some Unix shell commands that will be useful to know as you progress on your coding journey."
 tags:
