@@ -2,6 +2,7 @@
 layout: post
 author: brittni watkins
 date: 2025-05-13 22:00:00 -0000
+modified_date: 2025-05-20
 title: "how to install git"
 excerpt: "We have a few options for installing Git, and those options change depending on the operating system you are using.  In this tutorial, I will walk you through the installation process for Windows and macOS."
 tags:
