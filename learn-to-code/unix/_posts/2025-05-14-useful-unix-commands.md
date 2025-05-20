@@ -324,3 +324,5 @@ The `exit` command can be used to exit the current shell instance.
 [Wikipedia - Z shell](https://en.wikipedia.org/wiki/Z_shell)
 
 [explainshell](https://explainshell.com/)
+
+[MULTACOM: Understanding File Permissions](https://www.multacom.com/faq/password_protection/file_permissions.htm)
