@@ -21,6 +21,10 @@ We have a few options for installing Git, and those options change depending on 
 
 [first time git setup](#first-time-git-setup)
 
+[successful git installation and set up](#successful-git-installation-and-set-up)
+
+[resources and references](#resources-and-references)
+
 ----
 
 ## git installation for windows
@@ -127,6 +131,22 @@ You can double-check that the variables have been set with the following command
 ```shell
 git config --global --list
 ```
+
+----
+
+## successful git installation and set up
+
+I believe Git is successfully installed and configured when you are able to do the following:
+
+1. clone a remote GitHub repository
+1. commit a change to a local repository and push it up to a remote repository.
+1. commit a change to a remote repository and pull it down to a local repository.
+
+Additional information about cloning a remote GitHub repository can be found in the [create and clone a github repository guide]({% post_url learn-to-code/version-control/git/github/2025-05-20-create-and-clone-a-github-repository %}).
+
+*A guide on how to commit, push, and pull changes is coming soon!*
+
+<!-- TODO - link to commit, push, and pull post -->
 
 ----
 

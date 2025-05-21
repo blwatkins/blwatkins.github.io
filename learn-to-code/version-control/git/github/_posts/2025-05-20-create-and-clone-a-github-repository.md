@@ -63,7 +63,7 @@ We always want to make sure that our code and all associated accounts are secure
 
 GitHub has multiple ways to authenticate your account, and the method you select will determine the type of URL you use to clone repositories from the GitHub website.
 
-If you would like to authenticate to GitHub using an SSH key, you can follow the instructions in the [GitHub Docs: Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). If you are using an SSH key to authenticate to GitHub, you will clone repositories using the `SSH` URL.
+If you would like to authenticate to GitHub using an SSH key, you can follow the instructions in the [GitHub Docs: Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). If you are using an SSH key to authenticate to GitHub, you will clone repositories using `SSH`.
 
 If you would like to authenticate to GitHub using a person access token, you can follow the provided instructions in the [GitHub Docs: Managing your personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens). If you are using a personal access token or password to authenticate to GitHub, you will clone repositories using the `HTTPS` URL.
 
@@ -94,6 +94,26 @@ You do not need to select a license. Choosing a license is a big part of code de
 ## clone a repository
 
 A full guide on how to clone a GitHub repository can be found in the [GitHub Docs: Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+
+Choose the repository you would like to clone.
+
+Under the `Code` tab of the repository, select the `<> Code` button.
+
+Select the `Local` tab.
+
+Choose the method you would like to use to clone the repository. If you are using a personal access token or password to authenticate to GitHub, you will clone repositories using the `HTTPS` URL. If you are using an SSH key to authenticate to GitHub, you will clone repositories using `SSH`.
+
+Copy the address provided by GitHub.
+
+Open a Unix shell application and navigate to the directory of your choice using the appropriate Unix shell commands. Additional information about Unix shell programs can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
+
+Type and execute the following command, using the repository URL copied from GitHub. Follow any prompts needed to authenticate your account. ***Do NOT clone repositories from unverified sources. Do NOT clone repositories from developers you do not trust.***
+
+```shell
+git clone REPOSITORY_URL_HERE
+```
+
+Do you see a folder in your current directory with the same name as your GitHub repository? If yes, congratulations! You have successfully cloned your repository.
 
 ----
 
