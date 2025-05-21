@@ -8,11 +8,13 @@ excerpt: "This tutorial will walk you through some Unix shell commands that will
 tags:
   - unix
   - commands
+  - command line
+  - shell
   - bash
   - z shell
 ---
 
-A command line interface (CLI) is a text-based interface where you can input commands that interact with a computer’s operating system. A Unix shell provides a command line user interface for Unix-like operating systems.  The shell is both an interactive command language and a scripting language, and is used by the operating sustem to control the execution of the system using shell scripts.
+A Unix shell provides a text-based user interface for Unix-like operating systems. The shell is both an interactive command language and a scripting language, and it is used by the operating system to control the execution of the system using shell scripts.
 
 This tutorial will walk you through some Unix shell commands that will be useful to know as you progress on your coding journey. This guide is not an exhaustive list.
 
@@ -50,7 +52,7 @@ This tutorial will walk you through some Unix shell commands that will be useful
 
 A Unix shell command can be executed through a CLI application running a Unix shell instance, or it can be executed as part of a Unix shell script.
 
-There are many Unix shell programs available to developers, including [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) and [Z shell](https://en.wikipedia.org/wiki/Z_shell). To access a Unix shell on a Windows machine, [follow these steps to install Git and GitBash]({% post_url learn-to-code/version-control/git/2025-05-13-how-to-install-git %}). GitBash will be your Unix shell application. To access a Unix shell on a macOS machine, open the Terminal application. You can find the Terminal application in your `Applications` folder on your computer or by searching for "Terminal" in the Spotlight Search.
+Additional information about CLI applications can be found in the [software for unix guide]({% post_url learn-to-code/unix/2025-05-21-software-for-unix %}).
 
 Once you have opened the CLI application, type the command and press `ENTER` or `RETURN` to execute it. Some commands will print text as a part of their execution, and some will not. An error message will usually be printed if something has gone wrong during the program execution or if the command and its arguments were not structured properly.
 
@@ -64,7 +66,7 @@ Once you have opened the CLI application, type the command and press `ENTER` or 
 
 Use the `TAB` key to autocomplete file, directory, and command names.
 
-Use the `UP` arrrow key to scroll through previous commands.
+Use the `UP` arrow key to scroll through previous commands.
 
 Use the `DOWN` arrow key to scroll forward through previous commands.
 
