@@ -10,18 +10,18 @@ tags:
   - text editors
 ---
 
-There are many text editors available for writing code. Some are simple and lightweight, while others are more complex with additional features that help you run, test, debug, and manage your code. The best text editor for you will depend on your personal preferences and the type of projects you are working on.
+There are many text editors available for writing code. Some are simple and lightweight, while others are more complex, with additional features that help you run, test, debug, and manage your code. The best text editor for you will depend on your personal preferences and the type of projects you are working on.
 
 This guide is not an exhaustive list of text editors, but it will give you a good starting point for finding the right one for you.
 
-## [sublime text](https://www.sublimetext.com/)
+## > [sublime text](https://www.sublimetext.com/)
 
 Sublime Text is available for Windows, macOS, and Linux.
 
-## [visual studio code](https://code.visualstudio.com/)
+## > [visual studio code](https://code.visualstudio.com/)
 
 Visual Studio Code is available for Windows, macOS, and Linux.
 
-## [Notepad++](https://notepad-plus-plus.org/)
+## > [notepad++](https://notepad-plus-plus.org/)
 
 Notepad++ is available for Windows.
