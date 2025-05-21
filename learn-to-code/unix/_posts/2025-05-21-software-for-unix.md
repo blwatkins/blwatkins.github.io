@@ -9,6 +9,8 @@ tags:
   - unix
   - software
   - installation
+  - command line
+  - shell
   - bash
   - z shell
 ---
