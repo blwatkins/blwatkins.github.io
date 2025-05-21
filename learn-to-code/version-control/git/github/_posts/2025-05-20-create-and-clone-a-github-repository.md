@@ -31,6 +31,12 @@ To complete this tutorial, you will need the following:
 
 [github authentication](#github-authentication)
 
+[create a new repository](#create-a-new-repository)
+
+[clone a repository](#clone-a-repository)
+
+[resources and references](#resources-and-references)
+
 ----
 
 ## local repository vs. remote repository
@@ -82,6 +88,12 @@ Select the checkbox next to `Add a README file` so that your repository is initi
 You do not need to add a `.gitignore` file. I rarely choose a `.gitignore` template and prefer to add files to `.gitignore` as needed, but I encourage you to explore and experiment with the different templates that are available.
 
 You do not need to select a license. Choosing a license is a big part of code development for any open source project, but it's not necessary to choose one for our first repository. You can learn more about open source software licenses on the [Open Source Initiative website](https://opensource.org/licenses).
+
+----
+
+## clone a repository
+
+A full guide on how to clone a GitHub repository can be found in the [GitHub Docs: Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
 ----
 
