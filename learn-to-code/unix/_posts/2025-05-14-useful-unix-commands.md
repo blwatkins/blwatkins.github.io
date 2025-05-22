@@ -52,13 +52,12 @@ This tutorial will walk you through some Unix shell commands that will be useful
 
 A Unix shell command can be executed through a CLI application running a Unix shell instance, or it can be executed as part of a Unix shell script.
 
+Once you have opened a CLI application, type the command into the console and press `ENTER` or `RETURN` to execute it.
+Some commands will print text as a part of their execution, and some will not.
+An error message will usually be printed if something has gone wrong during the program execution or if the command and its arguments were not structured properly.
 Additional information about CLI applications can be found in the [software for unix guide]({% post_url learn-to-code/unix/2025-05-21-software-for-unix %}).
 
-Once you have opened the CLI application, type the command and press `ENTER` or `RETURN` to execute it. Some commands will print text as a part of their execution, and some will not. An error message will usually be printed if something has gone wrong during the program execution or if the command and its arguments were not structured properly.
-
-*A guide on how to create and run a Unix shell script is coming soon!*
-
-<!-- TODO - link to creating and running a shell script post -->
+Additional information about creating, writing, and executing shell scripts can be found in the [unix shell scripts guide]({% post_url learn-to-code/unix/2025-05-22-unix-shell-scripts %}).
 
 ----
 
