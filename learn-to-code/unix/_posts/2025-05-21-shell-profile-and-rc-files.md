@@ -85,23 +85,23 @@ In [Z shell](https://en.wikipedia.org/wiki/Z_shell), the profile file is typical
 
 ### editing on macOS
 
-You can edit profile and RC files on macOS using the `TextEdit` application. You can open profile and RC files in `TextEdit` using the `open` command. For example, to open the `.bashrc` file, execute the following command in your preferred Unix shell.
+You can edit profile and RC files on macOS using the `TextEdit` application. You can open files in `TextEdit` from the command line using the `open` command. For example, to open the `.bashrc` file, execute the following command in your preferred Unix shell.
 
 ```shell
-open ~./bashrc
+open ~/.bashrc
 ```
 
 ### editing on Windows
 
-You can edit profile and RC files on Windows using the `Notepad` application. You can open profile and RC files in `Notepad` using the `explorer` command. For example, to open the `.bashrc` file, execute the following command in your preferred Unix shell.
+You can edit profile and RC files on Windows using the `Notepad` application. You can open files in `Notepad` from the command line using the `explorer` command. For example, to open the `.bashrc` file, execute the following command in your preferred Unix shell.
 
 ```shell
-explorer ~./bashrc
+explorer ~/.bashrc
 ```
 
 ### editing from the command line
 
-You can edit profile and RC files from the command line using a wide range of command line text editors, including [`nano`](https://www.nano-editor.org/), [`vi`](https://en.wikipedia.org/wiki/Vi_(text_editor)), and [`vim`](https://www.vim.org/).
+You can edit profile and RC files directly from the command line using a wide range of command line text editors, including [`nano`](https://www.nano-editor.org/), [`vi`](https://en.wikipedia.org/wiki/Vi_(text_editor)), and [`vim`](https://www.vim.org/).
 
 *A guide on editing files in vi is coming soon!*
 
