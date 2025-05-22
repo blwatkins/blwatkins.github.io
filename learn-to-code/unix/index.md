@@ -17,6 +17,8 @@ There are many Unix shell programs available to developers, including [Bash](htt
 
 ### > [absolute and relative paths]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %})
 
+### > [shell profile and rc files]({% post_url learn-to-code/unix/2025-05-21-shell-profile-and-rc-files %})
+
 ----
 
 ## resources and references
