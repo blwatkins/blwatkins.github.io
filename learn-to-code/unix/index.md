@@ -19,6 +19,8 @@ There are many Unix shell programs available to developers, including [Bash](htt
 
 ### > [shell profile and rc files]({% post_url learn-to-code/unix/2025-05-21-shell-profile-and-rc-files %})
 
+### > [unix shell scripts]({% post_url learn-to-code/unix/2025-05-22-unix-shell-scripts %})
+
 ----
 
 ## resources and references
