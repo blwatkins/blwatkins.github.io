@@ -35,6 +35,11 @@ This guide will cover the basics of creating, writing, and executing shell scrip
 - [loops](#loops)
 - [command line arguments](#command-line-arguments)
 
+[executing a shell script](#executing-a-shell-script)
+- [updating file permissions](#updating-file-permissions)
+- [running a shell script](#running-a-shell-script)
+- [adding a shell script to the $PATH](#adding-a-shell-script-to-the-path)
+
 [resources and references](#resources-and-references)
 
 ----
@@ -83,33 +88,59 @@ pwd
 
 ### variables
 
-More information about variables is coming soon!
+*More information about variables is coming soon!*
 
 <!-- TODO - complete variables in shell scripts section -->
 
 ### functions
 
-More information about functions is coming soon!
+*More information about functions is coming soon!*
 
 <!-- TODO - complete functions in shell scripts section -->
 
 ### conditionals
 
-More information about conditionals is coming soon!
+*More information about conditionals is coming soon!*
 
 <!-- TODO - complete conditionals in shell scripts section -->
 
 ### loops
 
-More information about loops is coming soon!
+*More information about loops is coming soon!*
 
 <!-- TODO - complete loops in shell scripts section -->
 
 ### command line arguments
 
-More information about command line arguments is coming soon!
+*More information about command line arguments is coming soon!*
 
 <!-- TODO - complete command line arguments in shell scripts section -->
+
+----
+
+## executing a shell script
+
+*More information about executing a shell script is coming soon!*
+
+<!-- TODO - complete executing a shell script section -->
+
+### updating file permissions
+
+*More information about updating file permissions is coming soon!*
+
+<!-- TODO - complete updating file permissions section -->
+
+### running a shell script
+
+*More information about running a shell script is coming soon!*
+
+<!-- TODO - complete running a shell script section -->
+
+### adding a shell script to the $PATH
+
+*More information about adding a shell script to the $PATH is coming soon!*
+
+<!-- TODO - complete adding a shell script to the $PATH section -->
 
 ----
 
