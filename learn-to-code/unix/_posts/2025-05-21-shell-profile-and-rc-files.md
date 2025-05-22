@@ -30,6 +30,14 @@ cd ~
 pwd
 ```
 
+If a profile file or RC file does not exist, you can create it using the `touch` command. For example, to create a `.bash_profile` file, execute the following command in your preferred Unix shell.
+
+```shell
+touch ~/.bash_profile
+```
+
+Additional information about Unix shell commands can be found in the [useful unix commands guide]({% post_url learn-to-code/unix/2025-05-14-useful-unix-commands %}).
+
 ----
 
 ## shell profile files
@@ -52,8 +60,46 @@ In [Z shell](https://en.wikipedia.org/wiki/Z_shell), the profile file is typical
 
 ----
 
+## editing profile and rc files
+
+### editing on macOS
+
+You can edit profile and RC files on macOS using the `TextEdit` application. You can open profile and RC files in `TextEdit` using the `open` command. For example, to open the `.bashrc` file, execute the following command in your preferred Unix shell.
+
+```shell
+open ~./bashrc
+```
+
+### editing on Windows
+
+You can edit profile and RC files on Windows using the `Notepad` application. You can open profile and RC files in `Notepad` using the `explorer` command. For example, to open the `.bashrc` file, execute the following command in your preferred Unix shell.
+
+```shell
+explorer ~./bashrc
+```
+
+### editing from the command line
+
+You can edit profile and RC files from the command line using a wide range of command line text editors, including [`nano`](https://www.nano-editor.org/), [`vi`]((https://en.wikipedia.org/wiki/Vi_(text_editor))), and [`vim`](https://www.vim.org/).
+
+*A guide on editing files in vi is coming soon!*
+
+<!-- TODO - link to editing files in vi post -->
+
+----
+
 ## resources and references
 
 [Wikipedia - Bash (Unix shell)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 [Wikipedia - Z shell](https://en.wikipedia.org/wiki/Z_shell)
+
+[nano](https://www.nano-editor.org/)
+
+[Wikipedia - GNU nano](https://en.wikipedia.org/wiki/GNU_nano)
+
+[Wikipedia - vi (text editor)](https://en.wikipedia.org/wiki/Vi_(text_editor))
+
+[vim](https://www.vim.org/)
+
+[Wikipedia - Vim (text editor)](https://en.wikipedia.org/wiki/Vim_(text_editor))
