@@ -19,6 +19,27 @@ tags:
 
 When a Unix shell is initialized, it reads and executes commands from a set of configuration files. These files are used to set up the shell environment, including environment variables, aliases, and functions. The specific files that are executed depend on the type of shell being used and whether the shell has registered a login operation.
 
+----
+
+## table of contents
+
+[the home directory](#the-home-directory)
+
+[shell profile files](#shell-profile-files)
+
+[shell rc files](#shell-rc-files)
+
+[editing profile and rc files](#editing-profile-and-rc-files)
+- [editing on macOS](#editing-on-macos)
+- [editing on Windows](#editing-on-windows)
+- [editing from the command line](#editing-from-the-command-line)
+
+[resources and references](#resources-and-references)
+
+----
+
+## the home directory
+
 Profile files and RC files should be located in the user's home directory. To see the location of your home directory, execute one of the following commands in your preferred Unix shell.
 
 ```shell
