@@ -146,6 +146,8 @@ pwd
 
 ## resources and references
 
+[GeeksForGeeks: Creating and Running bash and zsh Scripts](https://www.geeksforgeeks.org/creating-and-running-bash-and-zsh-scripts/)
+
 [Baeldung: How to Use Command Line Arguments in a Bash Script](https://www.baeldung.com/linux/use-command-line-arguments-in-bash-script)
 
 [Red Hat: Adding arguments and options to your Bash scripts](https://www.redhat.com/sysadmin/arguments-options-bash-scripts)
