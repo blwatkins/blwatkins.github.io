@@ -1,7 +1,7 @@
 ---
 layout: post
 author: brittni watkins
-date: 2025-05-22 01:00:00 -0000
+date: 2025-05-21 12:00:00 -0000
 modified_date: 2025-05-21
 title: "shell profile and rc files"
 excerpt: "When a Unix shell is initialized, it reads and executes commands from a set of configuration files. These files are used to set up the shell environment, including environment variables, aliases, and functions."
