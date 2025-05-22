@@ -242,9 +242,7 @@ The `export` command will set the given variable to the given value. When execut
 
 If an environment variable needs to have some value in every shell session, it is recommended to set that variable in the appropriate shell profile file or shell RC file.
 
-*A guide on shell profile and RC files is coming soon!*
-
-<!-- TODO - link to shell profile and rc files post -->
+Additional information about shell profile files and RC files can be found in the [shell profile and rc files guide]({% post_url learn-to-code/unix/2025-05-21-shell-profile-and-rc-files %}).
 
 To confirm the variable has been set properly, you can print its value using the [`echo`](#print-something) command.
 
