@@ -2,7 +2,7 @@
 layout: post
 author: brittni watkins
 date: 2025-05-14 16:00:00 -0000
-modified_date: 2025-05-20
+modified_date: 2025-05-21
 title: "useful unix commands"
 excerpt: "This tutorial will walk you through some Unix shell commands that will be useful to know as you progress on your coding journey."
 tags:
@@ -88,7 +88,7 @@ The `pwd` command prints the absolute file path of your current location in the 
 whoami
 ```
 
-The `whoami` command prints your username. This can be useful to check your username when you are connected to a remote server.
+The `whoami` command prints your username. This command can be used to check your username when you are connected to a remote server.
 
 ### print the current date and time
 
@@ -129,7 +129,7 @@ echo $HOME
 clear
 ```
 
-The `clear` command will clear the shell window.
+The `clear` command clears the shell window.
 
 ### list the directory contents
 
@@ -284,9 +284,9 @@ where COMMAND_NAME_HERE
 which -a COMMAND_NAME_HERE
 ```
 
-The `where` command and the `which -a` command are equivalent; they both print all paths that could be used to execute the given command.
+The `where` command and the `which -a` command are equivalent; they print all paths to the given command.
 
-The `where` command gives you all locations of the given program; the `which` command tells you which one will be used when you execute that program.
+The `where` command gives you all locations of the given command; the `which` command tells you which one will be used when you execute that command.
 
 #### examples
 
@@ -301,7 +301,7 @@ which -a ruby
 bash
 ```
 
-The `bash` command will start a run of the Bash shell inside the current shell instance.
+The `bash` command initializes an instance of the [Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) inside the current shell instance.
 
 ### start a Z shell instance
 
@@ -309,7 +309,7 @@ The `bash` command will start a run of the Bash shell inside the current shell i
 zsh
 ```
 
-The `zsh` command will start a run of the Z shell inside of the current shell instance.
+The `zsh` command initializes an instance of the [Z shell](https://en.wikipedia.org/wiki/Z_shell) inside of the current shell instance.
 
 ### exit the current shell instance
 
