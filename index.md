@@ -17,6 +17,18 @@ You can purchase stationery and gifts featuring azurepolarbear's work in the [br
 
 ----
 
+# [learn to code](./learn-to-code)
+
+## > [unix](./learn-to-code/unix)
+
+## > [git](./learn-to-code/version-control/git)
+
+## > [github](./learn-to-code/version-control/git/github)
+
+Development of our tutorials is ongoing.
+
+----
+
 ## donate
 
 We are currently accepting donations to support our creative projects.
@@ -31,18 +43,6 @@ We are currently accepting donations to support our creative projects.
   </p>
 <br/>
 </div>
-
-----
-
-# [learn to code](./learn-to-code)
-
-## > [unix](./learn-to-code/unix)
-
-## > [git](./learn-to-code/version-control/git)
-
-## > [github](./learn-to-code/version-control/git/github)
-
-Development of our tutorials is ongoing.
 
 ----
 
