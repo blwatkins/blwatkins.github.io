@@ -46,13 +46,17 @@ This guide will cover the basics of creating, writing, and executing shell scrip
 
 ## creating a shell script file
 
-A shell script file can be created using any text editor. A list of popular text editors can be found in the [text editors guide](TODO). If you would like to create a shell script file using the command line, you can use the `touch` command to create an empty file. For example, to create a shell script file named `my-script.sh`, you would execute the following command in the terminal.
+<!-- TODO - add link -->
+
+A shell script file can be created using any text editor. A list of popular text editors can be found in the [text editors guide](). If you would like to create a shell script file using the command line, you can use the `touch` command to create an empty file. For example, to create a shell script file named `my-script.sh`, you would execute the following command in the terminal.
 
 ```shell
 touch my-script.sh
 ```
 
-Additional information about unix shell commands can be found in the [unix commands guide](TODO).
+<!-- TODO - add link -->
+
+Additional information about unix shell commands can be found in the [unix commands guide]().
 
 The extension of your shell script file will vary depending on the shell you plan to execute it with and your personal preferences. Most shell scripts use the `.sh` extension, for example `my-script.sh`. If you are using the Bash shell, you can also use the `.bash` extension, for example `my-script.bash`. If you are using the Z shell, you can use the `.zsh` extension, for example `my-script.zsh`. You could also have a shell script file with no extension at all, for example `my-script`.
 
