@@ -21,6 +21,8 @@ There are many Unix shell programs available to developers, including [Bash](htt
 
 ### > [unix shell scripts]({% post_url learn-to-code/unix/2025-05-22-unix-shell-scripts %})
 
+### > [editing files in vi]({% post_url learn-to-code/unix/2025-06-10-editing-files-in-vi %})
+
 ----
 
 ## resources and references
