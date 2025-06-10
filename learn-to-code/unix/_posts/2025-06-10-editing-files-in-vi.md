@@ -1,7 +1,7 @@
 ---
 layout: post
 author: brittni watkins
-date: 2025-06-10 12:00:00 -0000 # Update this date to the current date
+date: 2025-06-10 12:00:00 -0000
 modified_date: 2025-06-10
 title: "editing files in vi"
 excerpt: "In this guide, we will cover the basics of using vi to edit files in  a Unix shell."
