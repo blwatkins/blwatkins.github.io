@@ -3,9 +3,13 @@ title: "unix"
 layout: page
 ---
 
-A Unix shell provides a text-based user interface for Unix-like operating systems. The shell is both an interactive command language and a scripting language, and it is used by the operating system to control the execution of the system using shell scripts.
+A Unix shell provides a text-based user interface for Unix-like operating systems.
+The shell is both an interactive command language and a scripting language, and it is used by the operating system to control the execution of the system using shell scripts.
 
-There are many Unix shell programs available to developers, including [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) and [Z shell](https://en.wikipedia.org/wiki/Z_shell).
+There are many Unix shell programs available to developers, including
+[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+and
+[Z shell](https://en.wikipedia.org/wiki/Z_shell).
 
 ----
 
