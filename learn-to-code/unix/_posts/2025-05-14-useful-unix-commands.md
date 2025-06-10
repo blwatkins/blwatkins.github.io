@@ -2,7 +2,7 @@
 layout: post
 author: brittni watkins
 date: 2025-05-14 16:00:00 -0000
-modified_date: 2025-05-22
+modified_date: 2025-06-10
 title: "useful unix commands"
 excerpt: "This tutorial will walk you through some Unix shell commands that will be useful to know as you progress on your coding journey."
 tags:
@@ -79,7 +79,7 @@ Use the `DOWN` arrow key to scroll forward through previous commands.
 pwd
 ```
 
-The `pwd` command prints the absolute file path of your current location in the shell. Your current location will correspond to some folder in your computer's file system.
+The [`pwd`](https://explainshell.com/explain/1/pwd) command prints the absolute file path of your current location in the shell. Your current location will correspond to some folder in your computer's file system.
 
 ### print your username
 
@@ -87,7 +87,7 @@ The `pwd` command prints the absolute file path of your current location in the 
 whoami
 ```
 
-The `whoami` command prints your username. This command can be used to check your username when you are connected to a remote server.
+The [`whoami`](https://explainshell.com/explain/1/whoami) command prints your username. This command can be used to check your username when you are connected to a remote server.
 
 ### print the current date and time
 
@@ -95,7 +95,7 @@ The `whoami` command prints your username. This command can be used to check you
 date
 ```
 
-The `date` command prints the current date and time.
+The [`date`](https://explainshell.com/explain/1/date) command prints the current date and time.
 
 ### print something
 
@@ -103,7 +103,7 @@ The `date` command prints the current date and time.
 echo STRING_HERE
 ```
 
-The `echo` command will print the given string.
+The [`echo`](https://explainshell.com/explain/1/echo) command will print the given string.
 
 > [!TIP]
 > Fun fact: Want to make your computer beep? Try the following: 
@@ -128,7 +128,7 @@ echo $HOME
 clear
 ```
 
-The `clear` command clears the shell window.
+The [`clear`](https://explainshell.com/explain/1/clear) command clears the shell window.
 
 ### list the directory contents
 
@@ -136,7 +136,7 @@ The `clear` command clears the shell window.
 ls
 ```
 
-The `ls` command prints all the visible files and folders in our working directory.
+The [`ls`](https://explainshell.com/explain/1/ls) command prints all the visible files and folders in our working directory.
 
 ```shell
 ls -l
@@ -172,7 +172,7 @@ Additional information about paths can be found in the [absolute and relative pa
 cd DIRECTORY_PATH_HERE
 ```
 
-The `cd` command will change the working directory to the directory with the given absolute or relative path.
+The [`cd`](https://explainshell.com/explain/1posix/cd) command will change the working directory to the directory with the given absolute or relative path.
 
 Additional information about paths can be found in the [absolute and relative paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %}).
 
@@ -182,7 +182,7 @@ Additional information about paths can be found in the [absolute and relative pa
 touch FILENAME_HERE
 ```
 
-The `touch` command creates a file.
+The [`touch`](https://explainshell.com/explain/1/touch) command creates a file.
 
 ```shell
 touch FILE_PATH_HERE
@@ -205,7 +205,7 @@ touch ./my-directory/MyJavaClass.java
 mkdir DIRECTORY_PATH_HERE
 ```
 
-The `mkdir` command creates a folder, also known as a directory. The directory path argument can be an absolute path or a relative path.
+The [`mkdir`](https://explainshell.com/explain/1/mkdir) command creates a folder, also known as a directory. The directory path argument can be an absolute path or a relative path.
 
 Additional information about paths can be found in the [absolute and relative paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %}).
 
@@ -215,7 +215,7 @@ Additional information about paths can be found in the [absolute and relative pa
 chmod PERMISSIONS_HERE FILE_PATH_HERE
 ```
 
-The `chmod` command updates the permissions of the given file using the given permissions.
+The [`chmod`](https://explainshell.com/explain/1/chmod) command updates the permissions of the given file using the given permissions.
 
 Permissions can be provided in symbolic mode or octal mode.
 
@@ -237,7 +237,7 @@ chmod ugo+w my-text-file.txt
 export VARIABLE_NAME_HERE=VARIABLE_VALUE_HERE
 ```
 
-The `export` command will set the given variable to the given value. When executed in a Unix shell, this change will only be active for the current shell session.
+The [`export`](https://explainshell.com/explain/1posix/export) command will set the given variable to the given value. When executed in a Unix shell, this change will only be active for the current shell session.
 
 If an environment variable needs to have some value in every shell session, it is recommended to set that variable in the appropriate shell profile file or shell RC file.
 
@@ -262,7 +262,7 @@ echo $SOME_VARIABLE
 which COMMAND_NAME_HERE
 ```
 
-The `which` command prints the absolute path to the location of the given command, provided as an argument.
+The [`which`](https://explainshell.com/explain/1/which) command prints the absolute path to the location of the given command, provided as an argument.
 
 #### examples
 
@@ -298,7 +298,7 @@ which -a ruby
 bash
 ```
 
-The `bash` command initializes an instance of the [Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) inside the current shell instance.
+The [`bash`](https://explainshell.com/explain/1/bash) command initializes an instance of the [Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) inside the current shell instance.
 
 ### start a Z shell instance
 
@@ -306,7 +306,7 @@ The `bash` command initializes an instance of the [Bash shell](https://en.wikipe
 zsh
 ```
 
-The `zsh` command initializes an instance of the [Z shell](https://en.wikipedia.org/wiki/Z_shell) inside of the current shell instance.
+The [`zsh`](https://explainshell.com/explain/1/zsh) command initializes an instance of the [Z shell](https://en.wikipedia.org/wiki/Z_shell) inside of the current shell instance.
 
 ### exit the current shell instance
 
@@ -314,7 +314,7 @@ The `zsh` command initializes an instance of the [Z shell](https://en.wikipedia.
 exit
 ```
 
-The `exit` command can be used to exit the current shell instance.
+The [`exit`](https://explainshell.com/explain/1posix/exit) command can be used to exit the current shell instance.
 
 ----
 
