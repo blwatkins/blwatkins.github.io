@@ -16,9 +16,33 @@ minima:
     - title: X (formerly Twitter)
       icon: x-twitter
       url: "https://x.com/books_n_code"
+    - title: Bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/brittniwatkins.bsky.social"
+    - title: Threads
+      icon: threads
+      url: "https://www.threads.com/@brittniwatkins"
     - title: Instagram
       icon: instagram
       url: "https://instagram.com/brittniwatkins"
+    - title: Facebook
+      icon: facebook
+      url: "https://www.facebook.com/brittniwatkins.dev"
+    - title: TikTok
+      icon: tiktok
+      url: "https://tiktok.com/@brittni.watkins.dev"
+    - title: Pinterest
+      icon: pinterest
+      url: "https://www.pinterest.com/brittniwatkinsdev/"
+    - title: YouTube
+      icon: youtube
+      url: "https://www.youtube.com/channel/UCeJ-huUU2AWP0z4-HWr1BXQ"
+    - title: Twitch
+      icon: twitch
+      url: "https://www.twitch.tv/brittniandthepolarbear"
+    - title: Store
+      icon: shopify
+      url: "https://brittniandthepolarbear.com/"
   nav_pages:
     - index.md
 
