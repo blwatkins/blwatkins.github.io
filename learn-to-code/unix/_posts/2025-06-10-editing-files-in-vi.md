@@ -4,7 +4,7 @@ author: brittni watkins
 date: 2025-06-10 12:00:00 -0000 # Update this date to the current date
 modified_date: 2025-06-10
 title: "editing files in vi"
-excerpt: "In this guide, we will cover the basics of using `vi` to edit files in  a Unix shell."
+excerpt: "In this guide, we will cover the basics of using vi to edit files in  a Unix shell."
 tags:
   - unix
   - command line
@@ -50,7 +50,7 @@ The `vi` command opens the specified file in the `vi` text editor. If the file d
 
 The provided file path can be an absolute path or a relative path.
 Additional information about file paths can be found in the
-[absolute and relative file paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-file-paths %}).
+[absolute and relative paths guide]({% post_url learn-to-code/unix/2025-05-14-absolute-and-relative-paths %}).
 
 ----
 
@@ -67,7 +67,7 @@ To return to command mode from insert mode, press the `ESCAPE` key on your keybo
 ## command mode
 
 In command mode, you cannot type or edit the file directly.
-Instead, you use various commands and keystrokes to manipulate the file.
+Instead, you will use various commands and keystrokes to manipulate the file.
 In command mode, you can perform actions such as saving the file, exiting `vi`, deleting lines, copying lines, and more.
 
 ### commands
