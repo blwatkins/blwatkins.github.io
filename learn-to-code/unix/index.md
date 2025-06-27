@@ -41,4 +41,4 @@ and
 
 [Wikipedia - Shell script](https://en.wikipedia.org/wiki/Shell_script)
 
-[YouTube | CrashCourse - Keyboards & Command Line Interfaces: Crash Course Computer Science #22](https://youtu.be/4RPtJ9UyHS0?si=bvPqCd7WGg65erv9)
+[YouTube: CrashCourse - "Keyboards & Command Line Interfaces: Crash Course Computer Science #22"](https://youtu.be/4RPtJ9UyHS0?si=bvPqCd7WGg65erv9)

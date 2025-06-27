@@ -45,6 +45,7 @@ minima:
       url: "https://brittniandthepolarbear.com/"
   nav_pages:
     - index.md
+    - learn-to-code/index.md
 
 title: brittni - coding nerd
 description: i love to make awesome things with code!
