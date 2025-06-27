@@ -40,3 +40,5 @@ and
 [Wikipedia - Z shell](https://en.wikipedia.org/wiki/Z_shell)
 
 [Wikipedia - Shell script](https://en.wikipedia.org/wiki/Shell_script)
+
+[YouTube | CrashCourse - Keyboards & Command Line Interfaces: Crash Course Computer Science #22](https://youtu.be/4RPtJ9UyHS0?si=bvPqCd7WGg65erv9)
