@@ -25,6 +25,10 @@ You can purchase stationery and gifts featuring azurepolarbear's work in the [br
 
 ### >> [github](./learn-to-code/version-control/git/github)
 
+## > [programming](./programming)
+
+### >> [typescript](./programming/typescript)
+
 ## > [algorithmic art](./learn-to-code/algorithmic-art)
 
 ## > [cryptography](./learn-to-code/cryptography)
