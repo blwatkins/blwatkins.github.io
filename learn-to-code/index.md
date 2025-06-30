@@ -5,18 +5,11 @@ layout: page
 
 ### What would you like to learn today?
 
-## > [unix](./unix)
-
-## > [git](./version-control/git)
-
-### >> [github](./version-control/git/github)
-
-## > [programming](./programming)
-
-### >> [typescript](./programming/typescript)
-
-## > [algorithmic art](./algorithmic-art)
-
-## > [cryptography](./cryptography)
-
-### >> [asymmetric encryption](./cryptography/asymmetric-encryption)
+- ## [unix](./unix)
+- ## [git](./version-control/git)
+  - ### [github](./version-control/git/github)
+- ## [programming](./programming)
+  - ### [typescript](./programming/typescript)
+- ## [algorithmic art](./algorithmic-art)
+- ## [cryptography](./cryptography)
+  - ### [asymmetric encryption](./cryptography/asymmetric-encryption)

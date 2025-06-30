@@ -19,27 +19,20 @@ You can purchase stationery and gifts featuring azurepolarbear's work in the [br
 
 # [learn to code](./learn-to-code)
 
-## > [unix](./learn-to-code/unix)
-
-## > [git](./learn-to-code/version-control/git)
-
-### >> [github](./learn-to-code/version-control/git/github)
-
-## > [programming](./programming)
-
-### >> [typescript](./programming/typescript)
-
-## > [algorithmic art](./learn-to-code/algorithmic-art)
-
-## > [cryptography](./learn-to-code/cryptography)
-
-### >> [asymmetric encryption](./learn-to-code/cryptography/asymmetric-encryption)
-
 Development of our tutorials is ongoing.
+
+- ## [unix](./learn-to-code/unix)
+- ## [git](./learn-to-code/version-control/git)
+  - ### [github](./learn-to-code/version-control/git/github)
+- ## [programming](./learn-to-code/programming)
+  - ### [typescript](./learn-to-code/programming/typescript)
+- ## [algorithmic art](./learn-to-code/algorithmic-art)
+- ## [cryptography](./learn-to-code/cryptography)
+  - ### [asymmetric encryption](./learn-to-code/cryptography/asymmetric-encryption)
 
 ----
 
-## donate
+# donate
 
 We are currently accepting donations to support our creative projects.
 
