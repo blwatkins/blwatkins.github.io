@@ -1,4 +1,4 @@
 ---
-title: "webpack and typescript"
+title: "typescript packages: webpack"
 layout: page
 ---
