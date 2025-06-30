@@ -3,7 +3,7 @@ title: "useful n commands"
 layout: post
 ---
 
-<!-- TODO - add post frontmatter -->
+<!-- TODO - add post front matter -->
 
 # remove old versions of node
 
