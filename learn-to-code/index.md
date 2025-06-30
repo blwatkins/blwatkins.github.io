@@ -11,6 +11,8 @@ layout: page
 
 ### >> [github](./version-control/git/github)
 
+## > [algorithmic art](./algorithmic-art)
+
 ## > [cryptography](./cryptography)
 
 ### >> [asymmetric encryption](./cryptography/asymmetric-encryption)

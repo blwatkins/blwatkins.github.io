@@ -25,6 +25,8 @@ You can purchase stationery and gifts featuring azurepolarbear's work in the [br
 
 ### >> [github](./learn-to-code/version-control/git/github)
 
+## > [algorithmic art](./learn-to-code/algorithmic-art)
+
 ## > [cryptography](./learn-to-code/cryptography)
 
 ### >> [asymmetric encryption](./learn-to-code/cryptography/asymmetric-encryption)
