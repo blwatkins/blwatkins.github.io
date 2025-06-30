@@ -11,6 +11,10 @@ layout: page
 
 ### >> [github](./version-control/git/github)
 
+## > [programming](./programming)
+
+### >> [typescript](./programming/typescript)
+
 ## > [algorithmic art](./algorithmic-art)
 
 ## > [cryptography](./cryptography)
