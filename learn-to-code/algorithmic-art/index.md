@@ -30,3 +30,11 @@ This is not an exhaustive list, but a starting point to explore the world of alg
 [fx(hash)](https://www.fxhash.xyz/)
 
 [KodaDot](https://kodadot.xyz/)
+
+----
+
+## resources and references
+
+----
+
+## videos
