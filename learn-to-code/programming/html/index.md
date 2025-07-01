@@ -29,6 +29,8 @@ layout: page
 
 ### paid
 
+I am not sponsored by or affiliated with any of these courses, but I have taken them and found them to be helpful.
+
 [Code with Mosh - The Ultimate HTML5 and CSS3 Series](https://codewithmosh.com/p/the-ultimate-html-css)
 
 ----

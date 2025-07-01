@@ -29,6 +29,8 @@ Git is a version control software that allows us to save and restore different v
 
 ### paid
 
+I am not sponsored by or affiliated with any of these courses, but I have taken them and found them to be helpful.
+
 [Code with Mosh - The Ultimate Git Course](https://codewithmosh.com/p/the-ultimate-git-course)
 
 [KodeKloud - GIT for Beginners](https://learn.kodekloud.com/courses/git-for-beginners)
