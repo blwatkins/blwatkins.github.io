@@ -73,8 +73,14 @@ This is not an exhaustive list, but a starting point to explore the world of alg
 
 [YouTube: CrashCourse - "Screens & 2D Graphics: Crash Course Computer Science #23"](https://youtu.be/7Jr0SFMQ4Rs?si=SfJDiDs5LpZxrXNs)
 
+[YouTube: CrashCourse - "3D Graphics: Crash Course Computer Science #27"](https://youtu.be/TEAtmCYYKZA?si=PlWBIWPsgz1zuXC7)
+
 ----
 
 ## videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Jr0SFMQ4Rs?si=NTAbC7o56T13dJau" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TEAtmCYYKZA?si=PlWBIWPsgz1zuXC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
