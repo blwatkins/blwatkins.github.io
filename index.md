@@ -25,6 +25,7 @@ Development of our tutorials is ongoing.
 - ## [git](./learn-to-code/version-control/git)
   - ### [github](./learn-to-code/version-control/git/github)
 - ## [programming](./learn-to-code/programming)
+  - ### [html](./learn-to-code/programming/html)
   - ### [typescript](./learn-to-code/programming/typescript)
 - ## [algorithmic art](./learn-to-code/algorithmic-art)
 - ## [cryptography](./learn-to-code/cryptography)
