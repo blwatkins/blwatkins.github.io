@@ -30,6 +30,7 @@ Development of our tutorials is ongoing.
 - ## [algorithmic art](./learn-to-code/algorithmic-art)
 - ## [cryptography](./learn-to-code/cryptography)
   - ### [asymmetric encryption](./learn-to-code/cryptography/asymmetric-encryption)
+- ## [networks](./learn-to-code/networks)
 
 ----
 

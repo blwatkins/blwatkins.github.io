@@ -14,3 +14,4 @@ layout: page
 - ## [algorithmic art](./algorithmic-art)
 - ## [cryptography](./cryptography)
   - ### [asymmetric encryption](./cryptography/asymmetric-encryption)
+- ## [networks](./networks)
