@@ -19,6 +19,8 @@ layout: page
 
 [YouTube: The Coding Train - *8: HTML / CSS / DOM - p5.js Tutorial* (Playlist)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 
+[YouTube: CrashCourse - "The World Wide Web: Crash Course Computer Science #30"](https://youtu.be/guvsH5OFizE?si=ipEYbUeIp5CmZm5o)
+
 ----
 
 ## courses
@@ -42,3 +44,7 @@ I am not sponsored by or affiliated with any of these courses, but I have taken 
 <br/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=iqT9nbAUXjc7uRl_&amp;list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/guvsH5OFizE?si=ipEYbUeIp5CmZm5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
