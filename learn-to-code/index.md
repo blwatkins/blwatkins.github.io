@@ -15,3 +15,4 @@ layout: page
 - ## [cryptography](./cryptography)
   - ### [asymmetric encryption](./cryptography/asymmetric-encryption)
 - ## [networks](./networks)
+- ## [resources](./resources.md)

@@ -31,6 +31,7 @@ Development of our tutorials is ongoing.
 - ## [cryptography](./learn-to-code/cryptography)
   - ### [asymmetric encryption](./learn-to-code/cryptography/asymmetric-encryption)
 - ## [networks](./learn-to-code/networks)
+- ## [resources](./learn-to-code/resources.md)
 
 ----
 
