@@ -21,6 +21,9 @@ You can purchase stationery and gifts featuring azurepolarbear's work in the [br
 
 Development of our tutorials is ongoing.
 
+- ## tools
+  - ### code scanning
+    - #### [codeql](./learn-to-code/tools/code-scanning/codeql) 
 - ## [unix](./learn-to-code/unix)
 - ## [git](./learn-to-code/version-control/git)
   - ### [github](./learn-to-code/version-control/git/github)
