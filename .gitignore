@@ -8,8 +8,5 @@ _site/
 .jekyll-cache/
 .sass-cache/
 
-# Ruby
-Gemfile.lock
-
 # Visual Studio Code
 .vscode/
