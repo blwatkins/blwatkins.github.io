@@ -29,6 +29,7 @@ This tutorial is beginner-friendly, but it is recommended that you have a basic 
 - Basic programming concepts, such as variables, data types, functions, and control flow.
 - Basic knowledge of HTML and CSS.
 - Basic knowledge of JavaScript syntax and JSON (JavaScript Object Notation) format.
+- Basic knowledge of Git and GitHub for version control and code hosting.
 
 ## additional considerations
 
