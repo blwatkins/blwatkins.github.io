@@ -20,7 +20,7 @@ You will need the following to follow along with this series:
 - A computer with internet access and a web browser.
 - A code or text editor. Additional information about text editors can be found in the [text editors guide]({% post_url learn-to-code/tools/text-editors/2025-05-21-text-editors %}).
 - A [GitHub](https://github.com/) account.
-- A JavaScript runtime environment installed on your computer, such as [Node.js](https://nodejs.org/en), [Deno](https://deno.com/), or [Bun](https://bun.com/). In this series, we will be using Bun.
+- The [Node.js](https://nodejs.org/en) JavaScript runtime environment installed on your computer.
 
 ## what you should already know
 
@@ -59,7 +59,3 @@ Deploying the API to a public hosting service is optional and not required to co
 [GitHub](https://github.com/)
 
 [Node.js](https://nodejs.org/en)
-
-[Deno](https://deno.com/)
-
-[Bun](https://bun.com/)
