@@ -29,15 +29,19 @@ layout: page
 
 [freeCodeCamp - HTML for Beginners](https://www.freecodecamp.org/news/html-crash-course/)
 
+[freeCodeCamp - Learn Web Development Basics – HTML, CSS, and JavaScript Explained for Beginners](https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/)
+
 ### GeeksforGeeks
 
 [GeeksforGeeks - HTML Tutorial](https://www.geeksforgeeks.org/html/html-tutorial/)
 
 ### YouTube
 
-[YouTube: W3Schools.com - *HTML Tutorial* (Playlist)](https://www.youtube.com/playlist?list=PLP9IO4UYNF0VdAajP_5pYG-jG2JRrG72s)
+[YouTube: brittni | coding nerd - *Learning - Web Development: HTML* (Playlist)](https://youtube.com/playlist?list=PLTk8vQ-hBSzM9mm-AxWxoMbaAK_BHxwHh&si=F0A1vau4gv6de4hR)
 
 [YouTube: The Coding Train - *8: HTML / CSS / DOM - p5.js Tutorial* (Playlist)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
+
+[YouTube: W3Schools.com - *HTML Tutorial* (Playlist)](https://www.youtube.com/playlist?list=PLP9IO4UYNF0VdAajP_5pYG-jG2JRrG72s)
 
 [YouTube: freeCodeCamp.org - *HTML and CSS Tutorials* (Playlist)](https://youtube.com/playlist?list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88&si=wwAAoJo6dgUPBCfV)
 
@@ -61,7 +65,7 @@ layout: page
 
 ## courses
 
-I am not sponsored by or affiliated with any of these courses, but I have taken them and found them to be helpful.
+I am not sponsored by or affiliated with any of the courses below.
 
 ### free
 

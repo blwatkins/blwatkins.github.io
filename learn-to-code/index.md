@@ -10,6 +10,7 @@ layout: page
   - ### [github](./version-control/git/github)
 - ## [programming](./programming)
   - ### [html](./programming/html)
+  - ### [css](./programming/css)
   - ### [typescript](./programming/typescript)
 - ## [algorithmic art](./algorithmic-art)
 - ## [cryptography](./cryptography)
