@@ -61,8 +61,8 @@ jobs:
       # ℹ️ Command-line programs to run using the OS shell.
       # 📚 See https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsrun
 
-      #   If the Autobuild fails above, remove it and uncomment the following three lines.
-      #   modify them (or add more) to build your code if your project, please refer to the EXAMPLE below for guidance.
+      #   If your project requires a manual build step before analysis, uncomment the following lines
+      #   and modify them (or add more) to build your code. Please refer to the EXAMPLE below for guidance.
 
       # - run: |
       #     echo "Run, Build Application using script"
