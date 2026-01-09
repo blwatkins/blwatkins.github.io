@@ -51,7 +51,6 @@ layout: page
 
 [YouTube: Simplilearn - *CSS Tutorial For Beginners | Simplilearn* (Playlist)](https://youtube.com/playlist?list=PLEiEAq2VkUUKRQHAs-qm247LxjxhFd1Us&si=ZJyg9X6hUryr7WxS)
 
-
 ### Bootstrap
 
 [Bootstrap](https://getbootstrap.com/)
