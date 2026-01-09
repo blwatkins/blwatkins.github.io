@@ -49,7 +49,7 @@ layout: page
 
 [YouTube: W3Schools.com - *CSS Tutorial* (Playlist)](https://youtube.com/playlist?list=PLP9IO4UYNF0UCaUSF3XNZ1U9f01E5h5PM&si=sEAUpx5aHOb5QctY)
 
-[YouTube: Simplilearn - *CSS Tutorial For Beginners \| Simplilearn* (Playlist)](https://youtube.com/playlist?list=PLEiEAq2VkUUKRQHAs-qm247LxjxhFd1Us&si=ZJyg9X6hUryr7WxS)
+[YouTube: Simplilearn - *CSS Tutorial For Beginners | Simplilearn* (Playlist)](https://youtube.com/playlist?list=PLEiEAq2VkUUKRQHAs-qm247LxjxhFd1Us&si=ZJyg9X6hUryr7WxS)
 
 
 ### Bootstrap
