@@ -1,12 +1,12 @@
 *.DS_Store
 
-# WebStorm
+# JetBrains IDEs
 .idea/
+
+# Visual Studio Code
+.vscode/
 
 # Jekyll
 _site/
 .jekyll-cache/
 .sass-cache/
-
-# Visual Studio Code
-.vscode/

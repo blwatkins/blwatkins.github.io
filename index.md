@@ -26,6 +26,7 @@ Development of our tutorials is ongoing.
   - ### [github](./learn-to-code/version-control/git/github)
 - ## [programming](./learn-to-code/programming)
   - ### [html](./learn-to-code/programming/html)
+  - ### [css](./learn-to-code/programming/css)
   - ### [typescript](./learn-to-code/programming/typescript)
 - ## code scanning
   - ### [codeql](./learn-to-code/tools/code-scanning/codeql)
