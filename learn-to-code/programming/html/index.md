@@ -37,7 +37,7 @@ layout: page
 
 ### YouTube
 
-[YouTube: brittni | coding nerd - *Learning - Web Development: HTML* (Playlist)](https://youtube.com/playlist?list=PLTk8vQ-hBSzM9mm-AxWxoMbaAK_BHxwHh&si=F0A1vau4gv6de4hR)
+[YouTube: brittni - *Learning - Web Development: HTML* (Playlist)](https://youtube.com/playlist?list=PLTk8vQ-hBSzM9mm-AxWxoMbaAK_BHxwHh&si=F0A1vau4gv6de4hR)
 
 [YouTube: The Coding Train - *8: HTML / CSS / DOM - p5.js Tutorial* (Playlist)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 
