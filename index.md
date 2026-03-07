@@ -15,30 +15,13 @@ You can purchase stationery and gifts featuring azurepolarbear's work from the [
 
 ***There is beauty in code, and code can make beautiful things.***
 
-----
+## [portfolio](./portfolio.md)
 
-# [learn to code](./learn-to-code)
-
-Development of our tutorials is ongoing.
-
-- ## [unix](./learn-to-code/unix)
-- ## [git](./learn-to-code/version-control/git)
-  - ### [github](./learn-to-code/version-control/git/github)
-- ## [programming](./learn-to-code/programming)
-  - ### [html](./learn-to-code/programming/html)
-  - ### [css](./learn-to-code/programming/css)
-  - ### [typescript](./learn-to-code/programming/typescript)
-- ## code scanning
-  - ### [codeql](./learn-to-code/tools/code-scanning/codeql)
-- ## [algorithmic art](./learn-to-code/algorithmic-art)
-- ## [cryptography](./learn-to-code/cryptography)
-  - ### [asymmetric encryption](./learn-to-code/cryptography/asymmetric-encryption)
-- ## [networks](./learn-to-code/networks)
-- ## [resources](./learn-to-code/resources.md)
+## [learn to code](./learn-to-code)
 
 ----
 
-# donate
+## donate
 
 We are currently accepting donations to support the development of this site and other projects.
 
