@@ -52,6 +52,7 @@ minima:
   nav_pages:
     - index.md
     - learn-to-code/index.md
+    - portfolio.md
 
 title: "brittni - coding nerd"
 description: "software engineer and educator 👩🏽‍💻💕"
