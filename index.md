@@ -15,7 +15,7 @@ You can purchase stationery and gifts featuring azurepolarbear's work from the [
 
 ***There is beauty in code, and code can make beautiful things.***
 
-## [portfolio](./portfolio)
+## [portfolio](./portfolio.md)
 
 ## [learn to code](./learn-to-code)
 
