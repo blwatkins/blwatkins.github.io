@@ -3,7 +3,7 @@ title: "home"
 layout: base
 ---
 
-# brittni - coding nerd
+# Brittni Watkins
 
 Brittni is an educator, software developer, and algorithmic artist.
 She is passionate about teaching people from all backgrounds how to code.
@@ -18,22 +18,6 @@ You can purchase stationery and gifts featuring azurepolarbear's work from the [
 ## [portfolio](./portfolio.md)
 
 ## [learn to code](./learn-to-code)
-
-----
-
-## donate
-
-We are currently accepting donations to support the development of this site and other projects.
-
-<div style="text-align: center">
-  <p>
-    <a href="https://www.buymeacoffee.com/brittniandthepolarbear"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=brittniandthepolarbear&button_colour=8828dc&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
-  </p>
-
-  <p>
-    <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '8828dc', 'O5O717Q6YA');kofiwidget2.draw();</script>
-  </p>
-</div>
 
 ----
 
