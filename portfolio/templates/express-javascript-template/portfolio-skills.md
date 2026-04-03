@@ -17,7 +17,7 @@ This page is a living technical record of skills, tools, and engineering practic
 
 - **CI runtime coverage:** 3 Node.js versions (`20.x`, `22.x`, `24.x`)
 - **Automation workflows:** 2 GitHub Actions workflows (lint/build, security analysis)
-- **Dependency automation:** Monthly [Dependabot](https://docs.github.com/en/code-security/dependabot) updates for npm and GitHub Actions
+- **Dependency automation:** Monthly Dependabot updates for npm and GitHub Actions
 - **Documentation approach:** README + source-linked technical evidence
 
 ## Skills and Tooling Inventory
@@ -25,11 +25,11 @@ This page is a living technical record of skills, tools, and engineering practic
 - **Programming Languages:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [Markdown](https://www.markdownguide.org/), [YAML](https://yaml.org/)
 - **Runtime & Frameworks:** [Node.js](https://nodejs.org/en), [Express](https://expressjs.com/)
 - **Templating & View Layer:** [EJS](https://ejs.co/)
-- **HTTP Security & API Hardening:** [Helmet](https://helmetjs.github.io/), [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS), [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit)
+- **HTTP Security & API Hardening:** [`helmet`](https://helmetjs.github.io/), [`cors`](https://github.com/expressjs/cors), [`express-rate-limit`](https://github.com/express-rate-limit/express-rate-limit)
 - **Bundling & Frontend Build:** [webpack](https://webpack.js.org/)
 - **Code Quality:** [ESLint](https://eslint.org/)
 - **Automation & Security Analysis:** [GitHub Actions](https://github.com/features/actions), [CodeQL](https://codeql.github.com/)
-- **Dependency Management:** [npm](https://www.npmjs.com/), [Dependabot](https://docs.github.com/en/code-security/dependabot)
+- **Dependency Management:** [npm](https://www.npmjs.com/), [Dependabot](https://docs.github.com/en/code-security/tutorials/secure-your-dependencies)
 - **Versioning & Platform:** [Git](https://git-scm.com/), [GitHub](https://github.com/)
 - **Development Runtime Utilities:** [nodemon](https://nodemon.io/)
 
