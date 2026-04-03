@@ -3,7 +3,7 @@ title: "express-javascript-template Portfolio Skills"
 layout: page
 ---
 
-This page is a living technical record of skills, tools, and engineering practices demonstrated in the [express-javascript-template](https://github.com/blwatkins/express-javascript-template) project.
+This page is a living technical record of skills, tools, and engineering practices demonstrated in the [express-javascript-template](https://github.com/blwatkins/express-javascript-template#readme) project.
 
 ## Project Overview
 
