@@ -1,5 +1,5 @@
 ---
-title: "portfolio"
+title: "Portfolio"
 layout: page
 ---
 
@@ -8,12 +8,9 @@ layout: page
 * [express-javascript-template](portfolio/templates/express-javascript-template)
 * [p5-typescript-template](https://github.com/blwatkins/p5-typescript-template)
 
-## Libraries
-
-* [@batpb/genart](https://blwatkins.github.io/genart/) - A TypeScript compatible library built with p5.js for creating responsive, generative, algorithmic art projects.
-
 ## Algorithmic Art
 
+* [Sketches](https://blwatkins.github.io/sketches/)
 * Rainbow Waves
 * Starry Skies
 * Gradient Graphs
@@ -24,15 +21,7 @@ layout: page
 * gradient graphs, v2.0
 * parallel lines
 
-## Web Design, Development, and E-Commerce
-
-### Etsy
-
-* [Etsy - BrittniAndBear](https://www.etsy.com/shop/BrittniAndBear)
-
-### Shopify
-
-* [brittni and the polar bear \| code + art boutique](https://brittniandthepolarbear.com/)
+## Web Development and Design
 
 ### Squarespace
 
