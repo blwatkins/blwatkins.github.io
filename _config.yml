@@ -2,63 +2,50 @@
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+  - jekyll-commonmark-ghpages
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - kramdown-parser-gfm
+  - jekyll-toc
 
 # valid social icon names can be found at https://fontawesome.com/search?ic=brands
 
 minima:
   skin: auto
   hide_site_feed_link: true
-  show_excerpts: true
+  show_excerpts: false
   social_links:
+    - title: "Source Code"
+      icon: git-alt
+      url: "https://github.com/blwatkins/blwatkins.github.io"
+    - title: "GitHub Pages"
+      icon: square-github
+      url: "https://blwatkins.github.io/"
     - title: GitHub
       icon: github
       url: "https://github.com/blwatkins"
-    - title: X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/books_n_code"
-    - title: Bluesky
-      icon: bluesky
-      url: "https://bsky.app/profile/brittniwatkins.bsky.social"
-    - title: Threads
-      icon: threads
-      url: "https://www.threads.com/@brittniwatkins"
-    - title: Instagram
-      icon: instagram
-      url: "https://instagram.com/brittniwatkins"
-    - title: Facebook
-      icon: facebook
-      url: "https://www.facebook.com/brittniwatkins.dev"
-    - title: TikTok
-      icon: tiktok
-      url: "https://tiktok.com/@brittni.watkins.dev"
-    - title: Pinterest
-      icon: pinterest
-      url: "https://www.pinterest.com/brittniwatkinsdev/"
     - title: YouTube
       icon: youtube
       url: "https://www.youtube.com/channel/UCeJ-huUU2AWP0z4-HWr1BXQ"
-    - title: Tubmlr
-      icon: tumblr
-      url: "https://brittniwatkins.tumblr.com/"
-    - title: Twitch
-      icon: twitch
-      url: "https://www.twitch.tv/brittniandthepolarbear"
-    - title: Store
-      icon: shopify
-      url: "https://brittniandthepolarbear.com/"
     - title: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/brittni-watkins/"
   nav_pages:
     - index.md
-    - learn-to-code/index.md
-    - portfolio.md
 
 title: "Brittni Watkins"
-description: "Creative Technologist and Educator"
+description: "Creative Technologist & Educator"
 show_downloads: false
 
 exclude:
+  - .github
+  - .ruby-version
   - Gemfile
   - Gemfile.lock
   - README.md
+  - LICENSE
