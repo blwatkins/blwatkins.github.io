@@ -30,14 +30,14 @@ jobs:
         with:
           bundler: 4.0.8
           bundler-cache: true
-          cache-version: 1
       - name: Setup Pages
+        id: setup_pages
         uses: actions/configure-pages@v6.0.0
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1.0.13
-        with:
-          source: ./
-          destination: ./_site
+        run: bundle exec jekyll build --baseurl "${{ steps.setup_pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+          PAGES_REPO_NWO: ${{ github.repository }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5.0.0
 
