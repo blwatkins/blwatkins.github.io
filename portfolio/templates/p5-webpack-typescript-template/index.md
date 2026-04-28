@@ -3,7 +3,7 @@ title: "p5-webpack-typescript-template"
 layout: page
 ---
 
-## Overview
+## Project Overview
 
 The [p5-webpack-typescript-template](https://github.com/blwatkins/p5-webpack-typescript-template#readme) is a starter project for building browser-based creative coding experiences with [p5.js](https://p5js.org/), [TypeScript](https://www.typescriptlang.org/), and [webpack](https://webpack.js.org/).
 It provides a practical baseline for writing maintainable sketch code, bundling it for the web, and supporting repeatable development workflows.
