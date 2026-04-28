@@ -36,6 +36,7 @@ minima:
       url: "https://www.linkedin.com/in/brittni-watkins/"
   nav_pages:
     - index.md
+    - portfolio/index.md
 
 title: "Brittni Watkins"
 description: "Creative Technologist & Educator"

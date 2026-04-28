@@ -18,7 +18,7 @@ The applications of code are vast and varied; there is space for everyone.
 
 ***There is beauty in code, and code can make beautiful things.***
 
-## [Portfolio](./portfolio.md)
+## [Portfolio](./portfolio)
 
 ## [Learn to Code](./learn-to-code)
 
