@@ -1,6 +1,8 @@
 ---
 title: "p5-webpack-typescript-template"
 layout: page
+date: 2026-04-27
+modified_date: 2026-04-28
 ---
 
 ## Project Overview
@@ -19,8 +21,9 @@ This page is a technical record of the skills, tools, and engineering practices 
 - **Build Pipeline:** [webpack](https://webpack.js.org/)
 - **Quality Controls:** ESLint checks for both TypeScript source and JavaScript config files
 - **Automation:** GitHub Actions workflows for build validation and CodeQL analysis
-- **Dependency automation:** Monthly dependency update automation with Dependabot
-- **Documentation Pattern:** README-driven onboarding with source-linked evidence
+- **Dependency Automation:** Scheduled dependency updates via Dependabot
+- **Security Analysis:** CodeQL analysis on push, pull request, and scheduled runs
+- **Documentation Pattern:** README-based onboarding with source-linked evidence
 
 ## Skills and Tooling Inventory
 
@@ -30,7 +33,7 @@ This page is a technical record of the skills, tools, and engineering practices 
 - **Code Quality:** [ESLint](https://eslint.org/)
 - **Dependency Management:** [npm](https://www.npmjs.com/)
 - **Versioning & Platform:** [Git](https://git-scm.com/), [GitHub](https://github.com/)
-- **CI/CD:** [GitHub Actions](https://github.com/features/actions), [CodeQL](https://codeql.github.com/), [Dependabot](https://docs.github.com/en/code-security/concepts/supply-chain-security/about-dependabot-alerts)
+- **Automation & Code Health:** [GitHub Actions](https://github.com/features/actions), [CodeQL](https://codeql.github.com/), [GitHub Dependabot](https://docs.github.com/en/code-security/concepts/supply-chain-security/about-dependabot-alerts)
 - **Environment Management:** [n](https://github.com/tj/n)
 - **Development Environments:** [WebStorm](https://www.jetbrains.com/webstorm/), [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -38,13 +41,15 @@ This page is a technical record of the skills, tools, and engineering practices 
 
 - TypeScript-first sketch development with a clear webpack entry-point model
 - Fast local development loop with dedicated serve/build scripts
-- Production-ready bundle output for browser delivery
+- Production-mode bundle output for browser delivery
 - Linting separation between app code and tooling/config code
 - Structured source and asset organization for maintainability
-- CI-backed build and security analysis workflows
-- Ongoing dependency hygiene via scheduled automation
+- CI-backed lint, build, and security analysis workflows
+- Scheduled automated dependency and GitHub Actions updates with grouped update policies
 
 ## Detailed Technical Notes
+
+Each technical claim below is backed by a source link to the corresponding implementation or workflow configuration in the project repository.
 
 ### TypeScript-based sketch architecture
 
@@ -66,7 +71,7 @@ This page is a technical record of the skills, tools, and engineering practices 
 ### Local development and preview loop
 
 - The template includes scripts to serve both development and production bundles locally.
-- The documented local host target is `127.0.0.1:8080`, streamlining quick browser verification.
+- The project documents a local preview target for rapid browser verification.
 - Evidence:
     - [`package.json`](https://github.com/blwatkins/p5-webpack-typescript-template/blob/main/package.json)
     - [`README.md`](https://github.com/blwatkins/p5-webpack-typescript-template/blob/main/README.md)
@@ -87,12 +92,18 @@ This page is a technical record of the skills, tools, and engineering practices 
 - Evidence:
     - [`assets/css/sketch.css`](https://github.com/blwatkins/p5-webpack-typescript-template/blob/main/assets/css/sketch.css)
     - [`assets/icon/favicon.ico`](https://github.com/blwatkins/p5-webpack-typescript-template/blob/main/assets/icon/favicon.ico)
+    - [`webpack.config.mjs`](https://github.com/blwatkins/p5-webpack-typescript-template/blob/main/webpack.config.mjs)
 
 ### Continuous quality and security posture
 
 - Repository workflows support ongoing build validation and security analysis.
-- Dependabot-driven monthly updates reinforce long-term maintenance and ecosystem currency.
+- Dependabot is configured for scheduled npm and GitHub Actions updates, including grouped production/development dependency policies.
 - Evidence:
     - [`.github/workflows/npm-build.yml`](https://github.com/blwatkins/p5-webpack-typescript-template/blob/main/.github/workflows/npm-build.yml)
     - [`.github/workflows/codeql.yml`](https://github.com/blwatkins/p5-webpack-typescript-template/blob/main/.github/workflows/codeql.yml)
     - [`.github/dependabot.yml`](https://github.com/blwatkins/p5-webpack-typescript-template/blob/main/.github/dependabot.yml)
+
+## Current Gaps / Future Improvements
+
+- Automated tests are not currently implemented; the `npm test` script remains a placeholder.
+- The template intentionally focuses on starter structure over advanced p5.js architecture patterns.
