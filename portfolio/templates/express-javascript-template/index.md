@@ -5,10 +5,10 @@ layout: page
 
 ## Overview
 
-The [express-javascript-template](https://github.com/blwatkins/express-javascript-template#readme) is a boilerplate project designed to provide a solid foundation for building full-stack web applications using Express.js and JavaScript.
+The [express-javascript-template](https://github.com/blwatkins/express-javascript-template#readme) is a boilerplate project designed to provide a solid foundation for building full-stack web applications using [Express.js](https://expressjs.com/) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 It includes a structured setup with best practices for security, configuration, and development workflows, as well as a client-side build pipeline using webpack.
 
-This page is a living technical record of skills, tools, and engineering practices demonstrated in the project.
+This page is a technical record of skills, tools, and engineering practices represented in the template.
 
 ## At a Glance
 
@@ -16,23 +16,24 @@ This page is a living technical record of skills, tools, and engineering practic
 - **Primary Runtime:** [Node.js](https://nodejs.org/en)
 - **Primary Framework:** [Express](https://expressjs.com/)
 - **Server Rendering Engine:** [EJS](https://ejs.co/)
-- **Primary Implementation Language:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **Primary Language:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **Frontend Scripts Build Pipeline:** [webpack](https://webpack.js.org/)
 - **CI runtime coverage:** 3 Node.js versions (`20.x`, `22.x`, `24.x`)
-- **Automation workflows:** 2 GitHub Actions workflows (lint/build, security analysis)
-- **Dependency automation:** Monthly Dependabot updates for npm and GitHub Actions
-- **Documentation approach:** README + source-linked technical evidence
+- **Automation:** GitHub Actions workflows for build validation and CodeQL analysis
+- **Dependency automation:** Monthly dependency update automation with Dependabot
+- **Documentation Pattern:** README-driven onboarding with source-linked evidence
 
 ## Skills and Tooling Inventory
 
-- **Programming Languages:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [Markdown](https://www.markdownguide.org/), [YAML](https://yaml.org/)
+- **Languages:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [Markdown](https://www.markdownguide.org/), [YAML](https://yaml.org/)
 - **Runtime & Frameworks:** [Node.js](https://nodejs.org/en), [Express](https://expressjs.com/)
 - **Templating & View Layer:** [EJS](https://ejs.co/)
 - **HTTP Security:** [`helmet`](https://helmetjs.github.io/), [`cors`](https://github.com/expressjs/cors), [`express-rate-limit`](https://github.com/express-rate-limit/express-rate-limit)
 - **Bundling & Frontend Build:** [webpack](https://webpack.js.org/)
 - **Code Quality:** [ESLint](https://eslint.org/)
-- **Dependency Management:** [npm](https://www.npmjs.com/), [GitHub Dependabot](https://docs.github.com/en/code-security/tutorials/secure-your-dependencies)
+- **Dependency Management:** [npm](https://www.npmjs.com/)
 - **Versioning & Platform:** [Git](https://git-scm.com/), [GitHub](https://github.com/)
-- **CI/CD:** [GitHub Actions](https://github.com/features/actions), [CodeQL](https://codeql.github.com/)
+- **CI/CD:** [GitHub Actions](https://github.com/features/actions), [CodeQL](https://codeql.github.com/), [GitHub Dependabot](https://docs.github.com/en/code-security/concepts/supply-chain-security/about-dependabot-alerts)
 - **Development Runtime Utilities:** [nodemon](https://nodemon.io/)
 - **Environment Management:** [n](https://github.com/tj/n)
 - **Development Environments:** [WebStorm](https://www.jetbrains.com/webstorm/), [Visual Studio Code](https://code.visualstudio.com/)
