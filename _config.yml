@@ -10,7 +10,6 @@ plugins:
   - jekyll-optional-front-matter
   - jekyll-default-layout
   - jekyll-titles-from-headings
-  - kramdown-parser-gfm
   - jekyll-toc
 
 # valid social icon names can be found at https://fontawesome.com/search?ic=brands
@@ -37,6 +36,7 @@ minima:
       url: "https://www.linkedin.com/in/brittni-watkins/"
   nav_pages:
     - index.md
+    - portfolio/index.md
 
 title: "Brittni Watkins"
 description: "Creative Technologist & Educator"
@@ -44,8 +44,10 @@ show_downloads: false
 
 exclude:
   - .github
+  - .gitignore
   - .ruby-version
   - Gemfile
   - Gemfile.lock
-  - README.md
   - LICENSE
+  - README.md
+  - vendor

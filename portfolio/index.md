@@ -1,12 +1,14 @@
 ---
 title: "Portfolio"
 layout: page
+date: 2026-04-28
+modified_date: 2026-04-28
 ---
 
-## Code Templates
+## [Templates](./templates)
 
-* [express-javascript-template](portfolio/templates/express-javascript-template)
-* [p5-typescript-template](https://github.com/blwatkins/p5-typescript-template)
+A collection of template projects designed to provide solid foundations for building web applications and creative coding experiences with various technologies.
+Each template includes structured setups and documented workflows to support maintainable development.
 
 ## Algorithmic Art
 
