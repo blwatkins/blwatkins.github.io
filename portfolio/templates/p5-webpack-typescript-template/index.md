@@ -35,7 +35,7 @@ This page is a technical record of the skills, tools, and engineering practices 
 - **Versioning & Platform:** [Git](https://git-scm.com/), [GitHub](https://github.com/)
 - **Automation:** [GitHub Actions](https://github.com/features/actions)
 - **Code Analysis / Security:** [CodeQL](https://codeql.github.com/)
-- **Dependency Automation:** [Dependabot](https://docs.github.com/en/code-security/concepts/supply-chain-security/about-dependabot-alerts)
+- **Dependency Automation:** [Dependabot](https://docs.github.com/en/code-security/how-tos/secure-your-supply-chain/secure-your-dependencies/configuring-dependabot-version-updates)
 - **Environment Management:** [n](https://github.com/tj/n)
 - **Development Environments:** [WebStorm](https://www.jetbrains.com/webstorm/), [Visual Studio Code](https://code.visualstudio.com/)
 
