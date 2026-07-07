@@ -28,4 +28,4 @@ The applications of code are vast and varied; there is space for everyone.
 
 ## [Learn to Code, with Brittni Watkins](https://blwatkins.github.io/learn-to-code/)
 
-## [TypeScript Utilities (`@blwatkins/utils`)](https://blwatkins.github.io/typescript-utils/)
+## [TypeScript Utilities](https://blwatkins.github.io/typescript-utils/)
