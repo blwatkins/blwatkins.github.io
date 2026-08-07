@@ -50,7 +50,7 @@ I also use AI to help me generate and update AI agent instruction files.
 When I use AI tools such as GitHub Copilot or Claude Code, I want them to be fully aware of the context of my project and my preferences as a developer.
 I don't want the code reviews to constantly suggest changes that I don't want because they don't align with my coding style or the goals of my project.
 Instruction files allow me to provide that context and those preferences to the AI tools, so that they can provide more relevant and useful feedback.
-I allow the AI tools to suggest changes to the instruction files as the project and code evolve, but I review those changes and only accept the ones that I feel are beneficial.
+I allow the AI tools to suggest changes to the instruction files as the project and code evolve, but I review those changes and only accept the ones that are needed.
 
 You can see an example of an AI instruction file in [`copilot-instructions.md` from my p5-webpack-typescript-template repository](https://github.com/blwatkins/p5-webpack-typescript-template/blob/main/.github/copilot-instructions.md).
 
