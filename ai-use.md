@@ -37,7 +37,7 @@ I do not have them author features, refactor across my codebase, or open pull re
 
 ### Code Reviews
 
-I primarily use AI for code reviews: once I finish a major changeset in my codebase, I will request a code review from an AI tool to help me identify potential issues, bugs, or areas for improvement.
+Once I finish a major changeset in my codebase, I will request a code review from an AI tool to help me identify potential issues, bugs, or areas for improvement.
 The AI tool will provide feedback on my code, and I will review that feedback to determine whether it is valid and useful.
 I only accept the changes that I feel are beneficial to the code, and I take care to mark the changes that were suggested by AI so that my process and the source of my changes remain clear and transparent.
 
@@ -68,11 +68,11 @@ Any code that I choose to include in my codebase is integrated by hand so that I
 ## Do You Use AI in Your Writing?
 
 Whenever I write a blog post or an article, I always write the first draft on my own.
-I will occasionally accept sentence and phrase completion suggestions from the autocomplete feature of my code editor, but I do not use AI to generate drafts, outlines, or ideas for my writing.
+I will occasionally accept sentence and phrase completion suggestions from the autocomplete feature of my code editor, but I do not use AI to generate drafts or outlines for my writing.
 I strive to ensure that my writing is my own, and that it reflects my own thoughts, ideas, and voice.
 After my first draft is complete, I will ask AI tools to review my writing and provide feedback on grammar, spelling, clarity, and style; I will review the feedback and implement any changes that I feel are necessary or beneficial to the piece.
 This section, for example, was written by me after I asked Claude to review this article and it suggested that I add a section about my prose writing in addition to my code and art.
-Every editing suggestion from an AI review tool is reviewed and approved by me before it is implemented and published.
+Every editing suggestion from an AI review tool is reviewed by me, and I only implement the suggestions I feel are needed.
 
 ## Transparency and Accountability
 
@@ -91,7 +91,7 @@ I know that for some, this will call into question the originality of my work, a
 I love creating art with code; I love the work that I do and the things that I create.
 The images, experiences, and programs that I make are the bounty of years of study, practice, success, failure, and experimentation.
 Each algorithm I publish is the result of weeks and months of research, development, coding, testing, iteration, improvement, and refinement.
-My transparency may not be enough, but I am happy with the approach I have taken, the workflows I have created for myself, and the time, and care, and love I put into my code and art every day.
+My transparency may not be enough for everyone, but I am happy with the approach I have taken, the workflows I have created for myself, and the time, and care, and love I put into my code and art every day.
 
 There is beauty in code, and code can make beautiful things.
 
