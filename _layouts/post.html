@@ -29,6 +29,13 @@ layout: base
                 {% endfor %}
             </div>
             {%- endif %}
+            {%- if page.read_time %}
+            <div>
+                <span class="bullet-divider">•</span>
+                Estimated {{ page.content | number_of_words | divided_by: 180 }} minute read
+                <span class="bullet-divider">•</span>
+            </div>
+            {%- endif %}
         </div>
     </header>
 
