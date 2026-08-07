@@ -11,8 +11,9 @@ read_time: true
 
 ## Art and Code and Where They Meet
 
-My work lives at the intersection of art and technology; I am fully immersed in both worlds, while also being in a space that is very different from both of them.
-As such, my views on artificial intelligence (AI) are nuanced, and I have a very specific approach to how I use AI in my work.
+My work lives at the intersection of art and technology: writing code, something that is typically considered a purely technical skill, becomes a creative process for me because the code I write creates art.
+Navigating the new and evolving landscape of artificial intelligence (AI) has become a challenge in my work, as the technical sphere where AI use may be more accepted and encouraged is completely intertwined with the creative sphere where AI use is more controversial and discouraged.
+My personal views on artificial intelligence (AI) are nuanced, and as a result I have a very specific approach to how I use AI in my work.
 
 ## Do You Use AI to Create Your Art?
 
@@ -62,21 +63,21 @@ However, these are always small, self-contained examples that I am using for edu
 I take the same care with these examples as I do with examples that I find on the internet or in books: I review them, test them, and modify them as needed to ensure that they are correct and useful.
 Any code that I choose to include in my codebase is integrated by hand so that I may apply my own coding style and preferences to the code; this also ensures that I am fully aware of how the code works and how it fits into the larger system.
 
-### Transparency and Accountability
+## Do You Use AI in Your Writing?
+
+Whenever I write a blog post or an article, I always write the first draft on my own.
+I will occasionally accept sentence and phrase completion suggestions from the autocomplete feature of my code editor, but I do not use AI to generate content, outlines, or ideas for my writing.
+I strive to ensure that my writing is my own, and that it reflects my own thoughts, ideas, and voice.
+After my first draft is complete, I will ask AI tools to review my writing and provide feedback on grammar, spelling, clarity, and style; I will review the feedback and implement any changes that I feel are necessary or beneficial to the piece.
+This section, for example, was written by me after I asked Claude to review this article and it suggested that I add a section about my prose writing in addition to my code and art.
+Every editing suggestion from an AI review tool is reviewed and approved by me before it is implemented and published.
+
+## Transparency and Accountability
 
 Every line of code and every line of text in every file in my codebase is reviewed and approved by me.
 I am never blindly accepting changes suggested by AI tools, and I take great care to ensure that AI is not affecting the quality, integrity, or originality of my work.
 Additionally, all of my code, including the AI instruction files, is open-source and publicly available in my repositories on GitHub.
 All of my code changes are tracked and documented in my GitHub commit history, so anyone can see exactly what changes were made, when they were made, and by whom.
-
-## Do You Use AI in Your Writing?
-
-Whenever I write a blog post or an article, I always write the first draft on my own.
-I will occasionally accept suggestions from the autocomplete feature of my code editor, but I do not use AI to generate content, outlines, or ideas for my writing.
-I strive to ensure that my writing is my own, and that it reflects my own thoughts, ideas, and voice.
-After my first draft is complete, I will ask AI tools to review my writing and provide feedback on grammar, spelling, clarity, and style; I will review the feedback and implement any changes that I feel are necessary or beneficial to the piece.
-This paragraph, for example, was written by me after my chosen AI tool reviewed this article and suggested that I add a section about my prose writing in addition to my code and art.
-Every editing suggestion from an AI review tool is reviewed and approved by me before it is implemented and published.
 
 ## Closing Thoughts
 
