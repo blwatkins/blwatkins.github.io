@@ -27,7 +27,7 @@ Typically, this is achieved through pseudorandom number generation, which allows
 My algorithms are hand-coded, meaning that I write every line of code myself.
 I am not prompting a large language model (LLM) to generate code for me, nor am I using an LLM to generate the art itself.
 
-## Do You Use AI to Create Your Code?
+## Do You Use AI in Your Engineering Work?
 
 I do use AI in my work as a creative technologist, but I try to be very intentional and mindful about how and when I use it.
 
@@ -43,7 +43,7 @@ I also use AI to help me generate and update AI agent instruction files.
 When I use AI tools such as GitHub Copilot or Claude Code, I want them to be fully aware of the context of my project and my preferences as a developer.
 I don't want the code reviews to constantly suggest changes that I don't want because they don't align with my coding style or the goals of my project.
 Instruction files allow me to provide that context and those preferences to the AI tools, so that they can provide more relevant and useful feedback.
-I allow the AI tools to suggest changes to the instruction files as the project and code evovle, but I review those changes and only accept the ones that I feel are beneficial.
+I allow the AI tools to suggest changes to the instruction files as the project and code evolve, but I review those changes and only accept the ones that I feel are beneficial.
 
 ### Portfolio Skills Pages
 
@@ -84,7 +84,6 @@ There are also many different opinions on how AI should be used in software deve
 I love creating art with code; I love the work that I do and the things that I create.
 The images, experiences, and programs that I make are the bounty of years of study, practice, success, failure, and experimentation.
 Each algorithm I publish is the result of weeks and months of research, development, coding, testing, iteration, improvement, and refinement.
-My hope is that my use of AI tools in one domain of my work does not diminish the value of the work as a whole, and that my transparency and accountability helps consumers and viewers of my art understand and appreciate the full context in which it is created.
 For some, my transparency may not be enough, but I am happy with the approach I have taken, the workflows I have created for myself, and the time, and care, and love I put into my code and art every day.
 
 There is beauty in code, and code can make beautiful things.
