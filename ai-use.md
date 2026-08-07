@@ -28,8 +28,8 @@ I write the code that defines the system, and the computer executes that code to
 Typically, this is achieved through pseudorandom number generation, which allows for a wide range of outputs to be produced from a single set of rules.
 My algorithms are hand-coded, meaning that I write every line of code myself; I am not prompting a large language model (LLM) to generate code for me, nor am I using an LLM to generate the art itself.
 
-That being said, I do use AI to review my code, including my art code, but the creative decisions and the code that expresses them are mine.
-The following sections detail how I use AI in my review process, and how strive to maintain transparency and accountability in my work.
+I do use AI to review my code, including my art code, but the creative decisions and the code that expresses them are mine.
+The following sections detail how I use AI in my review process, and how I strive to maintain transparency and accountability in my work.
 
 ## Do You Use AI in Your Engineering Work?
 
@@ -50,6 +50,7 @@ I also use AI to help me generate and update AI agent instruction files.
 When I use AI tools such as GitHub Copilot or Claude Code, I want them to be fully aware of the context of my project and my preferences as a developer.
 I don't want the code reviews to constantly suggest changes that I don't want because they don't align with my coding style or the goals of my project.
 Instruction files allow me to provide that context and those preferences to the AI tools, so that they can provide more relevant and useful feedback.
+I allow the AI tools to suggest changes to the instruction files as the project and code evolve, but I review those changes and only accept the ones that I feel are beneficial.
 
 You can see an example of an AI instruction file in [`copilot-instructions.md` from my p5-webpack-typescript-template repository](https://github.com/blwatkins/p5-webpack-typescript-template/blob/main/.github/copilot-instructions.md).
 
