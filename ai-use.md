@@ -79,7 +79,7 @@ Every editing suggestion from an AI review tool is reviewed by me, and I only im
 
 ## Transparency and Accountability
 
-Every line of code and every line of text in every file in my codebase is reviewed and approved by me.
+Every line of code and every line of text in everything I create is reviewed and approved by me.
 I am never blindly accepting changes suggested by AI tools, and I take great care to ensure that AI is not affecting the quality, integrity, or originality of my work.
 Additionally, all of my code, including the AI instruction files, is open-source and publicly available in my repositories on GitHub.
 All of my code changes are tracked and documented in my GitHub commit history, and I mark which commits I make on my own and which commits I make due to an AI review suggestion in my commit messages.
