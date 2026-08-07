@@ -2,7 +2,7 @@
 title: "Portfolio"
 layout: page
 date: 2026-04-28
-modified_date: 2026-07-06
+modified_date: 2026-08-07
 ---
 
 ## Learn to Code
@@ -24,7 +24,7 @@ Each template includes structured setups and workflows to support maintainable d
 
 - [express-javascript-template](./templates/express-javascript-template)
 - [npm-typescript-package-template](https://blwatkins.github.io/npm-typescript-package-template/)
-- [p5-webpack-typescript-template](./templates/p5-webpack-typescript-template)
+- [p5-webpack-typescript-template](https://blwatkins.github.io/p5-webpack-typescript-template/)
 
 ## Web Development and Design
 

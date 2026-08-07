@@ -41,7 +41,6 @@ minima:
 
 title: "Brittni Watkins"
 description: "Creative Technologist: Algorithmic Artist, Software Engineer, and Educator"
-show_downloads: false
 
 sass:
   quiet_deps: true
