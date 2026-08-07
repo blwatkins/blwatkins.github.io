@@ -48,7 +48,7 @@ I allow the AI tools to suggest changes to the instruction files as the project 
 
 ### Portfolio Skills Pages
 
-Additionally, AI tools are used to generate and maintain the portfolio skills pages that I use to document the engineering skills showcased in my work.
+Additionally, I use AI tools to generate and maintain the portfolio skills pages that document the engineering skills showcased in my work.
 The portfolio skills pages are meant to be a record of the technical skills that I have demonstrated in a specific project, generated from the context of the codebase itself and instructions that I provide to the AI tools.
 Reviews and updates of the portfolio skills pages have been integrated into my code review process to ensure that the pages are accurate and up to date.
 Each portfolio skills page includes evidence links with each claim, providing a direct connection between the listed skill and the file or files in my codebase that demonstrate it.
