@@ -30,7 +30,7 @@ Each template includes structured setups and workflows to support maintainable d
 
 ### Squarespace
 
-Public websites created and maintained for clients using the Squarespace website builder.
+Public websites created and maintained using the Squarespace website builder.
 
 - [1619 Gaming Group](https://1619gaminggroup.com/)
 - [BIGSTAKES5](https://www.bigstakes5.com/)
