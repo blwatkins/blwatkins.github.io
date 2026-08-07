@@ -23,7 +23,7 @@ I create and execute those rules using code, but generative art can be created u
 The history of generative art is rich and complex, as long and storied as the history of art itself; it existed long before the advent of AI and even long before the advent of computers.
 
 To reduce confusion, I will sometimes refer to my work as "algorithmic art", rather than "generative art", but the process is the same regardless of the terminology.
-I write the code that defines the system, and the computer executes that code to produce a visual output by following the rules of that system.
+I write the code that defines the system, and the computer executes that code to produce an output by following the rules of that system.
 Typically, this is achieved through pseudorandom number generation, which allows for a wide range of outputs to be produced from a single set of rules.
 My algorithms are hand-coded, meaning that I write every line of code myself.
 I am not prompting a large language model (LLM) to generate code for me, nor am I using an LLM to generate the art itself.
@@ -77,13 +77,17 @@ Every editing suggestion from an AI review tool is reviewed and approved by me b
 Every line of code and every line of text in every file in my codebase is reviewed and approved by me.
 I am never blindly accepting changes suggested by AI tools, and I take great care to ensure that AI is not affecting the quality, integrity, or originality of my work.
 Additionally, all of my code, including the AI instruction files, is open-source and publicly available in my repositories on GitHub.
-All of my code changes are tracked and documented in my GitHub commit history, so anyone can see exactly what changes were made, when they were made, and by whom.
+All of my code changes are tracked and documented in my GitHub commit history, and I mark which commits I make on my own and which commits I make due to an AI review suggestion in my commit messages.
+
+You can see an example of this in my [p5-webpack-typescript-template](https://github.com/blwatkins/p5-webpack-typescript-template/commits/main/) repository, where I have marked the commits that were made due to AI review suggestions with the prefix "Claude Code review:" or "GitHub Copilot review:" in the commit message.
 
 ## Closing Thoughts
 
 I do not use AI to create my art, but I do use AI to assist me in my work as a software engineer.
 Due to the nature of my work as an algorithmic artist, those two processes are very closely intertwined, almost inseparable, and it can be hard to pinpoint exactly where one domain ends and the other begins.
 I also use AI as a part of my review process when I am writing blog posts, articles, and documentation for my projects.
+I know that for some, this will call into question the originality of my work, and may draw criticism or scrutiny about how much of my work is my own and how much is the result of AI assistance.
+
 The use of AI in any creative process has become a hotly debated topic, and I understand that there are many different opinions on the matter.
 There are also many different opinions on how AI should be used in software development and technical work.
 I love creating art with code; I love the work that I do and the things that I create.
