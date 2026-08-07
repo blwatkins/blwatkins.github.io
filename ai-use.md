@@ -13,7 +13,7 @@ read_time: true
 
 My work lives at the intersection of art and technology: writing code, something that is typically considered a purely technical skill, becomes a creative process for me because the code I write creates art.
 Navigating the new and evolving landscape of artificial intelligence (AI) has become a challenge in my work, as the technical sphere where AI use may be more accepted and encouraged is completely intertwined with the creative sphere where AI use is more controversial and discouraged.
-My personal views on artificial intelligence (AI) are nuanced, and as a result I have a very specific approach to how I use AI in my work.
+My personal views on AI are nuanced, and as a result I have a very specific approach to how I use AI in my work.
 
 ## Do You Use AI to Create Your Art?
 
@@ -31,7 +31,9 @@ I am not prompting a large language model (LLM) to generate code for me, nor am 
 ## Do You Use AI in Your Engineering Work?
 
 I do use AI in my work as a creative technologist, but I try to be very intentional and mindful about how and when I use it.
-I do not allow AI agents to work autonomously in my repositories; every change to my code is thoroughly reviewed before it is committed.
+I do not allow AI agents to work autonomously in my repositories.
+I use these tools primarily in a review capacity: they analyze code I have already written and suggest changes.
+I do not have them author features, refactor across my codebase, or open pull requests, and no agent output is merged without my review.
 
 ### Code Reviews
 
@@ -66,7 +68,7 @@ Any code that I choose to include in my codebase is integrated by hand so that I
 ## Do You Use AI in Your Writing?
 
 Whenever I write a blog post or an article, I always write the first draft on my own.
-I will occasionally accept sentence and phrase completion suggestions from the autocomplete feature of my code editor, but I do not use AI to generate content, outlines, or ideas for my writing.
+I will occasionally accept sentence and phrase completion suggestions from the autocomplete feature of my code editor, but I do not use AI to generate drafts, outlines, or ideas for my writing.
 I strive to ensure that my writing is my own, and that it reflects my own thoughts, ideas, and voice.
 After my first draft is complete, I will ask AI tools to review my writing and provide feedback on grammar, spelling, clarity, and style; I will review the feedback and implement any changes that I feel are necessary or beneficial to the piece.
 This section, for example, was written by me after I asked Claude to review this article and it suggested that I add a section about my prose writing in addition to my code and art.
@@ -83,17 +85,13 @@ You can see an example of this in my [p5-webpack-typescript-template](https://gi
 
 ## Closing Thoughts
 
-I do not use AI to create my art, but I do use AI to assist me in my work as a software engineer.
-Due to the nature of my work as an algorithmic artist, those two processes are very closely intertwined, almost inseparable, and it can be hard to pinpoint exactly where one domain ends and the other begins.
-I also use AI as a part of my review process when I am writing blog posts, articles, and documentation for my projects.
-I know that for some, this will call into question the originality of my work, and may draw criticism or scrutiny about how much of my work is my own and how much is the result of AI assistance.
-
 The use of AI in any creative process has become a hotly debated topic, and I understand that there are many different opinions on the matter.
-There are also many different opinions on how AI should be used in software development and technical work.
+I do not use AI to create my art, but I do use AI to assist me in my work as a software engineer and a writer.
+I know that for some, this will call into question the originality of my work, and may draw criticism or scrutiny about how much of my work is my own and how much is the result of AI assistance.
 I love creating art with code; I love the work that I do and the things that I create.
 The images, experiences, and programs that I make are the bounty of years of study, practice, success, failure, and experimentation.
 Each algorithm I publish is the result of weeks and months of research, development, coding, testing, iteration, improvement, and refinement.
-For some, my transparency may not be enough, but I am happy with the approach I have taken, the workflows I have created for myself, and the time, and care, and love I put into my code and art every day.
+My transparency may not be enough, but I am happy with the approach I have taken, the workflows I have created for myself, and the time, and care, and love I put into my code and art every day.
 
 There is beauty in code, and code can make beautiful things.
 
