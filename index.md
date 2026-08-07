@@ -13,7 +13,7 @@ Her work is hand-coded: she authors the system and sets experimental bounds, and
 She thinks of this process as a collaboration with the computer; she defines the space, the computer renders a single variation from within that space, and no two outputs are ever the same.
 Some variations are quiet and minimalistic, some are striking, bold, and busy; she embraces this range as part of the beauty of the algorithm rather than something to constrain or eliminate.
 
-At the heart of her creative practice, her engineering work, and her teaching is a simple philosophy: art, computer science, and education should be available and accessible to all.
+At the heart of her creative practice and her engineering work is a simple philosophy: art, computer science, and education should be available and accessible to all.
 The applications of code are vast and varied; there is space for everyone.
 
 ***There is beauty in code, and code can make beautiful things.***
@@ -22,6 +22,6 @@ The applications of code are vast and varied; there is space for everyone.
 
 ## [Learn to Code, with Brittni Watkins](https://blwatkins.github.io/learn-to-code/)
 
-## [TypeScript Utilities (`@blwatkins/utils`)](https://blwatkins.github.io/typescript-utils/)
+## [TypeScript Utilities](https://blwatkins.github.io/typescript-utils/)
 
-## [Brittni's AI Use Policy](./ai-use.md)
+## [Brittni's AI Use](./ai-use.md)
