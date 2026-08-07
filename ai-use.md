@@ -30,6 +30,7 @@ I am not prompting a large language model (LLM) to generate code for me, nor am 
 ## Do You Use AI in Your Engineering Work?
 
 I do use AI in my work as a creative technologist, but I try to be very intentional and mindful about how and when I use it.
+I do not allow AI agents to work autonomously in my repositories; every change to my code is thoroughly reviewed before it is committed to a repository.
 
 ### Code Reviews
 
@@ -69,16 +70,19 @@ I am never blindly accepting changes suggested by AI tools, and I take great car
 Additionally, all of my code, including the AI instruction files, is open-source and publicly available in my repositories on GitHub.
 All of my code changes are tracked and documented in my GitHub commit history, so anyone can see exactly what changes were made, when they were made, and by whom.
 
-## TL;DR
+## Do You Use AI in Your Writing?
 
-I do not use AI to create my art, but I do use AI to assist me in my work as a software engineer.
-Due to the nature of my work as an algorithmic artist, those two processes are very closely intertwined, almost inseparable, and it can be hard to pinpoint exactly where one domain ends and the other begins.
-I never allow AI agents to work autonomously in my repositories, and I take great care to ensure that AI is not affecting the quality, integrity, or originality of my work.
-Every line of code and every line of text in every file in my codebase is reviewed, tested, and approved by me.
-I strive to maintain full transparency over my AI use and notate any changes that are made to my codebase as a result of interaction with AI tools.
+Whenever I write a blog post or an article, I always write the first draft on my own.
+I will occasionally accept suggestions from the autocomplete feature of my code editor, but I do not use AI to generate content, outlines, or ideas for my writing.
+I strive to ensure that my writing is my own, and that it reflects my own thoughts, ideas, and voice.
+After my first draft is complete, I will ask AI tools to review my writing and provide feedback on grammar, spelling, clarity, and style; I will review the feedback and implement any changes that I feel are necessary or beneficial.
+This paragraph, for example, was written by me after my chosen AI tool reviewed this article and suggested that I add a section about my prose writing in addition to my code and art.
+Every editing suggestion from an AI review tool is implemented, reviewed, approved by me before it is published.
 
 ## Closing Thoughts
 
+I do not use AI to create my art, but I do use AI to assist me in my work as a software engineer.
+Due to the nature of my work as an algorithmic artist, those two processes are very closely intertwined, almost inseparable, and it can be hard to pinpoint exactly where one domain ends and the other begins.
 The use of AI in any creative process has become a hotly debated topic, and I understand that there are many different opinions on the matter.
 There are also many different opinions on how AI should be used in software development and technical work.
 I love creating art with code; I love the work that I do and the things that I create.
