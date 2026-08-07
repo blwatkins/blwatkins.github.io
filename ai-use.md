@@ -28,9 +28,12 @@ I write the code that defines the system, and the computer executes that code to
 Typically, this is achieved through pseudorandom number generation, which allows for a wide range of outputs to be produced from a single set of rules.
 My algorithms are hand-coded, meaning that I write every line of code myself; I am not prompting a large language model (LLM) to generate code for me, nor am I using an LLM to generate the art itself.
 
+That being said, I do use AI to review my code, including my art code, but the creative decisions and the code that expresses them are mine.
+The following sections detail how I use AI in my review process, and how strive to maintain transparency and accountability in my work.
+
 ## Do You Use AI in Your Engineering Work?
 
-I do use AI in my work as a software engineer, including my algorithmic art projects, but I try to be very intentional and mindful about how and when I use it.
+I do use AI in my work as a software engineer, but I try to be very intentional and mindful about how and when I use it.
 I do not allow AI agents to work autonomously in my repositories.
 I use AI primarily in a review capacity, to analyze code I have already written and suggest changes.
 I do not use AI tools to author features, refactor across my codebase, or open pull requests, and nothing is merged or published without my review.
@@ -74,7 +77,6 @@ I will occasionally accept sentence and phrase completion suggestions from the a
 I strive to ensure that my writing is my own, and that it reflects my own thoughts, ideas, and voice.
 After my first draft is complete, I will ask AI tools to review my writing and provide feedback on grammar, spelling, clarity, and style; I will review the feedback and implement any changes that I feel are necessary or beneficial to the piece.
 I wrote this section, for example, after I asked Claude to review this article and it suggested that I add a section about my prose writing in addition to my code and art.
-Every editing suggestion from an AI review tool is reviewed by me, and I only implement the suggestions I feel are needed to improve the piece.
 
 ## Transparency and Accountability
 
