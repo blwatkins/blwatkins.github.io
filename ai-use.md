@@ -91,3 +91,15 @@ Each algorithm I publish is the result of weeks and months of research, developm
 For some, my transparency may not be enough, but I am happy with the approach I have taken, the workflows I have created for myself, and the time, and care, and love I put into my code and art every day.
 
 There is beauty in code, and code can make beautiful things.
+
+## Resources and References
+
+For additional information about the concepts mentioned in this article, the following resources may be helpful:
+
+[Wikipedia - Generative art](https://en.wikipedia.org/wiki/Generative_art)
+
+[Wikipedia - Algorithmic art](https://en.wikipedia.org/wiki/Algorithmic_art)
+
+[Claude Code](https://claude.com/product/claude-code)
+
+[GitHub Copilot](https://github.com/features/copilot)
