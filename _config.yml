@@ -40,8 +40,7 @@ minima:
     - portfolio/index.md
 
 title: "Brittni Watkins"
-description: "Creative Technologist & Educator"
-show_downloads: false
+description: "Creative Technologist: Algorithmic Artist, Software Engineer, and Educator"
 
 sass:
   quiet_deps: true
