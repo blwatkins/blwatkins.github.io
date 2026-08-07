@@ -76,7 +76,7 @@ I will occasionally accept suggestions from the autocomplete feature of my code 
 I strive to ensure that my writing is my own, and that it reflects my own thoughts, ideas, and voice.
 After my first draft is complete, I will ask AI tools to review my writing and provide feedback on grammar, spelling, clarity, and style; I will review the feedback and implement any changes that I feel are necessary or beneficial to the piece.
 This paragraph, for example, was written by me after my chosen AI tool reviewed this article and suggested that I add a section about my prose writing in addition to my code and art.
-Every editing suggestion from an AI review tool is implemented, reviewed, approved by me before it is published.
+Every editing suggestion from an AI review tool is reviewed and approved by me before it is implemented and published.
 
 ## Closing Thoughts
 
