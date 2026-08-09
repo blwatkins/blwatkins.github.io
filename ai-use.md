@@ -4,10 +4,11 @@ layout: post
 author:
   - Brittni Watkins
 date: 2026-08-07
-modified_date: 2026-08-07
+modified_date: 2026-08-09
 toc: true
 read_time: true
-description: "How I use AI in my algorithmic art, my software engineering work, and my writing."
+description: "How I use AI in my algorithmic (generative) art, my software engineering work, and my writing."
+ai_disclaimer: "This article was written and edited by Brittni Watkins. The AI tools Claude and Claude Code were used for review and feedback."
 ---
 
 ## Art and Code and Where They Meet
@@ -16,10 +17,10 @@ My work lives at the intersection of art and technology: writing code, something
 Navigating the new and evolving landscape of artificial intelligence (AI) has become a challenge in my work, as the technical sphere, where AI use may be more accepted, is completely intertwined with the creative sphere, where AI use is more controversial.
 My personal views on AI are nuanced, and as a result I have a very specific approach to how I use AI in my work.
 
-## Do You Use AI to Create Your Art?
+## Do You Use AI to Create Your Generative Art?
 
 I do not use generative AI to create my art.
-When I say that I create "generative art", I am saying that I create art *generated* by following a system of rules.
+When I say that I make "generative art", I am saying that I create art *generated* by following a system of rules.
 I create and execute those rules using code, but generative art can be created using any medium, including paint, sculpture, music, and poetry.
 The history of generative art is rich and complex; it existed long before the advent of AI and even long before the advent of computers.
 
