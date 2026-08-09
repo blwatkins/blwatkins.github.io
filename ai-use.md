@@ -8,6 +8,7 @@ modified_date: 2026-08-09
 toc: true
 read_time: true
 description: "How I use AI in my generative (algorithmic) art, my software engineering work, and my writing."
+ai_disclaimer: "This article was written and edited by Brittni Watkins. The AI tools Claude and Claude Code were used for review and feedback."
 ---
 
 ## Art and Code and Where They Meet
@@ -108,7 +109,3 @@ For additional information about the concepts mentioned in this article, the fol
 - [Wikipedia - Algorithmic art](https://en.wikipedia.org/wiki/Algorithmic_art)
 - [Claude Code](https://claude.com/product/claude-code)
 - [GitHub Copilot](https://github.com/features/copilot)
-
-<footer class="ai-disclaimer">
-  <small>This article was written and edited by Brittni Watkins. The AI tools Claude and Claude Code were used for review and feedback.</small>
-</footer>

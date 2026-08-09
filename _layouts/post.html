@@ -45,9 +45,19 @@ layout: base
         <h2 id="table-of-contents">Table of Contents</h2>
         {{ content | toc }}
         <hr/>
-        <p><a href="#post-header">Back to top.</a></p>
+        <footer>
+            <p><a href="#post-header">Back to top.</a></p>
+            {%- if page.ai_disclaimer %}
+            <small>{{ page.ai_disclaimer }}</small>
+            {%- endif %}
+        </footer>
         {%- else -%}
         {{ content }}
+        {%- if page.ai_disclaimer %}
+        <footer>
+            <small>{{ page.ai_disclaimer }}</small>
+        </footer>
+        {%- endif %}
         {%- endif -%}
     </div>
 
