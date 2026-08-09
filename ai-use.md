@@ -7,7 +7,7 @@ date: 2026-08-07
 modified_date: 2026-08-09
 toc: true
 read_time: true
-description: "How I use AI in my generative (algorithmic) art, my software engineering work, and my writing."
+description: "How I use AI in my algorithmic (generative) art, my software engineering work, and my writing."
 ai_disclaimer: "This article was written and edited by Brittni Watkins. The AI tools Claude and Claude Code were used for review and feedback."
 ---
 
