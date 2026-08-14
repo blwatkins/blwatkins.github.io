@@ -25,3 +25,5 @@ The applications of code are vast and varied; there is space for everyone.
 ## [TypeScript Utilities](https://blwatkins.github.io/typescript-utils/)
 
 ## [Brittni's AI Use](./ai-use.md)
+
+## [Sponsor Brittni](./sponsor.md)
