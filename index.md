@@ -1,6 +1,8 @@
 ---
 title: "Brittni Watkins"
 layout: page
+seo:
+  type: WebPage
 ---
 
 Brittni Watkins is an algorithmic artist, software engineer, and educator whose work lives at the intersection of code, creativity, and "What does this button do?".
@@ -20,7 +22,7 @@ The applications of code are vast and varied; there is space for everyone.
 
 ## [Portfolio](./portfolio)
 
-## [Learn to Code, with Brittni Watkins](https://blwatkins.github.io/learn-to-code/)
+## [Learn to Code with Brittni](https://blwatkins.github.io/learn-to-code/)
 
 ## [TypeScript Utilities](https://blwatkins.github.io/typescript-utils/)
 

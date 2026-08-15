@@ -2,14 +2,16 @@
 title: "Portfolio"
 layout: page
 date: 2026-04-28
-modified_date: 2026-08-08
+modified_date: 2026-08-14
+seo:
+  type: WebPage
 ---
 
 ## Learn to Code
 
 Notes, guides, resources, and references for learning software development and creative coding.
 
-- [Learn to Code, with Brittni Watkins](https://blwatkins.github.io/learn-to-code/)
+- [Learn to Code with Brittni](https://blwatkins.github.io/learn-to-code/)
 
 ## npm Packages
 
