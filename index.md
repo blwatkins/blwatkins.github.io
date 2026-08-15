@@ -1,8 +1,6 @@
 ---
 title: "Brittni Watkins"
 layout: page
-seo:
-  type: WebPage
 ---
 
 Brittni Watkins is an algorithmic artist, software engineer, and educator whose work lives at the intersection of code, creativity, and "What does this button do?".
