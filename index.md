@@ -20,8 +20,10 @@ The applications of code are vast and varied; there is space for everyone.
 
 ## [Portfolio](./portfolio)
 
-## [Learn to Code, with Brittni Watkins](https://blwatkins.github.io/learn-to-code/)
+## [Learn to Code with Brittni](https://blwatkins.github.io/learn-to-code/)
 
 ## [TypeScript Utilities](https://blwatkins.github.io/typescript-utils/)
 
 ## [Brittni's AI Use](./ai-use.md)
+
+## [Sponsor Brittni](./sponsor.md)
