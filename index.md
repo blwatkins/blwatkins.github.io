@@ -18,12 +18,14 @@ The applications of code are vast and varied; there is space for everyone.
 
 ***There is beauty in code, and code can make beautiful things.***
 
-## [Portfolio](./portfolio)
+## Things to Explore
 
-## [Learn to Code with Brittni](https://blwatkins.github.io/learn-to-code/)
+### [Portfolio](./portfolio)
 
-## [TypeScript Utilities](https://blwatkins.github.io/typescript-utils/)
+### [TypeScript Utilities](https://blwatkins.github.io/typescript-utils/)
 
-## [Brittni's AI Use](./ai-use.md)
+### [Learn to Code with Brittni](https://blwatkins.github.io/learn-to-code/)
 
-## [Sponsor Brittni](./sponsor.md)
+### [Sponsor Brittni](./sponsor.md)
+
+### [Brittni's AI Use](./ai-use.md)
