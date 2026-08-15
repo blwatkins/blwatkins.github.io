@@ -4,6 +4,7 @@ layout: page
 date: 2026-08-14
 modified_date: 2026-08-14
 description: "Support my algorithmic art and open source creative coding tools."
+ai_disclaimer: "This page was written and edited by Brittni Watkins. The AI tools Claude and Claude Code were used for review and feedback."
 seo:
   type: WebPage
 ---
