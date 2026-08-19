@@ -30,18 +30,20 @@ I write every line of code in my art algorithms by hand; I am not prompting an L
 Navigating the new and constantly evolving landscape of artificial intelligence (AI) has been a challenge in my work, as the technical sphere, where AI use is more accepted and even encouraged, is completely intertwined with the creative sphere, where AI use is more controversial.
 
 In the past, I considered my identity as an engineer to be separate from my identity as an artist, and I used that distinction to justify the use of agentic AI and LLMs in my engineering work.
-However, I have realized that my identity and practice as an engineer are not separate from my art identity or practice as an artist, at all.
+However, I have realized that my identity and practice as an engineer are not separate from my art identity or art practice, at all.
 The code is my art; my art is the code.
 The code is as much a part of the final product as the images, videos, and prints that come from it.
 When I say that I hand-code these algorithms, when I say that I poured all of my passion for art and engineering and code into my work, I never want to feel like I need to put an asterisk next to that statement.
 I want to know, and I want the people who see my work to know, that the code and the art are 100% my own.
 
 As a software engineer, educator, artist, consumer, and human, my personal views on AI are nuanced and constantly evolving.
-Although I can see its benefits as a tool in some industries, I have decided that I do not want to use AI in my personal work, creative, technical, or otherwise.
+I have taken time to research and explore the benefits, drawbacks, and consequences of AI use in my own career and life.
+I have also observed how AI use has impacted the careers and lives of others, through news stories, social media posts, and personal anecdotes.
+Although I can see its benefits as a tool in some industries, I have decided that I do not want to use AI in my personal work: creative, technical, or otherwise.
 
 Prior to August 2026, I used AI tools and LLMs to perform code reviews on my work before merging it into the main codebase.
 I also used Claude Code and GitHub Copilot to generate and maintain agent instruction files and technical skills documentation in various projects.
-Changes that were made in ongoing projects as the result of an AI code review are clearly marked in the GitHub commit history with the commit message prefix "Claude Code review:" or "GitHub Copilot review:".
+Changes that were made in ongoing projects as the result of an AI code review are clearly marked in the GitHub commit history with the commit message prefix "Claude Code review:" or "GitHub Copilot review:". You can see examples of this in my [p5-webpack-typescript-template repository](https://github.com/blwatkins/p5-webpack-typescript-template/commits/main/).
 
 As of September 2026, I do not use any agentic AI, AI coding tools, or large language models in any of my coding projects.
 I have disabled AI tools and AI suggestions in all of my code development environments, and I do not use AI agents to perform code reviews or make updates to my codebase.
