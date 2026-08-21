@@ -38,8 +38,8 @@ minima:
   nav_pages:
     - index.md
     - portfolio/index.md
-    - sponsor.md
     - ai-use.md
+    - sponsor.md
 
 title: "Brittni Watkins"
 description: "Creative Technologist: Algorithmic Artist, Software Engineer, and Educator"

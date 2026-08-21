@@ -20,12 +20,11 @@ The applications of code are vast and varied; there is space for everyone.
 
 ## Things to Explore
 
-### [Portfolio](./portfolio)
+### [Brittni's Portfolio](./portfolio)
 
-### [TypeScript Utilities](https://blwatkins.github.io/typescript-utils/)
+- [TypeScript Utilities](https://blwatkins.github.io/typescript-utils/)
+- [Gradient Graphs](https://blwatkins.github.io/gradient-graphs/)
 
-### [Learn to Code with Brittni](https://blwatkins.github.io/learn-to-code/)
+### [Brittni's AI Policy](./ai-use.md)
 
 ### [Sponsor Brittni](./sponsor.md)
-
-### [Brittni's AI Use](./ai-use.md)

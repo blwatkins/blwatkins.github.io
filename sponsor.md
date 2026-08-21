@@ -4,8 +4,6 @@ layout: page
 date: 2026-08-14
 modified_date: 2026-08-14
 description: "Support my algorithmic art and open source creative coding tools."
-seo:
-  type: WebPage
 ---
 
 Thank you for considering sponsoring my work!
