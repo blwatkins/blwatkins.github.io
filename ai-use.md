@@ -38,7 +38,7 @@ I want to know, and I want the people who see my work to know, that the code and
 
 As a software engineer, educator, artist, consumer, and human, my personal views on AI are nuanced and constantly evolving.
 I have taken time to research and explore the benefits, drawbacks, and consequences of AI use in my own career and life.
-I have also observed how AI use has impacted the careers and lives of others, through news stories, social media posts, and personal anecdotes.
+I have also observed how AI use has impacted the careers and lives of others, through news stories, social media, and personal anecdotes.
 Although I can see its benefits, I have decided that I do not want to use AI in my personal work: creative, technical, or otherwise.
 
 Prior to August 2026, I used AI to perform iterative code reviews on my work.
@@ -52,7 +52,7 @@ I have disabled AI plugins, AI suggestions, and AI autocomplete in all of my cod
 ## Do You Use AI in Your Writing?
 
 Prior to August 2026, I would write the first draft of my articles, blog posts, product listings, and other writings on my own, then use AI to get feedback on what I had written.
-I would update my writing based on the critique, then request another review, beginning an iterative process that continued until I was pleased with the final product.
+I would update my writing based on the critique, then request another review, beginning an iterative process that continued until I was satisfied with the final product.
 
 As of September 2026, I do not use agentic AI, AI coding tools, or large language models for any part of my writing process.
 I have disabled AI sentence and phrase completion in all of my code development and writing environments, and I do not use AI for writing reviews or critique.
@@ -61,7 +61,7 @@ I have disabled AI sentence and phrase completion in all of my code development 
 
 I do not use AI in my songwriting or song recording processes, nor have I used AI for songwriting or song recording in the past.
 
-## Closing Thoughts: Art and Code and Where They Meet
+## Closing Thoughts - Art and Code and Where They Meet
 
 My work lives at the intersection of art and technology: writing code, something that is typically considered a technical skill, becomes a creative process because the code I write creates art.
 
