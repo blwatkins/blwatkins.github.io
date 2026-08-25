@@ -49,7 +49,9 @@ Changes that were made as the result of an AI code review are marked in the GitH
 As of September 2026, I do not use any agentic AI, AI coding tools, or large language models in any of my coding projects.
 I have disabled AI plugins, AI suggestions, and AI autocomplete in all of my code development environments, and I do not use AI to perform code reviews or make updates to my projects.
 
-## Do You Use AI in Your Writing?
+## Do You Use AI in Other Creative Fields?
+
+### Do You Use AI in Your Writing?
 
 Prior to August 2026, I would write the first draft of my articles, blog posts, product listings, and other writings on my own, then use AI to get feedback on what I had written.
 I would update my writing based on the critique, then request another review, beginning an iterative process that continued until I was satisfied with the final product.
@@ -57,7 +59,11 @@ I would update my writing based on the critique, then request another review, be
 As of September 2026, I do not use agentic AI, AI coding tools, or large language models for any part of my writing process.
 I have disabled AI sentence and phrase completion in all of my code development and writing environments, and I do not use AI for writing reviews or critique.
 
-## Do You Use AI in Your Songwriting?
+### Do You Use AI in Your Photography?
+
+I do not use AI in any part of my photography process, nor have I used AI for photography, photo editing, or post-processing in the past.
+
+### Do You Use AI in Your Songwriting?
 
 I do not use AI in my songwriting or song recording processes, nor have I used AI for songwriting or song recording in the past.
 
