@@ -12,7 +12,7 @@ description: "Links to the various projects and websites in my portfolio."
 
 ## Artist Portfolio
 
-### Generative Art Algorithms
+### Generative Art
 
 Generative art algorithms written in JavaScript and TypeScript.
 
