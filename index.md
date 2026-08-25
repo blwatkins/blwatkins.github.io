@@ -10,7 +10,7 @@ For Brittni, love and care go into the code itself just as much as anything it p
 Her generative art algorithms are hand-coded: she defines the rules of a system using computer code (typically JavaScript or TypeScript), and the computer executes that code to produce an output following the rules of that system.
 Using pseudorandom number generation, she can create a program that selects a different sequence of random numbers each time it's executed, creating a unique output from each run of one algorithm.
 No two outputs are ever the same; some variations may be quiet and minimalistic, some may be striking, bold, and busy.
-Each one adds to the beauty of the algorithm as a whole.
+Each one adds to the beauty of the code and its outputs, as a whole.
 
 At the heart of her work is a simple philosophy: art, computer science, and education should be available and accessible to all.
 The applications of code are vast and varied; there is space for everyone.
