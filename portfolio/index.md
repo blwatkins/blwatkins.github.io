@@ -4,23 +4,33 @@ layout: custom-post
 author:
   - Brittni Watkins
 date: 2026-04-28
-modified_date: 2026-08-20
+modified_date: 2026-08-25
 toc: true
 read_time: false
 description: "Links to the various projects and websites in my portfolio."
 ---
+
+## Artist Portfolio
+
+### Generative Art Algorithms
+
+Generative art algorithms written in JavaScript and TypeScript.
+
+- [Gradient Graphs](https://blwatkins.github.io/gradient-graphs/)
+
+### Photography
+
+Coming soon!
+
+### Artist Profiles
+
+- [HUG](https://hug.art/artists/azurepolarbear)
 
 ## npm Packages
 
 Public JavaScript and TypeScript packages published to the npm package registry.
 
 - [TypeScript Utilities (`@blwatkins/utils`)](https://blwatkins.github.io/typescript-utils/)
-
-## Generative Art
-
-Generative art algorithms written in JavaScript and TypeScript.
-
-- [Gradient Graphs](https://blwatkins.github.io/gradient-graphs/)
 
 ## Templates
 
