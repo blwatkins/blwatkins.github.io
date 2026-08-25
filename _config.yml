@@ -44,6 +44,10 @@ minima:
       icon: linkedin
       icon_pack: brands
       url: "https://www.linkedin.com/in/brittni-watkins/"
+    - title: Ko-fi
+      icon: ko-fi
+      icon_pack: brands
+      url: "https://ko-fi.com/brittniwatkins"
   nav_pages:
     - index.md
     - portfolio/index.md
