@@ -8,7 +8,7 @@ She has spent more than a decade discovering the striking visuals that emerge fr
 
 For Brittni, love and care go into the code itself just as much as anything it produces.
 Her generative art algorithms are hand-coded: she defines the rules of a system using computer code (typically JavaScript or TypeScript), and the computer executes that code to produce an output following the rules of that system.
-Using pseudorandom number generation, she can create a program that selects a different sequence of random numbers each time it's executed, resulting in a unique output from each run of one algorithm.
+Using pseudorandom number generation, she can create a program that selects a different sequence of random numbers each time it's executed, creating a unique output from each run of one algorithm.
 No two outputs are ever the same; some variations may be quiet and minimalistic, some may be striking, bold, and busy.
 Each one adds to the beauty of the algorithm as a whole.
 
