@@ -1,13 +1,13 @@
 ---
-title: "Brittni's Portfolio"
+title: "Portfolio"
 layout: custom-post
 author:
   - Brittni Watkins
 date: 2026-04-28
-modified_date: 2026-08-25
+modified_date: 2026-09-03
 toc: true
 read_time: false
-description: "Links to the various projects and websites in my portfolio."
+description: "Links to the various projects and websites in Brittni Watkins' full portfolio."
 ---
 
 ## Artist Portfolio
@@ -31,12 +31,12 @@ Coming soon!
 Public JavaScript and TypeScript packages published to the npm package registry.
 
 - [TypeScript Utilities (`@blwatkins/utils`)](https://blwatkins.github.io/typescript-utils/)
+- [TypeScript Color Utilities (`@blwatkins/color-utils`)](https://blwatkins.github.io/typescript-color-utils/)
 
 ## Templates
 
 Template projects designed to provide solid foundations for building web applications and creative coding experiences.
 
-- [express-javascript-template](./templates/express-javascript-template)
 - [npm-typescript-package-template](https://blwatkins.github.io/npm-typescript-package-template/)
 - [p5-vite-typescript-template](https://blwatkins.github.io/p5-vite-typescript-template/)
 - [p5-webpack-typescript-template](https://blwatkins.github.io/p5-webpack-typescript-template/)
