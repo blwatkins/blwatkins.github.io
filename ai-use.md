@@ -1,13 +1,13 @@
 ---
-title: "Brittni's AI Policy"
+title: "AI Policy"
 layout: custom-post
 author:
   - Brittni Watkins
 date: 2026-08-07
-modified_date: 2026-08-20
+modified_date: 2026-09-03
 toc: true
 read_time: true
-description: "How I use AI in my algorithmic (generative) art, my software engineering, and my writing."
+description: "How Brittni Watkins personally uses AI in her algorithmic (generative) art, her software engineering, and other creative endeavors."
 ---
 
 ## Do You Use AI to Create Your Generative Art?
