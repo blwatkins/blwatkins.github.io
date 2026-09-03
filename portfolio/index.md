@@ -7,7 +7,7 @@ date: 2026-04-28
 modified_date: 2026-09-03
 toc: true
 read_time: false
-description: "Links to the various projects and websites in Brittni Watkins' full portfolio."
+description: "Links to projects and websites in Brittni Watkins' full portfolio."
 ---
 
 ## Artist Portfolio

@@ -7,7 +7,7 @@ date: 2026-08-07
 modified_date: 2026-09-03
 toc: true
 read_time: true
-description: "How Brittni Watkins personally uses AI in her algorithmic (generative) art, her software engineering, and other creative endeavors."
+description: "How Brittni Watkins uses AI in her algorithmic (generative) art, her software engineering, and other creative works."
 ---
 
 ## Do You Use AI to Create Your Generative Art?
