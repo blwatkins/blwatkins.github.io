@@ -4,4 +4,4 @@ GitHub Pages repository for Brittni Watkins.
 
 ----
 
-Copyright &copy; 2022-2026 Brittni Watkins.
+Copyright &copy; 2022-2026 Brittni Watkins. All rights reserved.

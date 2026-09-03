@@ -3,6 +3,29 @@ title: "Brittni Watkins"
 layout: page
 ---
 
+## Ongoing
+
+Brittni does not have any ongoing shows or exhibitions at this time.
+Check back later, or [subscribe to the Brittni Builds newsletter](https://brittniwatkins.beehiiv.com/) to get email updates about any new events!
+
+## Upcoming
+
+Brittni does not have any upcoming shows or exhibitions at this time.
+Check back later, or [subscribe to the Brittni Builds newsletter](https://brittniwatkins.beehiiv.com/) to get email updates about any upcoming events!
+
+## Works in Progress
+
+### Algorithmic Art
+
+- [Gradient Graphs](https://blwatkins.github.io/gradient-graphs/)
+
+### Software Packages
+
+- [TypeScript Utilities (`@blwatkins/utils`)](https://blwatkins.github.io/typescript-utils/)
+- [TypeScript Color Utilities (`@blwatkins/color-utils`)](https://blwatkins.github.io/typescript-color-utils/)
+
+## About Brittni
+
 Brittni Watkins is an algorithmic artist, software engineer, and educator whose work lives at the intersection of code, creativity, and "What does this button do?".
 She has spent more than a decade discovering the striking visuals that emerge from logic, geometry, and mathematical form, crafting the elegant code that brings them to life.
 
@@ -17,13 +40,17 @@ The applications of code are vast and varied; there is space for everyone.
 
 ***There is beauty in code, and code can make beautiful things.***
 
-## Things to Explore
+## Support Brittni's Work
 
-### [Brittni's Portfolio](./portfolio)
+Thank you for considering sponsoring my work!
+Every sponsorship directly funds my practice as an algorithmic artist: the generative art algorithms I create and the open source tools I build to make them.
 
-- [TypeScript Utilities](https://blwatkins.github.io/typescript-utils/)
-- [Gradient Graphs](https://blwatkins.github.io/gradient-graphs/)
+You can sponsor me through any of the following platforms:
 
-### [Brittni's AI Policy](./ai-use.md)
+- [Ko-fi](https://ko-fi.com/brittniwatkins)
+- [GitHub Sponsors](https://github.com/sponsors/blwatkins) (requires a [GitHub](https://github.com/) account)
 
-### [Sponsor Brittni](./sponsor.md)
+## Other Things to Explore
+
+- [Brittni's Portfolio](./portfolio)
+- [Brittni's AI Policy](./ai-use.md)
