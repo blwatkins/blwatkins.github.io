@@ -54,3 +54,4 @@ You can sponsor me through any of the following platforms:
 
 - [Brittni's Portfolio](./portfolio)
 - [Brittni's AI Policy](./ai-use.md)
+- [Resources and References](./resources-and-references.md)
