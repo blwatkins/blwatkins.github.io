@@ -30,7 +30,7 @@ Brittni Watkins is an algorithmic artist, software engineer, and educator whose 
 She has spent more than a decade exploring how to create striking visuals from logic, geometry, and mathematical forms, crafting elegant code to bring them to life.
 
 To make her generative art programs, Brittni starts by defining the rules of an artistic system using computer code, typically JavaScript or TypeScript.
-Then, she executes the code to produce a visual output that follows those rules.
+Then, she runs the code to produce a visual output that follows those rules.
 Using pseudorandom number generation, she can create a program that selects a different sequence of random numbers each time it's executed, resulting in a unique output from each run of one algorithm.
 No two outputs are ever the same; some variations may be quiet and minimalistic, some may be striking, bold, and busy.
 Each one adds to the beauty of the code and its outputs as a whole.
