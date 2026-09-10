@@ -27,7 +27,7 @@ Check back later, or [subscribe to the Brittni Builds newsletter](https://brittn
 ## About Brittni
 
 Brittni Watkins is an algorithmic artist, software engineer, and educator whose work lives at the intersection of code, creativity, and "What does this button do?".
-She has spent more than a decade exploring how to create striking visuals from logic, geometry, and mathematical forms, crafting elegant code to bring them to life.
+She has spent more than a decade exploring how to create striking visuals from logic, geometry, and mathematical forms, crafting elegant code that bring them to life.
 
 To make her generative art programs, Brittni starts by defining the rules of an artistic system using computer code, typically JavaScript or TypeScript.
 Then, she runs the code to produce a visual output that follows those rules.
