@@ -27,14 +27,15 @@ Check back later, or [subscribe to the Brittni Builds newsletter](https://brittn
 ## About Brittni
 
 Brittni Watkins is an algorithmic artist, software engineer, and educator whose work lives at the intersection of code, creativity, and "What does this button do?".
-She has spent more than a decade discovering the striking visuals that emerge from logic, geometry, and mathematical form, crafting the elegant code that brings them to life.
+She has spent more than a decade exploring how to create striking visuals from logic, geometry, and mathematical forms, crafting elegant code that bring them to life.
+
+To make her generative art programs, Brittni starts by defining the rules of an artistic system using computer code, typically JavaScript or TypeScript.
+Then, she runs the code to produce a visual output that follows those rules.
+Using pseudorandom number generation, she can create a program that selects a different sequence of random numbers each time it's executed, resulting in a unique output from each run of one algorithm.
+No two outputs are ever the same; some variations may be quiet and minimalistic, some may be striking, bold, and busy.
+Each one adds to the beauty of the code and its outputs as a whole.
 
 For Brittni, love and care go into the code itself just as much as anything it produces.
-Her generative art algorithms are hand-coded: she defines the rules of a system using computer code (typically JavaScript or TypeScript), and the computer executes that code to produce an output following the rules of that system.
-Using pseudorandom number generation, she can create a program that selects a different sequence of random numbers each time it's executed, creating a unique output from each run of one algorithm.
-No two outputs are ever the same; some variations may be quiet and minimalistic, some may be striking, bold, and busy.
-Each one adds to the beauty of the code and its outputs, as a whole.
-
 At the heart of her work is a simple philosophy: art, computer science, and education should be available and accessible to all.
 The applications of code are vast and varied; there is space for everyone.
 
@@ -42,10 +43,10 @@ The applications of code are vast and varied; there is space for everyone.
 
 ## Support Brittni's Work
 
-Thank you for considering sponsoring my work!
-Every sponsorship directly funds my practice as an algorithmic artist: the generative art algorithms I create and the open source tools I build to make them.
+Thank you for considering sponsoring Brittni's work!
+Every sponsorship directly funds her practice as an algorithmic artist: the generative art algorithms she creates and the open source tools she builds to make them.
 
-You can sponsor me through any of the following platforms:
+You can sponsor Brittni through any of the following platforms:
 
 - [Ko-fi](https://ko-fi.com/brittniwatkins)
 - [GitHub Sponsors](https://github.com/sponsors/blwatkins) (requires a [GitHub](https://github.com/) account)
@@ -53,4 +54,4 @@ You can sponsor me through any of the following platforms:
 ## Other Things to Explore
 
 - [Brittni's Portfolio](./portfolio)
-- [Brittni's AI Policy](./ai-use.md)
+- [Resources and References](./resources-and-references.md)
