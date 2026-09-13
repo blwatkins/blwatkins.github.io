@@ -54,5 +54,4 @@ You can sponsor Brittni through any of the following platforms:
 ## Other Things to Explore
 
 - [Brittni's Portfolio](./portfolio)
-- [Brittni's AI Policy](./ai-use.md)
 - [Resources and References](./resources-and-references.md)
