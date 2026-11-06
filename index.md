@@ -10,11 +10,11 @@ Check back later, or [subscribe to the Brittni Builds newsletter](https://brittn
 
 ## Upcoming
 
-[Subscribe to the Brittni Builds newsletter](https://brittniwatkins.beehiiv.com/) to get email updates about any upcoming events!
-
 ### January 2027
 
-A variation of Brittni's *Parallel Lines* algorithm has been selected for the Winter 2027 Show of the [Pennsylvania Journal of Arts & Sciences](https://www.pjasmag.org/)! This show will be a public digital exhibition. A link to the show will be posted when it becomes available.
+A variation of Brittni's *Parallel Lines* algorithm has been selected for the Winter 2027 Show of the [Pennsylvania Journal of Arts & Sciences](https://www.pjasmag.org/)!
+This show will be a public digital exhibition.
+A link to the show will be posted when it becomes available.
 
 ## Works in Progress
 
@@ -44,6 +44,17 @@ The applications of code are vast and varied; there is space for everyone.
 
 ***There is beauty in code, and code can make beautiful things.***
 
+## Explore
+
+- [Brittni's Portfolio](./portfolio)
+- [Resources and References](./resources-and-references.md)
+
+## Subscribe
+
+- [Brittni Builds newsletter and blog](https://brittniwatkins.beehiiv.com/)
+- [Brittni Builds on YouTube](https://www.youtube.com/channel/UCeJ-huUU2AWP0z4-HWr1BXQ)
+- [BrittniBuilds on Twitch](https://www.twitch.tv/brittnibuilds)
+
 ## Support Brittni's Work
 
 Thank you for considering sponsoring Brittni's work!
@@ -53,8 +64,3 @@ You can sponsor Brittni through any of the following platforms:
 
 - [Ko-fi](https://ko-fi.com/brittniwatkins)
 - [GitHub Sponsors](https://github.com/sponsors/blwatkins) (requires a [GitHub](https://github.com/) account)
-
-## Explore
-
-- [Brittni's Portfolio](./portfolio)
-- [Resources and References](./resources-and-references.md)
