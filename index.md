@@ -10,8 +10,11 @@ Check back later, or [subscribe to the Brittni Builds newsletter](https://brittn
 
 ## Upcoming
 
-Brittni does not have any upcoming shows or exhibitions at this time.
-Check back later, or [subscribe to the Brittni Builds newsletter](https://brittniwatkins.beehiiv.com/) to get email updates about any upcoming events!
+[Subscribe to the Brittni Builds newsletter](https://brittniwatkins.beehiiv.com/) to get email updates about any upcoming events!
+
+### January 2027
+
+A variation of Brittni's *Parallel Lines* algorithm has been selected for the Winter 2027 Show of the [Pennsylvania Journal of Arts & Sciences](https://www.pjasmag.org/)! This show will be a public digital exhibition. A link to the show will be posted when it becomes available.
 
 ## Works in Progress
 
@@ -27,12 +30,12 @@ Check back later, or [subscribe to the Brittni Builds newsletter](https://brittn
 ## About Brittni
 
 Brittni Watkins is an algorithmic artist, software engineer, and educator whose work lives at the intersection of code, creativity, and "What does this button do?".
-She has spent more than a decade exploring how to create striking visuals from logic, geometry, and mathematical forms, crafting elegant code that bring them to life.
+She has spent more than a decade exploring how to create striking visuals from logic, geometry, and mathematical forms, crafting elegant code to bring them to life.
 
-To make her generative art programs, Brittni starts by defining the rules of an artistic system using computer code, typically JavaScript or TypeScript.
+To make her generative art programs, Brittni defines the rules of an artistic system using computer code, typically JavaScript or TypeScript.
 Then, she runs the code to produce a visual output that follows those rules.
-Using pseudorandom number generation, she can create a program that selects a different sequence of random numbers each time it's executed, resulting in a unique output from each run of one algorithm.
-No two outputs are ever the same; some variations may be quiet and minimalistic, some may be striking, bold, and busy.
+Using pseudorandom number generation, she can create a program that selects a different sequence of random numbers each time it's executed, resulting in a unique output from each run of the algorithm.
+No two variations are ever the same; some may be quiet and minimalistic, some may be striking, bold, and busy.
 Each one adds to the beauty of the code and its outputs as a whole.
 
 For Brittni, love and care go into the code itself just as much as anything it produces.
@@ -51,7 +54,7 @@ You can sponsor Brittni through any of the following platforms:
 - [Ko-fi](https://ko-fi.com/brittniwatkins)
 - [GitHub Sponsors](https://github.com/sponsors/blwatkins) (requires a [GitHub](https://github.com/) account)
 
-## Other Things to Explore
+## Explore
 
 - [Brittni's Portfolio](./portfolio)
 - [Resources and References](./resources-and-references.md)
