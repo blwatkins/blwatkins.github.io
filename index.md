@@ -6,7 +6,7 @@ layout: page
 ## Ongoing
 
 Brittni does not have any ongoing shows or exhibitions at this time.
-Check back later, or [subscribe to the Brittni Builds newsletter](https://brittniwatkins.beehiiv.com/) to get email updates about any new events!
+Check back later, or [subscribe to the Brittni Builds newsletter](https://brittnibuilds.beehiiv.com/) to get email updates about any new events!
 
 ## Upcoming
 
@@ -51,7 +51,7 @@ The applications of code are vast and varied; there is space for everyone.
 
 ## Subscribe
 
-- [Brittni Builds newsletter and blog](https://brittniwatkins.beehiiv.com/)
+- [Brittni Builds newsletter and blog](https://brittnibuilds.beehiiv.com/)
 - [Brittni Builds on YouTube](https://www.youtube.com/channel/UCeJ-huUU2AWP0z4-HWr1BXQ)
 - [BrittniBuilds on Twitch](https://www.twitch.tv/brittnibuilds)
 
