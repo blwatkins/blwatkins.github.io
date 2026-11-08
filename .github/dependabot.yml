@@ -8,6 +8,8 @@ updates:
     schedule:
       interval: 'monthly'
     target-branch: 'main'
+    allow:
+      - dependency-type: 'direct'
     commit-message:
       prefix: 'dependabot github-action update'
       include: 'scope'
