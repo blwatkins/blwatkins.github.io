@@ -22,7 +22,7 @@ GitHub Pages repository for Brittni Watkins.
 
 ## Sources and Technical Notes
 
-- [Resources and References](https://blwatkins.github.io/blwatkins.github.io/resources-and-references.html)
+- [Resources and References](https://blwatkins.github.io/resources-and-references.html)
 
 ## Thank Yous
 
