@@ -6,7 +6,12 @@
 # Visual Studio Code
 .vscode/
 
+# Claude Code
+.claude/
+
 # Jekyll
 _site/
+.bundle/
 .jekyll-cache/
 .sass-cache/
+vendor/
