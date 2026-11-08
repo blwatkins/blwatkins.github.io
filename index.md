@@ -1,6 +1,6 @@
 ---
-title: "Brittni Watkins"
-layout: page
+title: 'Brittni Watkins'
+layout: 'page'
 ---
 
 ## Ongoing
