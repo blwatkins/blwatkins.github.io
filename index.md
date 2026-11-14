@@ -46,7 +46,7 @@ The applications of code are vast and varied; there is space for everyone.
 
 ## Explore
 
-- [Brittni's Portfolio](./portfolio)
+- [Brittni's Portfolio](./portfolio/index.md)
 - [Resources and References](./resources-and-references.md)
 
 ## Subscribe
